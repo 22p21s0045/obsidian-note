@@ -11,11 +11,9 @@
             "id": "2d95798c7b44d72b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT204/Annotation/@Autowired.md",
-                "mode": "source",
-                "source": false
+                "file": "06-INT204-Spring-Rest-Api-DTO.pdf"
               }
             }
           },
@@ -25,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT204/Spring Restful API DTO.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/Annotation/@Autowired.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/Annotation/@Autowired.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/Annotation/@Autowired.md"
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md"
               }
             }
           }
@@ -158,19 +157,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d95798c7b44d72b",
+  "active": "347a85b76639cb5a",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT204/Tips/Optional.md",
+    "Pasted image 20240227232728.png",
+    "Pasted image 20240227232654.png",
+    "Pasted image 20240227232623.png",
+    "Pasted image 20240227232550.png",
+    "Pasted image 20240227232441.png",
+    "Pasted image 20240227232149.png",
+    "Pasted image 20240227232136.png",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+    "06-INT204-Spring-Rest-Api-DTO.pdf",
+    "Google certificate/Play It Safe Manage Security Risks",
+    "Pasted image 20240227210649.png",
+    "Pasted image 20240227212609.png",
+    "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/Annotation/@Autowired.md",
+    "Lecture Kmutt/INT204/Tips/Optional.md",
     "Lecture Kmutt/INT204/Annotation",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
-    "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/Data Entities.md",
     "Lecture Kmutt/INT204/POJO class = Entity.md",
-    "Pasted image 20240227212609.png",
     "Lecture Kmutt/INT204/Tips",
-    "Pasted image 20240227210649.png",
-    "06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204",
     "Lecture Kmutt",
     "2024-02-27.md",
@@ -178,7 +187,7 @@
     "Untitled.canvas",
     "Untitled.md",
     "Akkarawit Sittiprakan.png",
-    "Google certificate/module-1",
+    "Google certificate/Play It Safe Manage Security Risks/module-1",
     "Google certificate"
   ]
 }
