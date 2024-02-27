@@ -7,3 +7,4 @@
     - `name` variable to store someone's name.
     - `age` variable to store their age.
     - `favoriteColor` variable to store their favorite color, etc.
+[[Data Entities]]

@@ -13,4 +13,4 @@
 ![[Pasted image 20240227232441.png]]![[Pasted image 20240227232550.png]]
 ![[Pasted image 20240227232623.png]]
 ![[Pasted image 20240227232654.png]]
-![[Pasted image 20240227232728.png]]
+![[Pasted image 20240227232728.png]][[Key Impact]]

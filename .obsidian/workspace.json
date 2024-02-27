@@ -11,26 +11,15 @@
             "id": "2d95798c7b44d72b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06-INT204-Spring-Rest-Api-DTO.pdf"
-              }
-            }
-          },
-          {
-            "id": "347a85b76639cb5a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md"
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md"
               }
             }
           }
@@ -144,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "347a85b76639cb5a",
+  "active": "2d95798c7b44d72b",
   "lastOpenFiles": [
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
+    "06-INT204-Spring-Rest-Api-DTO.pdf",
+    "Lecture Kmutt/INT204/Spring Restful API DTO.md",
+    "Lecture Kmutt/INT204/POJO class = Entity.md",
+    "Lecture Kmutt/INT204/Tips/Optional.md",
+    "Pasted image 20240227232939.png",
     "Pasted image 20240227232728.png",
     "Pasted image 20240227232654.png",
     "Pasted image 20240227232623.png",
@@ -166,19 +162,13 @@
     "Pasted image 20240227232441.png",
     "Pasted image 20240227232149.png",
     "Pasted image 20240227232136.png",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
-    "06-INT204-Spring-Rest-Api-DTO.pdf",
     "Google certificate/Play It Safe Manage Security Risks",
     "Pasted image 20240227210649.png",
     "Pasted image 20240227212609.png",
-    "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/Annotation/@Autowired.md",
-    "Lecture Kmutt/INT204/Tips/Optional.md",
     "Lecture Kmutt/INT204/Annotation",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT204/Data Entities.md",
-    "Lecture Kmutt/INT204/POJO class = Entity.md",
     "Lecture Kmutt/INT204/Tips",
     "Lecture Kmutt/INT204",
     "Lecture Kmutt",
@@ -186,7 +176,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled.md",
-    "Akkarawit Sittiprakan.png",
     "Google certificate/Play It Safe Manage Security Risks/module-1",
     "Google certificate"
   ]
