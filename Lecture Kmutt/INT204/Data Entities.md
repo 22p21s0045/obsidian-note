@@ -98,3 +98,43 @@ public class Office {
 }
 ```
 
+# Order
+``` java
+@Entity  
+@Data  
+@Table(name = "orders")  
+public class Order {  
+    @Id  
+    private Integer orderNumber;  
+    private Date orderDate;  
+    private Date requiredDate;  
+    private Date shippedDate;  
+    private String status;  
+    private String comments;  
+    private Integer customerNumber;  
+    static SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy");  
+    public String getOrderDate() {  
+        return sdf.format(orderDate);  
+    }
+```
+
+Product
+```java
+@Entity  
+@Table(name="products")  
+@Data  
+public class Product {  
+    @Id  
+    private String productCode;  
+    private String productName;  
+    private String productLine;  
+    private String productScale;  
+    private String productVendor;  
+    private String productDescription;  
+    private Integer quantityInStock;  
+    @JsonIgnore  
+    private Double buyPrice;  
+    @Column(name = "msrp")  
+    private Double price;  
+}
+```
