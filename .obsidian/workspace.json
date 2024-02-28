@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "40d868b223def19e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Recap Exam lab 1.md"
+              }
+            }
+          },
+          {
             "id": "420bf99900366eba",
             "type": "leaf",
             "state": {
@@ -28,6 +38,16 @@
                 "file": "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0137ce6ac26e0e8a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
               }
             }
           },
@@ -42,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -179,14 +199,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad2d7915b82cbcab",
+  "active": "40d868b223def19e",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 LAB/Trunk port.md",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+    "Excalidraw/Recap Exam lab 1.md",
+    "Lecture Kmutt/INT208 LAB/materials",
+    "Excalidraw/aws-serverless-icons-v2 1.excalidrawlib",
+    "Excalidraw/aws-serverless-icons-v2.excalidrawlib",
     "Pasted Image 20240228212854_510.png",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
-    "Excalidraw/Recap Exam lab 1.md",
     "Pasted Image 20240228211230_686.png",
-    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
     "Lecture Kmutt/INT203/Vue Life Cycle.md",
@@ -203,21 +229,14 @@
     "Lecture Kmutt/INT210/materials",
     "Lecture Kmutt/INT210",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
-    "Lecture Kmutt/INT208 LAB/Trunk port.md",
     "Pasted image 20240227232939.png",
     "Pasted image 20240228091644.png",
     "Pasted image 20240228144311.png",
-    "Pasted image 20240228142018.png",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT203/Component.md",
-    "Lecture Kmutt/INT208 LAB",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-02-28.md",
-    "Lecture Kmutt/INT203/material",
-    "Lecture Kmutt/INT208 Lecture",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
-    "Lecture Kmutt/INT203",
     "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/POJO class = Entity.md",
     "Lecture Kmutt/INT204/Tips/Optional.md",
