@@ -79,3 +79,40 @@ console.log("At app.vue with script setup");
 
 # Oncreated 
 จะถูกทําเลย
+
+
+# Execute ทุกครั้งเมื่อมีการเปลี่ยนเเปลงใน DOM
+```js
+onBeforeUpdate(()=>{
+
+  console.log("Before update");
+
+  
+
+})
+
+onUpdated(()=>{
+
+console.log("Updated");
+
+})
+```
+
+```js
+main.js Before Calling createapp() function
+App.vue:7 App.vue ,within script Setup
+App.vue:26 At app.vue with script setup
+App.vue:9 At App.vue before mount
+Footer.vue:14 At Footer.vue Beforemount
+Footer.vue:11 At Footer.vue Mounted
+App.vue:13 At App.vue on mounted
+```
+
+
+# Unmount
+```js
+Before update
+Footer.vue:14 At Footer.vue Beforemount
+Footer.vue:11 At Footer.vue Mounted
+App.vue:23 Updated
+```
