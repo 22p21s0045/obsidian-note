@@ -11,9 +11,21 @@
             "id": "2d95798c7b44d72b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT203/Vue Life Cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0c09bd9891d4675",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf"
+                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf"
               }
             }
           }
@@ -46,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#onBeforeMount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+                "file": "Lecture Kmutt/INT203/Vue Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+                "file": "Lecture Kmutt/INT203/Vue Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf"
+                "file": "Lecture Kmutt/INT203/Vue Life Cycle.md"
               }
             }
           }
@@ -146,7 +159,11 @@
   "active": "2d95798c7b44d72b",
   "lastOpenFiles": [
     "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
+    "Lecture Kmutt/INT203/Vue Life Cycle.md",
+    "Pasted image 20240228093440.png",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+    "Pasted image 20240228092104.png",
+    "Pasted image 20240228091644.png",
     "Lecture Kmutt/INT203/material",
     "Lecture Kmutt/INT208 Lecture",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
@@ -166,16 +183,12 @@
     "Pasted image 20240227232550.png",
     "Pasted image 20240227232441.png",
     "Pasted image 20240227232149.png",
-    "Pasted image 20240227232136.png",
     "Google certificate/Play It Safe Manage Security Risks",
-    "Pasted image 20240227210649.png",
-    "Pasted image 20240227212609.png",
     "Lecture Kmutt/INT204/Annotation/@Autowired.md",
     "Lecture Kmutt/INT204/Annotation",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT204/Data Entities.md",
     "Lecture Kmutt/INT204/Tips",
-    "Lecture Kmutt/INT204",
     "2024-02-27.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
