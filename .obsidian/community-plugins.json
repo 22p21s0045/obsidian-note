@@ -2,5 +2,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-linter",
   "obsidian-git",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-excalidraw-plugin"
 ]
