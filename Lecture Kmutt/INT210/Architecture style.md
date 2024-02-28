@@ -36,3 +36,8 @@ but it <mark style="background: #FF5582A6;">difficult</mark> to choose
 ![[Pasted image 20240228160430.png]]
 - อาาจะต้องเเปะ service อะไรไปบางอย่างตลอด เช่น monitoring
 - service plane เป็นระบบที่จะควบคุมส่วน monitoring ใน node ต่างๆ
+
+
+
+[[[Orchestration vs Choreography | Camunda](https://camunda.com/blog/2023/02/orchestration-vs-choreography/)
+

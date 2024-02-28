@@ -4,20 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "caf6faeda6c9ca11",
+        "id": "27adae5d89a653c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c76502a8518bad",
+            "id": "a15a6c6eca5a2404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420bf99900366eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad2d7915b82cbcab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md"
+                "file": "Excalidraw/Recap Exam lab 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md",
+                "file": "Excalidraw/Recap Exam lab 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md",
+                "file": "Excalidraw/Recap Exam lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +158,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md"
+                "file": "Excalidraw/Recap Exam lab 1.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,19 +179,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4c76502a8518bad",
+  "active": "ad2d7915b82cbcab",
   "lastOpenFiles": [
+    "Pasted Image 20240228212854_510.png",
+    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
+    "Excalidraw/Recap Exam lab 1.md",
+    "Pasted Image 20240228211230_686.png",
+    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
+    "Lecture Kmutt/INT203/Vue Life Cycle.md",
+    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Lecture Kmutt/INT210/Architecture style.md",
+    "vlan.md",
     "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md",
     "Excalidraw",
     "Pasted image 20240228160430.png",
-    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Pasted image 20240228153852.png",
     "Pasted image 20240228153209.png",
     "Pasted image 20240228152917.png",
     "Pasted image 20240228152122.png",
     "Lecture Kmutt/INT210/materials",
-    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
     "Lecture Kmutt/INT210",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
     "Lecture Kmutt/INT208 LAB/Trunk port.md",
@@ -175,22 +208,16 @@
     "Pasted image 20240228091644.png",
     "Pasted image 20240228144311.png",
     "Pasted image 20240228142018.png",
-    "Pasted image 20240228140025.png",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT203/Component.md",
     "Lecture Kmutt/INT208 LAB",
-    "Lecture Kmutt/INT203/Vue Life Cycle.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "2024-02-28.md",
     "Lecture Kmutt/INT203/material",
     "Lecture Kmutt/INT208 Lecture",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "Lecture Kmutt/INT203",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
     "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/POJO class = Entity.md",
     "Lecture Kmutt/INT204/Tips/Optional.md",
