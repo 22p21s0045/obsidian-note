@@ -12,3 +12,4 @@ As an analyst, you can explore various areas of cybersecurity that interest you.
 - **Security assessment and testing:** This identifies and mitigates risks, threats, and vulnerabilities through various methods like penetration testing and security audits.
 - **Security operations:** This focuses on managing, preventing, and investigating threats and incidents. It involves various activities like training, incident management, and forensics.
 - **Software development security:** This emphasizes incorporating secure practices throughout the software development lifecycle to create secure applications.
+[[Threats, risks, and vulnerabilities]]
