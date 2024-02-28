@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-                "mode": "source",
+                "file": "Lecture Kmutt/INT208 LAB/Trunk port.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
+                "file": "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,11 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c5edfb35952293f",
+  "active": "b4c76502a8518bad",
   "lastOpenFiles": [
-    "Pasted image 20240228142018.png",
-    "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+    "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
+    "Lecture Kmutt/INT208 LAB/Trunk port.md",
+    "Pasted image 20240227232939.png",
+    "Pasted image 20240228091644.png",
+    "Pasted image 20240228144311.png",
+    "Pasted image 20240228142018.png",
     "Pasted image 20240228140025.png",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT203/Component.md",
@@ -184,8 +189,6 @@
     "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "2024-02-28.md",
     "Pasted image 20240228093440.png",
-    "Pasted image 20240228092104.png",
-    "Pasted image 20240228091644.png",
     "Lecture Kmutt/INT203/material",
     "Lecture Kmutt/INT208 Lecture",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
@@ -198,8 +201,6 @@
     "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/POJO class = Entity.md",
     "Lecture Kmutt/INT204/Tips/Optional.md",
-    "Pasted image 20240227232939.png",
-    "Pasted image 20240227232728.png",
     "Google certificate/Play It Safe Manage Security Risks",
     "Lecture Kmutt/INT204/Annotation/@Autowired.md",
     "Lecture Kmutt/INT204/Annotation",
