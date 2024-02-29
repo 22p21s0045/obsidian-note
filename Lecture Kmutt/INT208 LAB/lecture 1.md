@@ -24,3 +24,22 @@ Accesspoint เสาร์ขอากาศ
 
 EIRP
 - ค่าตัวเลขความเเรงสัญญาณ
+
+SNR
+- ความเสี่ยงในการรบกวนสัญญาณ
+
+
+Accesspoint can check noise for mange power to sent
+
+RSSI
+- ผู้รับ
+- ยิ่งลบน้อยๆสัญญาณดี
+
+Roamming Support
+- Roamming must config
+
+
+Transimig beamforming
+- พยายามยิงให้ตรง user
+![[Pasted image 20240229152339.png]]
+
