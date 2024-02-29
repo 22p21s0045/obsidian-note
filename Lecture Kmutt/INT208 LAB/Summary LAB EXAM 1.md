@@ -62,3 +62,5 @@ C(vlan200)# tagged 14
 show vlan
 ```
 [[Trunk port]]
+
+[[Recap Exam lab 1]]

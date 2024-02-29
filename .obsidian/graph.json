@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Google file:",
+      "color": {
+        "a": 1,
+        "rgb": 12022129
+      }
+    },
+    {
+      "query": "path:\"Lecture Kmutt\" path:\"Lecture Kmutt/INT203\" section:()",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9969663661197327,
+  "scale": 0.8001718425533759,
   "close": true
 }

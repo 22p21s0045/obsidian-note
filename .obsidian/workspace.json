@@ -4,65 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "27adae5d89a653c9",
+        "id": "530f71ce97575846",
         "type": "tabs",
         "children": [
           {
-            "id": "a15a6c6eca5a2404",
+            "id": "85015b38264add1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40d868b223def19e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
-              }
-            }
-          },
-          {
-            "id": "420bf99900366eba",
+            "id": "b82003dee1941046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+                "file": "Lecture Kmutt/INT206/Media Failures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0137ce6ac26e0e8a",
+            "id": "1eb68ed508417da1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
-              }
-            }
-          },
-          {
-            "id": "ad2d7915b82cbcab",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
+                "file": "Lecture Kmutt/INT206/Backup and Recovery.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 372.5
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Lecture Kmutt/INT206/Backup and Recovery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,9 +127,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Lecture Kmutt/INT206/Backup and Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77fe362c54da25a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf"
               }
             }
           },
@@ -178,15 +170,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
+                "file": "Lecture Kmutt/INT206/Backup and Recovery.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 621.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,51 +192,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40d868b223def19e",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/Trunk port.md",
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 1.md",
+    "Lecture Kmutt/INT206/Human Error.md",
+    "Lecture Kmutt/INT206/Media Failures.md",
+    "Lecture Kmutt/INT206/Backup and Recovery.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Pasted image 20240229094802.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-02-28.md",
+    "2024-02-29.md",
+    "Pasted image 20240229092042.png",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
+    "Lecture Kmutt/INT206/lecture",
+    "Lecture Kmutt/INT206/material",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
+    "Lecture Kmutt/INT206",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
-    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+    "Glossary terms from module 1.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/SSRF.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
     "Excalidraw/Recap Exam lab 1.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/NIST’s Risk Management Framework.md",
+    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Pasted image 20240228234233.png",
+    "Pasted image 20240228234217.png",
+    "Pasted image 20240228234159.png",
+    "Pasted image 20240228234147.png",
+    "Pasted image 20240228233730.png",
+    "Lecture Kmutt/INT208 LAB/Trunk port.md",
+    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT208 LAB/materials",
     "Excalidraw/aws-serverless-icons-v2 1.excalidrawlib",
     "Excalidraw/aws-serverless-icons-v2.excalidrawlib",
     "Pasted Image 20240228212854_510.png",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Pasted Image 20240228211230_686.png",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
     "Lecture Kmutt/INT203/Vue Life Cycle.md",
-    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Lecture Kmutt/INT210/Architecture style.md",
     "vlan.md",
     "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md",
-    "Excalidraw",
     "Pasted image 20240228160430.png",
-    "Pasted image 20240228153852.png",
-    "Pasted image 20240228153209.png",
-    "Pasted image 20240228152917.png",
-    "Pasted image 20240228152122.png",
-    "Lecture Kmutt/INT210/materials",
-    "Lecture Kmutt/INT210",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
-    "Pasted image 20240227232939.png",
-    "Pasted image 20240228091644.png",
-    "Pasted image 20240228144311.png",
     "Lecture Kmutt/INT203/Component.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2024-02-28.md",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
-    "Lecture Kmutt/INT204/Spring Restful API DTO.md",
-    "Lecture Kmutt/INT204/POJO class = Entity.md",
-    "Lecture Kmutt/INT204/Tips/Optional.md",
-    "Lecture Kmutt/INT204/Annotation/@Autowired.md",
-    "Lecture Kmutt/INT204/Data DTO pattern.md",
-    "Lecture Kmutt/INT204/Data Entities.md",
-    "2024-02-27.md",
-    "Untitled.md"
+    "Lecture Kmutt/INT204/Spring Restful API DTO.md"
   ]
 }

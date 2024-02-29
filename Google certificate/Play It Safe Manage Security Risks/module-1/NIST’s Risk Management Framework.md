@@ -1,0 +1,5 @@
+![[Pasted image 20240228233730.png]]![[Pasted image 20240228234147.png]]
+![[Pasted image 20240228234159.png]]
+![[Pasted image 20240228234217.png]]
+![[Pasted image 20240228234233.png]]
+[[Threats, risks, and vulnerabilities]]
