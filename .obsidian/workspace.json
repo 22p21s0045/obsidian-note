@@ -13,38 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT206/Backup and Recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5da3d4c5971f7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raid technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c948594b8522ec31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logical backup.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4f235983cc1e635f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c948594b8522ec31",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 346.5
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -110,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raid technology.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raid technology.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raid technology.md"
+                "file": "Lecture Kmutt/INT208 LAB/lecture 1.md"
               }
             }
           }
@@ -179,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,18 +184,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5da3d4c5971f7b9",
+  "active": "4bd1f5053da4907a",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
+    "Lecture Kmutt/INT208 LAB/lecture 1.md",
     "Lecture Kmutt/INT206/Backup and Recovery.md",
-    "Raid technology.md",
+    "Excalidraw/Recap Exam lab 1.md",
+    "Pasted image 20240227212609.png",
     "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Lecture Kmutt/INT208 LAB/Aruba/Ai Ops.md",
+    "Lecture Kmutt/INT208 LAB/Aruba",
+    "Pasted image 20240229140853.png",
+    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
+    "Raid technology.md",
     "Logical backup.md",
     "Pasted image 20240229103721.png",
     "Physical backup.md",
     "Lecture Kmutt/INT206/Media Failures.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/Human Error.md",
-    "Excalidraw/Recap Exam lab 1.md",
     "Untitled.canvas",
     "Pasted image 20240229094802.png",
     "Untitled 1.canvas",
@@ -231,16 +230,8 @@
     "Lecture Kmutt/INT208 LAB/Trunk port.md",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT208 LAB/materials",
-    "Excalidraw/aws-serverless-icons-v2 1.excalidrawlib",
-    "Excalidraw/aws-serverless-icons-v2.excalidrawlib",
-    "Pasted Image 20240228212854_510.png",
-    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
-    "Pasted Image 20240228211230_686.png",
     "Lecture Kmutt/INT203/Vue Life Cycle.md",
     "Lecture Kmutt/INT210/Architecture style.md",
-    "vlan.md",
-    "Excalidraw/Drawing 2024-02-28 16.07.25.excalidraw.md",
-    "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
-    "Lecture Kmutt/INT203/Component.md"
+    "vlan.md"
   ]
 }
