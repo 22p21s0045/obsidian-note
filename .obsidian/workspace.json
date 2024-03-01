@@ -8,22 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bd1f5053da4907a",
+            "id": "6938cf248ec6ad0a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
+                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "a0d7c834ad454203",
+            "id": "36e52ed93512a44b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "6ece5874465bcd23",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf"
+              }
+            }
+          },
+          {
+            "id": "d3b27d46f4908df5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf"
               }
             }
           }
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf"
               }
             }
           }
@@ -177,28 +199,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0d7c834ad454203",
+  "active": "36e52ed93512a44b",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Pasted image 20240227232728.png",
+    "Lecture Kmutt/INT210-LAB/lecture",
+    "06-INT204-Spring-Rest-Api-DTO.pdf",
+    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
+    "Lecture Kmutt/INT210-LAB/materials",
+    "Lecture Kmutt/INT210-LAB",
+    "Lecture Kmutt/INT210/Untitled",
+    "Lecture Kmutt/INT206/Backup and Recovery.md",
+    "Lecture Kmutt/INT206/Human Error.md",
     "Excalidraw/Music player hobby project.md",
     "Lecture Kmutt/INT208 LAB/lecture 1.md",
     "Pasted image 20240229152339.png",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Excalidraw/Recap Exam lab 1.md",
     "Pasted image 20240227212609.png",
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT208 LAB/Aruba/Ai Ops.md",
-    "Lecture Kmutt/INT208 LAB/Aruba",
     "Pasted image 20240229140853.png",
-    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Raid technology.md",
     "Logical backup.md",
     "Pasted image 20240229103721.png",
     "Physical backup.md",
     "Lecture Kmutt/INT206/Media Failures.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
-    "Lecture Kmutt/INT206/Human Error.md",
     "Untitled.canvas",
     "Pasted image 20240229094802.png",
     "Untitled 1.canvas",
@@ -206,10 +235,7 @@
     "2024-02-29.md",
     "Pasted image 20240229092042.png",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
-    "Lecture Kmutt/INT206/lecture",
-    "Lecture Kmutt/INT206/material",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
-    "Lecture Kmutt/INT206",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
     "Glossary terms from module 1.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/SSRF.md",
@@ -220,11 +246,7 @@
     "Pasted image 20240228234233.png",
     "Pasted image 20240228234217.png",
     "Pasted image 20240228234159.png",
-    "Pasted image 20240228234147.png",
     "Lecture Kmutt/INT208 LAB/Trunk port.md",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
-    "Lecture Kmutt/INT208 LAB/materials",
-    "Lecture Kmutt/INT203/Vue Life Cycle.md",
-    "Lecture Kmutt/INT210/Architecture style.md"
+    "Lecture Kmutt/INT203/Vue Life Cycle.md"
   ]
 }
