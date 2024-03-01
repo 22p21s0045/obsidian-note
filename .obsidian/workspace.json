@@ -16,24 +16,19 @@
                 "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4f235983cc1e635f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c948594b8522ec31",
+            "id": "a0d7c834ad454203",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf"
+                "file": "Excalidraw/Music player hobby project.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+                "file": "Excalidraw/Music player hobby project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+                "file": "Excalidraw/Music player hobby project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
+                "file": "Excalidraw/Music player hobby project.md"
               }
             }
           }
@@ -182,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bd1f5053da4907a",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Excalidraw/Music player hobby project.md",
     "Lecture Kmutt/INT208 LAB/lecture 1.md",
     "Pasted image 20240229152339.png",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
@@ -220,7 +217,6 @@
     "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/NIST’s Risk Management Framework.md",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Pasted image 20240228234233.png",
     "Pasted image 20240228234217.png",
     "Pasted image 20240228234159.png",
@@ -229,7 +225,6 @@
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT208 LAB/materials",
     "Lecture Kmutt/INT203/Vue Life Cycle.md",
-    "Lecture Kmutt/INT210/Architecture style.md",
-    "vlan.md"
+    "Lecture Kmutt/INT210/Architecture style.md"
   ]
 }
