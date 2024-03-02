@@ -2,14 +2,10 @@
 # HP/H3C
 
 ```
-vlan [vlanNumber]
-port gigabitethernet 1/0/[portNumber] to g 1/0/[portNumber]
----------------------------------------------------------------------------------
-interface gigabitethernet 1/0/[portNumberToAnotherSwitch]
-port link-type trunk
-port trunk permit vlan [vlanNumber] [vlanNumber]
-display vlan all
-
+[DeviceA] vlan [vlanNumber] 
+[DeviceA-vlan100] port gigabitethernet 1/0/[portNumber] 
+[DeviceA] vlan [vlanNumber] 
+[DeviceA-vlan200] port gigabitethernet 1/0/[portNumber]
 ```
 
 # Aruba
