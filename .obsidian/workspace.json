@@ -232,23 +232,23 @@
         "y": -104,
         "width": 1148,
         "height": 779,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "6ece5874465bcd23",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Excalidraw/Recap Exam lab 1.md",
     "Aruba config trunk port.md",
     "Spanning tree.md",
     "VLAN.md",
     "VLAN set up.md",
     "Link aggregation setup.md",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/Trunk port.md",
     "Pasted image 20240302102526.png",
-    "Excalidraw/Recap Exam lab 1.md",
     "Pasted Image 20240302101038_106.jpg",
     "Pasted Image 20240302100923_063.png",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
@@ -285,7 +285,6 @@
     "Pasted image 20240229092042.png",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
-    "Glossary terms from module 1.md"
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md"
   ]
 }
