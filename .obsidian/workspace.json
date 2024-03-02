@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN set up.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md"
               }
             }
           }
@@ -168,57 +168,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "f794c8e58b094e4c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "06562c16ea2123d7",
-        "type": "window",
-        "children": [
-          {
-            "id": "10b2789c1841d585",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa644ec6b8229dbc",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
-                  }
-                }
-              },
-              {
-                "id": "795b25d7a6847813",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Recap Exam lab 1.md"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1988,
-        "y": 173,
-        "width": 918,
-        "height": 623,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "795b25d7a6847813",
+  "active": "6ece5874465bcd23",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
     "VLAN set up.md",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Excalidraw/Recap Exam lab 1.md",
+    "Pasted Image 20240302100923_063.png",
+    "Pasted Image 20240302101038_106.jpg",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
     "Set up permit vlan in bridge aggreagation.md",
     "Link aggregation setup.md",
@@ -230,8 +188,6 @@
     "VLAN.md",
     "Lecture Kmutt/INT208 LAB/Trunk port.md",
     "Pasted image 20240302102526.png",
-    "Pasted Image 20240302101038_106.jpg",
-    "Pasted Image 20240302100923_063.png",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
@@ -261,7 +217,6 @@
     "Untitled 1.canvas",
     "2024-02-28.md",
     "2024-02-29.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md"
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md"
   ]
 }
