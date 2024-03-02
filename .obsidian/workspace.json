@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link aggregation setup.md",
+                "file": "VLAN set up.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,10 +205,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1915,
-        "y": -104,
-        "width": 1148,
-        "height": 779,
+        "x": 1988,
+        "y": 173,
+        "width": 918,
+        "height": 623,
         "maximize": true,
         "zoom": 0
       }
@@ -216,13 +216,13 @@
   },
   "active": "795b25d7a6847813",
   "lastOpenFiles": [
-    "Link aggregation setup.md",
-    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Excalidraw/Recap Exam lab 1.md",
-    "Set up permit vlan in bridge aggreagation.md",
-    "Pasted Image 20240228212854_510.png",
-    "VLAN set up.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "VLAN set up.md",
+    "Excalidraw/Recap Exam lab 1.md",
+    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
+    "Set up permit vlan in bridge aggreagation.md",
+    "Link aggregation setup.md",
+    "Pasted Image 20240228212854_510.png",
     "Spanning tree.md",
     "Lecture Kmutt/INT208 LAB/lecture 1.md",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
