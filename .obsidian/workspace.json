@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
+                "file": "security audit.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#onBeforeMount",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +104,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -122,16 +121,6 @@
             }
           },
           {
-            "id": "77fe362c54da25a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf"
-              }
-            }
-          },
-          {
             "id": "d87d2622a0b7f99a",
             "type": "leaf",
             "state": {
@@ -141,34 +130,13 @@
                 "useHierarchy": false
               }
             }
-          },
-          {
-            "id": "ec6b481c8d83ce04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf"
-              }
-            }
-          },
-          {
-            "id": "9f8120e7aa9c604b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "security audit.md"
-              }
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +149,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f14da44a147d65c",
+  "floating": {
+    "id": "f794c8e58b094e4c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "98f1a0bb18727e1a",
+        "type": "window",
+        "children": [
+          {
+            "id": "913d5bdb7b6ce7c3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f8120e7aa9c604b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "security audit.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1134,
+        "y": 16,
+        "width": 604,
+        "height": 780,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9f8120e7aa9c604b",
   "lastOpenFiles": [
-    "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "security audit.md",
+    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
+    "Control.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
     "Framework.md",
     "Pasted image 20240302161643.png",
     "Pasted image 20240302160922.png",
-    "Control.md",
     "Authoriztion.md",
     "Authentication.md",
     "Encryption.md",
@@ -223,11 +228,9 @@
     "Pasted image 20240227232728.png",
     "Lecture Kmutt/INT210-LAB/lecture",
     "06-INT204-Spring-Rest-Api-DTO.pdf",
-    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Lecture Kmutt/INT210-LAB/materials",
     "Lecture Kmutt/INT210-LAB",
     "Lecture Kmutt/INT206/Backup and Recovery.md",
-    "Lecture Kmutt/INT206/Human Error.md",
     "Pasted image 20240229152339.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
