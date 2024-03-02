@@ -13,23 +13,20 @@ display vlan all
 ```
 
 # Aruba
-```
-configure terminal
+```js
+aruba# configure terminal
+aruba(config)# vlan 100
+aruba(config-vlan 100)# untagged 1-2
+aruba(config)# vlan 200
+aruba(config-vlan 200)# untagged 5-6
+aruba# show vlan 100
+aruba# show vlan 200
 
-C(config)# vlan 100
-
-C(vlan100]# untagged 1-3
-
-C(vlan100]# tagged 14
-
-  
-
-C(config)# vlan 200
-
-C(vlan200)# untagged 4-6
-
-C(vlan200)# tagged 14
-
-show vlan
 ```
 
+output:
+```
+VLAN Name Status Ports 
+------ ---------- -------- 
+100 Active Gi0/1, Gi0/2, Fa0/0 (untagged)
+```
