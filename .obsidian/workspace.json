@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
+                "file": "Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c7871f1bca0c92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b813dfc3c1f8950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab4fcfee6abc284c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49668193c8733215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
+                "file": "Control.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
+                "file": "Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md"
+                "file": "Control.md"
               }
             }
           }
@@ -170,6 +218,18 @@
   },
   "active": "6ece5874465bcd23",
   "lastOpenFiles": [
+    "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
+    "Framework.md",
+    "Authoriztion.md",
+    "Control.md",
+    "Authentication.md",
+    "Encryption.md",
+    "Pasted image 20240302154612.png",
+    "Pasted image 20240302154205.png",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-2",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/SSRF.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
     "VLAN set up.md",
@@ -198,25 +258,13 @@
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Lecture Kmutt/INT210-LAB/materials",
     "Lecture Kmutt/INT210-LAB",
-    "Lecture Kmutt/INT210/Untitled",
     "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Lecture Kmutt/INT206/Human Error.md",
     "Excalidraw/Music player hobby project.md",
     "Pasted image 20240229152339.png",
     "Pasted image 20240227212609.png",
-    "Lecture Kmutt/INT208 LAB/Aruba/Ai Ops.md",
     "Pasted image 20240229140853.png",
-    "Raid technology.md",
-    "Logical backup.md",
-    "Pasted image 20240229103721.png",
-    "Physical backup.md",
-    "Lecture Kmutt/INT206/Media Failures.md",
-    "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Untitled.canvas",
-    "Pasted image 20240229094802.png",
-    "Untitled 1.canvas",
-    "2024-02-28.md",
-    "2024-02-29.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md"
+    "Untitled 1.canvas"
   ]
 }
