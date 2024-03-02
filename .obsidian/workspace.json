@@ -11,11 +11,9 @@
             "id": "6ece5874465bcd23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "security audit.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Music player hobby project.md"
               }
             }
           },
@@ -81,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security audit.md",
+                "file": "Excalidraw/Music player hobby project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security audit.md",
+                "file": "Excalidraw/Music player hobby project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,45 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "f794c8e58b094e4c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "98f1a0bb18727e1a",
-        "type": "window",
-        "children": [
-          {
-            "id": "913d5bdb7b6ce7c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9f8120e7aa9c604b",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "security audit.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1133,
-        "y": 16,
-        "width": 609,
-        "height": 783,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9f8120e7aa9c604b",
+  "active": "6ece5874465bcd23",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Excalidraw/Recap Exam lab 1.md",
     "security audit.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Control.md",
     "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
@@ -207,7 +172,6 @@
     "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
     "VLAN set up.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
-    "Excalidraw/Recap Exam lab 1.md",
     "Pasted Image 20240302100923_063.png",
     "Pasted Image 20240302101038_106.jpg",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
@@ -229,7 +193,6 @@
     "Lecture Kmutt/INT210-LAB/lecture",
     "06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT210-LAB/materials",
-    "Lecture Kmutt/INT210-LAB",
     "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Pasted image 20240229152339.png",
     "Untitled.canvas",
