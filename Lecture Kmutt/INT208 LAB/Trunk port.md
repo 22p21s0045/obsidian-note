@@ -37,3 +37,4 @@ Imagine a highway with multiple lanes:
 - A trunk port is configured to handle traffic from **multiple VLANs**.
 - It **doesn't belong to a single specific VLAN** like an access port.
 
+[[Aruba config trunk port]]

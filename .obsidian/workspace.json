@@ -18,12 +18,38 @@
             }
           },
           {
-            "id": "aa644ec6b8229dbc",
+            "id": "17d20a2052d80e0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
+                "file": "Spanning tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "126ff6363e33d196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLAN set up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05f92571a55b1c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLAN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -176,10 +202,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "f794c8e58b094e4c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "06562c16ea2123d7",
+        "type": "window",
+        "children": [
+          {
+            "id": "10b2789c1841d585",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa644ec6b8229dbc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1915,
+        "y": -104,
+        "width": 1148,
+        "height": 779,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "6ece5874465bcd23",
   "lastOpenFiles": [
+    "Aruba config trunk port.md",
+    "Spanning tree.md",
+    "VLAN.md",
+    "VLAN set up.md",
+    "Link aggregation setup.md",
+    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT208 LAB/Trunk port.md",
+    "Pasted image 20240302102526.png",
     "Excalidraw/Recap Exam lab 1.md",
+    "Pasted Image 20240302101038_106.jpg",
+    "Pasted Image 20240302100923_063.png",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
@@ -215,15 +286,6 @@
     "Google certificate/Play It Safe Manage Security Risks/module-1/Vulnerability.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
-    "Glossary terms from module 1.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/SSRF.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Key Impact.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/NIST’s Risk Management Framework.md",
-    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Pasted image 20240228234233.png",
-    "Pasted image 20240228234217.png",
-    "Pasted image 20240228234159.png",
-    "Lecture Kmutt/INT208 LAB/Trunk port.md"
+    "Glossary terms from module 1.md"
   ]
 }
