@@ -1,0 +1,1 @@
+The concept of granting <mark style="background: #FFF3A3A6;">access</mark> to specific resources within a system

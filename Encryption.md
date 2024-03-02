@@ -1,0 +1,1 @@
+**Encryption** is the process of scrambling information or data using algorithms and a secret key, making it unreadable to anyone who doesn't possess the key. It's like a secure lock that protects your data from unauthorized access.
