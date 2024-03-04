@@ -11,9 +11,47 @@
             "id": "6ece5874465bcd23",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md"
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-3/overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9430cffe469d1159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIEM tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "296d2f753935dc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIEM dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ddbe4de951b2281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md",
+                "file": "SIEM tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md",
+                "file": "SIEM tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Music player hobby project.md"
+                "file": "SIEM tools.md"
               }
             }
           }
@@ -157,8 +196,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82e47e395a9af147",
+  "active": "9430cffe469d1159",
   "lastOpenFiles": [
+    "Google certificate/Play It Safe Manage Security Risks/module-3/overview.md",
+    "SIEM tools.md",
+    "SIEM dashboard.md",
+    "Log.md",
+    "Excalidraw/Music player hobby project.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-3",
     "Excalidraw/Recap Exam lab 1.md",
     "security audit.md",
     "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
@@ -191,18 +236,13 @@
     "Lecture Kmutt/INT208 LAB/lecture 1.md",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
     "Aruba config trunk port.md",
-    "VLAN.md",
-    "Lecture Kmutt/INT208 LAB/Trunk port.md",
     "Pasted image 20240302102526.png",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
-    "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9.pdf",
     "Pasted image 20240227232728.png",
     "Lecture Kmutt/INT210-LAB/lecture",
     "06-INT204-Spring-Rest-Api-DTO.pdf",
-    "Lecture Kmutt/INT210-LAB/materials",
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Pasted image 20240229152339.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
