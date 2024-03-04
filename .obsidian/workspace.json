@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a387397ce1e00b75",
+        "id": "a3802a28b2d084aa",
         "type": "tabs",
         "children": [
           {
-            "id": "712b5c0db6e1b9d7",
+            "id": "e2d229f41e87a00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT204/Repository.md",
+                "file": "Lecture Kmutt/INT204/Annotation/Annotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spanning-tree",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/Repository.md",
+                "file": "Lecture Kmutt/INT204/Annotation/Annotation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/Repository.md",
+                "file": "Lecture Kmutt/INT204/Annotation/Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/Repository.md"
+                "file": "Lecture Kmutt/INT204/Annotation/Annotation.md"
               }
             }
           }
@@ -147,9 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "712b5c0db6e1b9d7",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT204/Annotation/@Autowired.md",
+    "Lecture Kmutt/INT204/Annotation/Annotation.md",
     "Lecture Kmutt/INT204/Repository.md",
     "Lecture Kmutt/INT204/Default config.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",

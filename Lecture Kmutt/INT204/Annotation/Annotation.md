@@ -1,4 +1,5 @@
-@Autowired is an annotation used in Spring Boot to enable <mark style="background: #FFF3A3A6;">automatic dependency </mark>injection. It allows the Spring container to provide an instance of a required dependency when a bean is created. This annotation can be used on fields, constructors, and methods to have Spring provide the dependencies automatically. Dependency injection is a design pattern in which objects are passed their dependencies rather than creating them internally. In Spring Boot, **`@Autowired`** is used to inject objects into other objects. This allows for loose coupling between components and helps to keep code more maintainable.
+# @Autowired 
+an annotation used in Spring Boot to enable <mark style="background: #FFF3A3A6;">automatic dependency </mark>injection. It allows the Spring container to provide an instance of a required dependency when a bean is created. This annotation can be used on fields, constructors, and methods to have Spring provide the dependencies automatically. Dependency injection is a design pattern in which objects are passed their dependencies rather than creating them internally. In Spring Boot, **`@Autowired`** is used to inject objects into other objects. This allows for loose coupling between components and helps to keep code more maintainable.
 
 
 # @RestController
@@ -14,4 +15,21 @@
 Let’s start with the @Entity annotation. This annotation, part of the javax.persistence package, is used at the class level and marks the class as a persistent entity. It signals to the JPA provider that the class should be treated as a table in the database.
 
 # **@Column 
-annotation is used for Adding the column the name in the table of a particular MySQL database.**
+annotation is used for Adding the column the name in the table of a particular MySQL database.
+	<mark style="background: #FFF3A3A6;">Name of Column </mark>must same in Database
+#join
+# @JoinColumn
+assign foreign key field
+#onetoone #mapping-example
+## _@OneToOne_ Mapping Example**[](https://www.baeldung.com/jpa-join-column#oneToOne_mapping)
+
+The _@JoinColumn_ annotation combined with a _@OneToOne_ mapping indicates that a given column in the owner entity refers to a primary key in the reference entity:
+
+```java
+@Entity
+public class Office {
+    @OneToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "addressId")
+    private Address address;
+}
+```
