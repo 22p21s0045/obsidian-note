@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
+                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
               }
             }
           }
@@ -155,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bf27726801d1a45",
+  "active": "289fd981c371e919",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Excalidraw/Recap Exam lab 1.md",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Pasted Image 20240304133418_572.png",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",

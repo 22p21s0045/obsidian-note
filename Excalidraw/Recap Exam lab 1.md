@@ -414,8 +414,8 @@ SW-D ^krx24PPe
 
 sw-A
 sysview
-interface link-aggregation 1
-port link-aggregation mode dynamic
+interface bridge-aggregation 1
+link-aggregation mode dynamic
 quit
 interface GigabitEthernet 1/0/7
 port link-aggregation group 1
@@ -460,7 +460,55 @@ port gigabitEthernet 1/0/9 to g1/0/10
 
 sw-B
 systemview
+interface bridge-aggregation 1
+link-aggregation mode dynamic
+quit
+interface GigabitEthernet 1/0/9
+port link-aggregatin group 1
+quit
+interface GigabitEthernet 1/0/10
+port link-aggregation group 1 
+
+interface Bridge-aggregation 1
+port link-type trunk
+port trunk permit vlan all
+vlan 100
+port GigabitEhernet 1/0/4 to g1/0/6
+
+display link-aggregation verbose
+
+stp enable
+
+interface Bridge-aggregation 2
+link-mode dynamic
+interface GigabiyEthernet 1/0/11
+port link-aggregation group 2
+quit
+interface GigabiyEthernet 1/0/12
+port link-aggregation group 2
+
+interface bridge-aggreagtion 2
+
+port link-type trunk
+port trunk permit vlan all
+
+
+
+
  ^7JVtkHVg
+
+sw-C
+ ^C69mX8HS
+
+configure terminal ^1fpxiydb
+
+spanning-tree enable
+trunk 13-14 trk1 lacp
+trunk 3-4 trk2 lacp
+vlan 100
+untagged 5-6
+show lacp
+ ^IYdJQ798
 
 
 # Embedded files
@@ -26750,22 +26798,22 @@ systemview
 			"frameId": null,
 			"roundness": null,
 			"seed": 1697566186,
-			"version": 926,
-			"versionNonce": 409747114,
+			"version": 941,
+			"versionNonce": 83647414,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709534641077,
+			"updated": 1709535201336,
 			"link": null,
 			"locked": false,
-			"text": "sw-A\nsysview\ninterface link-aggregation 1\nport link-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/7\nport link-aggregation group 1\nquit\ninterface GigabitEthernet 1/0/8\nport link-aggregation group 1\nvlan 100\nport GigbitEthernet 1/0/5 to g1/0/6\n\ninterface bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\n\ninteface bridge-aggreagtion 2\nport link-aggreagtion mode dynamic\nquit\ninterface GigabiyEthernet 1/0/2 \n\nport link-aggregation group 2\n\nquit\n\ninterface GigabitEthernet 1/0/1\nport link-aggregation group 2\n\nquit\ninterface bridge aggregation 2\nport link-mode trunk\n\nport trunk permit vlan all\n\nstp enable\n\nvlan 200\nport gigabitEthernet 1/0/9 to g1/0/10\n\n\n\n\n\n",
-			"rawText": "sw-A\nsysview\ninterface link-aggregation 1\nport link-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/7\nport link-aggregation group 1\nquit\ninterface GigabitEthernet 1/0/8\nport link-aggregation group 1\nvlan 100\nport GigbitEthernet 1/0/5 to g1/0/6\n\ninterface bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\n\ninteface bridge-aggreagtion 2\nport link-aggreagtion mode dynamic\nquit\ninterface GigabiyEthernet 1/0/2 \n\nport link-aggregation group 2\n\nquit\n\ninterface GigabitEthernet 1/0/1\nport link-aggregation group 2\n\nquit\ninterface bridge aggregation 2\nport link-mode trunk\n\nport trunk permit vlan all\n\nstp enable\n\nvlan 200\nport gigabitEthernet 1/0/9 to g1/0/10\n\n\n\n\n\n",
+			"text": "sw-A\nsysview\ninterface bridge-aggregation 1\nlink-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/7\nport link-aggregation group 1\nquit\ninterface GigabitEthernet 1/0/8\nport link-aggregation group 1\nvlan 100\nport GigbitEthernet 1/0/5 to g1/0/6\n\ninterface bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\n\ninteface bridge-aggreagtion 2\nport link-aggreagtion mode dynamic\nquit\ninterface GigabiyEthernet 1/0/2 \n\nport link-aggregation group 2\n\nquit\n\ninterface GigabitEthernet 1/0/1\nport link-aggregation group 2\n\nquit\ninterface bridge aggregation 2\nport link-mode trunk\n\nport trunk permit vlan all\n\nstp enable\n\nvlan 200\nport gigabitEthernet 1/0/9 to g1/0/10\n\n\n\n\n\n",
+			"rawText": "sw-A\nsysview\ninterface bridge-aggregation 1\nlink-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/7\nport link-aggregation group 1\nquit\ninterface GigabitEthernet 1/0/8\nport link-aggregation group 1\nvlan 100\nport GigbitEthernet 1/0/5 to g1/0/6\n\ninterface bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\n\ninteface bridge-aggreagtion 2\nport link-aggreagtion mode dynamic\nquit\ninterface GigabiyEthernet 1/0/2 \n\nport link-aggregation group 2\n\nquit\n\ninterface GigabitEthernet 1/0/1\nport link-aggregation group 2\n\nquit\ninterface bridge aggregation 2\nport link-mode trunk\n\nport trunk permit vlan all\n\nstp enable\n\nvlan 200\nport gigabitEthernet 1/0/9 to g1/0/10\n\n\n\n\n\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 1118,
 			"containerId": null,
-			"originalText": "sw-A\nsysview\ninterface link-aggregation 1\nport link-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/7\nport link-aggregation group 1\nquit\ninterface GigabitEthernet 1/0/8\nport link-aggregation group 1\nvlan 100\nport GigbitEthernet 1/0/5 to g1/0/6\n\ninterface bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\n\ninteface bridge-aggreagtion 2\nport link-aggreagtion mode dynamic\nquit\ninterface GigabiyEthernet 1/0/2 \n\nport link-aggregation group 2\n\nquit\n\ninterface GigabitEthernet 1/0/1\nport link-aggregation group 2\n\nquit\ninterface bridge aggregation 2\nport link-mode trunk\n\nport trunk permit vlan all\n\nstp enable\n\nvlan 200\nport gigabitEthernet 1/0/9 to g1/0/10\n\n\n\n\n\n",
+			"originalText": "sw-A\nsysview\ninterface bridge-aggregation 1\nlink-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/7\nport link-aggregation group 1\nquit\ninterface GigabitEthernet 1/0/8\nport link-aggregation group 1\nvlan 100\nport GigbitEthernet 1/0/5 to g1/0/6\n\ninterface bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\n\ninteface bridge-aggreagtion 2\nport link-aggreagtion mode dynamic\nquit\ninterface GigabiyEthernet 1/0/2 \n\nport link-aggregation group 2\n\nquit\n\ninterface GigabitEthernet 1/0/1\nport link-aggregation group 2\n\nquit\ninterface bridge aggregation 2\nport link-mode trunk\n\nport trunk permit vlan all\n\nstp enable\n\nvlan 200\nport gigabitEthernet 1/0/9 to g1/0/10\n\n\n\n\n\n",
 			"lineHeight": 1.25
 		},
 		{
@@ -27407,10 +27455,10 @@ systemview
 		{
 			"id": "7JVtkHVg",
 			"type": "text",
-			"x": 1909.7094665947257,
-			"y": 2526.62114642124,
-			"width": 103.95988464355469,
-			"height": 75,
+			"x": 1917.845852548779,
+			"y": 2516.607165997315,
+			"width": 361.03973388671875,
+			"height": 950,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -27423,22 +27471,565 @@ systemview
 			"frameId": null,
 			"roundness": null,
 			"seed": 1873132470,
-			"version": 23,
-			"versionNonce": 118056746,
+			"version": 810,
+			"versionNonce": 39500726,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709534706517,
+			"updated": 1709535814011,
 			"link": null,
 			"locked": false,
-			"text": "sw-B\nsystemview\n",
-			"rawText": "sw-B\nsystemview\n",
+			"text": "sw-B\nsystemview\ninterface bridge-aggregation 1\nlink-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/9\nport link-aggregatin group 1\nquit\ninterface GigabitEthernet 1/0/10\nport link-aggregation group 1 \n\ninterface Bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\nvlan 100\nport GigabitEhernet 1/0/4 to g1/0/6\n\ndisplay link-aggregation verbose\n\nstp enable\n\ninterface Bridge-aggregation 2\nlink-mode dynamic\ninterface GigabiyEthernet 1/0/11\nport link-aggregation group 2\nquit\ninterface GigabiyEthernet 1/0/12\nport link-aggregation group 2\n\ninterface bridge-aggreagtion 2\n\nport link-type trunk\nport trunk permit vlan all\n\n\n\n\n",
+			"rawText": "sw-B\nsystemview\ninterface bridge-aggregation 1\nlink-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/9\nport link-aggregatin group 1\nquit\ninterface GigabitEthernet 1/0/10\nport link-aggregation group 1 \n\ninterface Bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\nvlan 100\nport GigabitEhernet 1/0/4 to g1/0/6\n\ndisplay link-aggregation verbose\n\nstp enable\n\ninterface Bridge-aggregation 2\nlink-mode dynamic\ninterface GigabiyEthernet 1/0/11\nport link-aggregation group 2\nquit\ninterface GigabiyEthernet 1/0/12\nport link-aggregation group 2\n\ninterface bridge-aggreagtion 2\n\nport link-type trunk\nport trunk permit vlan all\n\n\n\n\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 68,
+			"baseline": 943,
 			"containerId": null,
-			"originalText": "sw-B\nsystemview\n",
+			"originalText": "sw-B\nsystemview\ninterface bridge-aggregation 1\nlink-aggregation mode dynamic\nquit\ninterface GigabitEthernet 1/0/9\nport link-aggregatin group 1\nquit\ninterface GigabitEthernet 1/0/10\nport link-aggregation group 1 \n\ninterface Bridge-aggregation 1\nport link-type trunk\nport trunk permit vlan all\nvlan 100\nport GigabitEhernet 1/0/4 to g1/0/6\n\ndisplay link-aggregation verbose\n\nstp enable\n\ninterface Bridge-aggregation 2\nlink-mode dynamic\ninterface GigabiyEthernet 1/0/11\nport link-aggregation group 2\nquit\ninterface GigabiyEthernet 1/0/12\nport link-aggregation group 2\n\ninterface bridge-aggreagtion 2\n\nport link-type trunk\nport trunk permit vlan all\n\n\n\n\n",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "freedraw",
+			"version": 93,
+			"versionNonce": 331572522,
+			"isDeleted": false,
+			"id": "WVvaeO7mUerjAY31rERJF",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1680.2026300593127,
+			"y": 2175.866208566438,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 44.83364841489174,
+			"height": 38.29546592080533,
+			"seed": 795028150,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709535315701,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					14.010528491134664
+				],
+				[
+					0,
+					21.482803226950182
+				],
+				[
+					0,
+					26.152979390661585
+				],
+				[
+					0,
+					28.02105698226933
+				],
+				[
+					0,
+					29.889098943260706
+				],
+				[
+					0,
+					30.82315555437299
+				],
+				[
+					0,
+					31.757176534868904
+				],
+				[
+					0,
+					32.69123314598119
+				],
+				[
+					1.8680419609916044,
+					32.69123314598119
+				],
+				[
+					12.142415268910327,
+					23.350880818557926
+				],
+				[
+					21.482767596333588,
+					14.010528491134664
+				],
+				[
+					28.021056982269556,
+					7.472274735815063
+				],
+				[
+					31.757140904252537,
+					4.670176163711403
+				],
+				[
+					34.55927510697279,
+					1.868041960991377
+				],
+				[
+					35.49329608746848,
+					0.9340209804954611
+				],
+				[
+					36.42731706796417,
+					0
+				],
+				[
+					37.36140930969282,
+					-0.9340566111122826
+				],
+				[
+					38.29543029018873,
+					-0.9340566111122826
+				],
+				[
+					38.29543029018873,
+					-1.8680775916081984
+				],
+				[
+					39.229451270684194,
+					-1.8680775916081984
+				],
+				[
+					40.16347225118011,
+					-1.8680775916081984
+				],
+				[
+					40.16347225118011,
+					-2.802134202720481
+				],
+				[
+					42.03158547340445,
+					-3.736155183215942
+				],
+				[
+					42.965606453900136,
+					-4.670176163711858
+				],
+				[
+					43.89962743439605,
+					-4.670176163711858
+				],
+				[
+					44.83364841489174,
+					-5.6042327748241405
+				],
+				[
+					44.83364841489174,
+					-5.6042327748241405
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 156,
+			"versionNonce": 215695478,
+			"isDeleted": false,
+			"id": "ATXhJMMPIDjTM6mYSfFdh",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1844.9732486460805,
+			"y": 2279.710720391655,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 44.83364841489174,
+			"height": 38.29546592080533,
+			"seed": 468964394,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709535571720,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					14.010528491134664
+				],
+				[
+					0,
+					21.482803226950182
+				],
+				[
+					0,
+					26.152979390661585
+				],
+				[
+					0,
+					28.02105698226933
+				],
+				[
+					0,
+					29.889098943260706
+				],
+				[
+					0,
+					30.82315555437299
+				],
+				[
+					0,
+					31.757176534868904
+				],
+				[
+					0,
+					32.69123314598119
+				],
+				[
+					1.8680419609916044,
+					32.69123314598119
+				],
+				[
+					12.142415268910327,
+					23.350880818557926
+				],
+				[
+					21.482767596333588,
+					14.010528491134664
+				],
+				[
+					28.021056982269556,
+					7.472274735815063
+				],
+				[
+					31.757140904252537,
+					4.670176163711403
+				],
+				[
+					34.55927510697279,
+					1.868041960991377
+				],
+				[
+					35.49329608746848,
+					0.9340209804954611
+				],
+				[
+					36.42731706796417,
+					0
+				],
+				[
+					37.36140930969282,
+					-0.9340566111122826
+				],
+				[
+					38.29543029018873,
+					-0.9340566111122826
+				],
+				[
+					38.29543029018873,
+					-1.8680775916081984
+				],
+				[
+					39.229451270684194,
+					-1.8680775916081984
+				],
+				[
+					40.16347225118011,
+					-1.8680775916081984
+				],
+				[
+					40.16347225118011,
+					-2.802134202720481
+				],
+				[
+					42.03158547340445,
+					-3.736155183215942
+				],
+				[
+					42.965606453900136,
+					-4.670176163711858
+				],
+				[
+					43.89962743439605,
+					-4.670176163711858
+				],
+				[
+					44.83364841489174,
+					-5.6042327748241405
+				],
+				[
+					44.83364841489174,
+					-5.6042327748241405
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 129,
+			"versionNonce": 1875631594,
+			"isDeleted": false,
+			"id": "E1agQ8SkPAIA04Pnc3sfR",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1828.7708347559321,
+			"y": 2180.9278968500143,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 44.83364841489174,
+			"height": 38.29546592080533,
+			"seed": 1780800938,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709536558308,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					14.010528491134664
+				],
+				[
+					0,
+					21.482803226950182
+				],
+				[
+					0,
+					26.152979390661585
+				],
+				[
+					0,
+					28.02105698226933
+				],
+				[
+					0,
+					29.889098943260706
+				],
+				[
+					0,
+					30.82315555437299
+				],
+				[
+					0,
+					31.757176534868904
+				],
+				[
+					0,
+					32.69123314598119
+				],
+				[
+					1.8680419609916044,
+					32.69123314598119
+				],
+				[
+					12.142415268910327,
+					23.350880818557926
+				],
+				[
+					21.482767596333588,
+					14.010528491134664
+				],
+				[
+					28.021056982269556,
+					7.472274735815063
+				],
+				[
+					31.757140904252537,
+					4.670176163711403
+				],
+				[
+					34.55927510697279,
+					1.868041960991377
+				],
+				[
+					35.49329608746848,
+					0.9340209804954611
+				],
+				[
+					36.42731706796417,
+					0
+				],
+				[
+					37.36140930969282,
+					-0.9340566111122826
+				],
+				[
+					38.29543029018873,
+					-0.9340566111122826
+				],
+				[
+					38.29543029018873,
+					-1.8680775916081984
+				],
+				[
+					39.229451270684194,
+					-1.8680775916081984
+				],
+				[
+					40.16347225118011,
+					-1.8680775916081984
+				],
+				[
+					40.16347225118011,
+					-2.802134202720481
+				],
+				[
+					42.03158547340445,
+					-3.736155183215942
+				],
+				[
+					42.965606453900136,
+					-4.670176163711858
+				],
+				[
+					43.89962743439605,
+					-4.670176163711858
+				],
+				[
+					44.83364841489174,
+					-5.6042327748241405
+				],
+				[
+					44.83364841489174,
+					-5.6042327748241405
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"id": "C69mX8HS",
+			"type": "text",
+			"x": 2349.823168403749,
+			"y": 2532.999218858998,
+			"width": 44.13995361328125,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 952888874,
+			"version": 10,
+			"versionNonce": 1502260406,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709536573412,
+			"link": null,
+			"locked": false,
+			"text": "sw-C\n",
+			"rawText": "sw-C\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "sw-C\n",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "1fpxiydb",
+			"type": "text",
+			"x": 2339.869213376932,
+			"y": 2569.828843779063,
+			"width": 171.29983520507812,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1522212982,
+			"version": 40,
+			"versionNonce": 1329793706,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709536600045,
+			"link": null,
+			"locked": false,
+			"text": "configure terminal",
+			"rawText": "configure terminal",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "configure terminal",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "IYdJQ798",
+			"type": "text",
+			"x": 2338.731592479244,
+			"y": 2608.2226920089724,
+			"width": 199.37985229492188,
+			"height": 175,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1901815210,
+			"version": 126,
+			"versionNonce": 1578809974,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709536743675,
+			"link": null,
+			"locked": false,
+			"text": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\nshow lacp\n",
+			"rawText": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\nshow lacp\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 168,
+			"containerId": null,
+			"originalText": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\nshow lacp\n",
 			"lineHeight": 1.25
 		}
 	],
@@ -27457,10 +28048,10 @@ systemview
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1222.7983643194416,
-		"scrollY": -2065.984589496738,
+		"scrollX": -1987.5703051063595,
+		"scrollY": -2107.165471082497,
 		"zoom": {
-			"value": 0.7140661992145658
+			"value": 1.4064761155020284
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
