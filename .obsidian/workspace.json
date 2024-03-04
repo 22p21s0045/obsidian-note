@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIEM tools.md",
+                "file": "Google certificate/Play It Safe Manage Security Risks/module-4/overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afff2a4cb149c3bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "playbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIEM tools.md",
+                "file": "playbook.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIEM tools.md",
+                "file": "playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIEM tools.md"
+                "file": "playbook.md"
               }
             }
           }
@@ -196,10 +208,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9430cffe469d1159",
+  "active": "afff2a4cb149c3bb",
   "lastOpenFiles": [
-    "Google certificate/Play It Safe Manage Security Risks/module-3/overview.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-4/overview.md",
+    "playbook.md",
     "SIEM tools.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-4",
+    "Google certificate/Play It Safe Manage Security Risks/module-3/overview.md",
     "SIEM dashboard.md",
     "Log.md",
     "Excalidraw/Music player hobby project.md",
@@ -234,15 +249,12 @@
     "Pasted Image 20240228212854_510.png",
     "Spanning tree.md",
     "Lecture Kmutt/INT208 LAB/lecture 1.md",
-    "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
-    "Aruba config trunk port.md",
     "Pasted image 20240302102526.png",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9.pdf",
     "Pasted image 20240227232728.png",
     "Lecture Kmutt/INT210-LAB/lecture",
-    "06-INT204-Spring-Rest-Api-DTO.pdf",
     "Pasted image 20240229152339.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
