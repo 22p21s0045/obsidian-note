@@ -4,26 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "836942466d5a0065",
+        "id": "a387397ce1e00b75",
         "type": "tabs",
         "children": [
           {
-            "id": "1bf27726801d1a45",
+            "id": "712b5c0db6e1b9d7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
-              }
-            }
-          },
-          {
-            "id": "289fd981c371e919",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf"
+                "file": "Lecture Kmutt/INT204/Default config.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#spanning-tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Lecture Kmutt/INT204/Default config.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md",
+                "file": "Lecture Kmutt/INT204/Default config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Recap Exam lab 1.md"
+                "file": "Lecture Kmutt/INT204/Default config.md"
               }
             }
           }
@@ -155,9 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bf27726801d1a45",
+  "active": "712b5c0db6e1b9d7",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT204/Default config.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
     "Excalidraw/Recap Exam lab 1.md",
     "Pasted Image 20240304133418_572.png",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
@@ -201,7 +195,6 @@
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9.pdf",
     "Pasted image 20240227232728.png",
-    "Lecture Kmutt/INT210-LAB/lecture",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
