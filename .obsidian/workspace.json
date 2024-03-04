@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -129,6 +128,16 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "530caf93561cd93f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Music player hobby project.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -148,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ece5874465bcd23",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
     "Excalidraw/Recap Exam lab 1.md",
     "security audit.md",
