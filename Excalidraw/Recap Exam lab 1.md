@@ -507,6 +507,8 @@ trunk 13-14 trk1 lacp
 trunk 3-4 trk2 lacp
 vlan 100
 untagged 5-6
+tagged trk1
+tagged trk2
 show lacp
  ^IYdJQ798
 
@@ -28001,7 +28003,7 @@ show lacp
 			"x": 2338.731592479244,
 			"y": 2608.2226920089724,
 			"width": 199.37985229492188,
-			"height": 175,
+			"height": 225,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -28014,22 +28016,22 @@ show lacp
 			"frameId": null,
 			"roundness": null,
 			"seed": 1901815210,
-			"version": 126,
-			"versionNonce": 1578809974,
+			"version": 156,
+			"versionNonce": 1939348138,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709536743675,
+			"updated": 1709539096077,
 			"link": null,
 			"locked": false,
-			"text": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\nshow lacp\n",
-			"rawText": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\nshow lacp\n",
+			"text": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\ntagged trk1\ntagged trk2\nshow lacp\n",
+			"rawText": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\ntagged trk1\ntagged trk2\nshow lacp\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 168,
+			"baseline": 218,
 			"containerId": null,
-			"originalText": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\nshow lacp\n",
+			"originalText": "spanning-tree enable\ntrunk 13-14 trk1 lacp\ntrunk 3-4 trk2 lacp\nvlan 100\nuntagged 5-6\ntagged trk1\ntagged trk2\nshow lacp\n",
 			"lineHeight": 1.25
 		}
 	],
@@ -28048,10 +28050,10 @@ show lacp
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1987.5703051063595,
-		"scrollY": -2107.165471082497,
+		"scrollX": -2160.672080104546,
+		"scrollY": -2541.6755528127337,
 		"zoom": {
-			"value": 1.4064761155020284
+			"value": 1.8401939926455033
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
