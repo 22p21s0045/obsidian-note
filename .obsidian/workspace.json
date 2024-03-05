@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "50e4d88752fb3b7d",
+        "id": "310d32e1fb677732",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9474e8f5085f5c",
+            "id": "59d3fcaaf876bcfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT210/Architecture style.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210/Architecture style.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210/Architecture style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lecture Kmutt/INT210/Architecture style.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,35 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "82e47e395a9af147",
+  "active": "59d3fcaaf876bcfa",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/lecture/lecture 1.md",
+    "Lecture Kmutt/INT208 LAB/lecture 1.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/NIST’s Risk Management Framework.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Log4Shell (CVE-2021–44228).md",
+    "Lecture Kmutt/INT210/Architecture style.md",
+    "dependency-knowledge/Authentication.md",
+    "dependency-knowledge/Aruba config trunk port.md",
+    "dependency-knowledge/VLAN.md",
+    "dependency-knowledge/VLAN set up.md",
+    "dependency-knowledge/Spanning tree.md",
+    "dependency-knowledge/SIEM tools.md",
+    "dependency-knowledge/SIEM dashboard.md",
+    "dependency-knowledge/Set up permit vlan in bridge aggreagation.md",
+    "dependency-knowledge/security audit.md",
+    "dependency-knowledge/Raid technology.md",
+    "dependency-knowledge/playbook.md",
+    "dependency-knowledge/Physical backup.md",
+    "dependency-knowledge/OM Fiber optic.md",
+    "dependency-knowledge/o6XzbUnYRK6pwAtl0ME25Q_3c91489225e04f408952ba8a8595e0f1_Control-categories.docx",
+    "dependency-knowledge/Logical backup.md",
+    "dependency-knowledge/Log.md",
+    "dependency-knowledge/Link aggregation setup.md",
+    "dependency-knowledge/Glossary terms from module 1.md",
+    "dependency-knowledge/Framework.md",
+    "dependency-knowledge/Encryption.md",
     "dependency-knowledge",
     "Pasted image 20240227210649.png",
     "attachment/Pasted image 20240227210649.png",
@@ -163,39 +182,12 @@
     "attachment/Pasted image 20240302160922.png",
     "attachment",
     "New folder",
-    "Lecture Kmutt/INT206/lecture/lecture 1.md",
-    "Lecture Kmutt/INT206/lecture/Untitled.md",
-    "SIEM tools.md",
-    "Untitled.md",
-    "Control.md",
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
-    "OM Fiber optic.md",
-    "CAT.md",
     "Lecture Kmutt/INT208 Lecture/materials",
-    "Lecture Kmutt/INT204/Annotation/Annotation.md",
     "Lecture Kmutt/INT208 Lecture/lecture",
-    "Lecture Kmutt/INT204/Repository.md",
-    "Lecture Kmutt/INT204/Default config.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
-    "Excalidraw/Recap Exam lab 1.md",
-    "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
-    "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
-    "Excalidraw/Music player hobby project.md",
-    "Lecture Kmutt/INT208 LAB/Trunk port.md",
-    "playbook.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-4/overview.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-4",
-    "Google certificate/Play It Safe Manage Security Risks/module-3/overview.md",
-    "SIEM dashboard.md",
-    "Log.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-3",
-    "security audit.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
-    "Framework.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
