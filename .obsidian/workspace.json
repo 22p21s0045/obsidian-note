@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "310d32e1fb677732",
+        "id": "356797d1da25d75e",
         "type": "tabs",
         "children": [
           {
-            "id": "6f32bdcb677b698f",
+            "id": "0ac3d4d2266541f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
+                "file": "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
+                "file": "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md"
+                "file": "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf"
               }
             }
           }
@@ -148,10 +148,45 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
+  "floating": {
+    "id": "a3b9dcefbd84b899",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a99ec3a1772111bf",
+        "type": "window",
+        "children": [
+          {
+            "id": "fd0fb6a1db421102",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f32bdcb677b698f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2216,
+        "y": 134,
+        "width": 874,
+        "height": 776,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "6f32bdcb677b698f",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
+    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
     "Lecture Kmutt/INT204/lecture",
     "Lecture Kmutt/INT204/materials",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
