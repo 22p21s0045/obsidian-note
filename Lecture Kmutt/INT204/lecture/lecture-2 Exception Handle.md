@@ -26,6 +26,7 @@ return error information in <mark class="hltr-yellow">Body</mark>
 
 # @ExceptionHandler
 - Manager of exception
+- Catch ของ service ทั้งหมด
 ```java
 @ExceptionHandler(ItemNotFoundException.class)  
 @ResponseStatus(HttpStatus.NOT_FOUND)  
