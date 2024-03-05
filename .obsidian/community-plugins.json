@@ -3,5 +3,7 @@
   "obsidian-linter",
   "obsidian-git",
   "highlightr-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "colored-tags",
+  "obsidian-style-settings"
 ]

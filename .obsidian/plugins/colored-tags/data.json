@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 2,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "JPA": 2,
+    "annotation": 3,
+    "join": 4,
+    "onetoone": 5,
+    "mapping-example": 6,
+    "lecture": 7,
+    "database": 8,
+    "SIEM-tool": 9,
+    "spanning-tree": 10,
+    "lecture-1": 11,
+    "DSSS": 12,
+    "QAM": 13,
+    "network-tools": 14,
+    "fiber-optic": 15,
+    "typeofcable": 16,
+    "type-of-cable": 17
+  },
+  "_version": 3
+}
