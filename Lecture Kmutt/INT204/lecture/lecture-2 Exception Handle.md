@@ -34,3 +34,5 @@ public ItemNotFoundException handleItemNotFound(ItemNotFoundException exception)
     return exception;  
 }
 ```
+
+![](https://i.imgur.com/0yXEqqe.png)
