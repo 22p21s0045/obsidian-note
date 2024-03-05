@@ -37,6 +37,12 @@
         "icon": "RiAttachment2",
         "for": "everything",
         "order": 4
+      },
+      {
+        "rule": "dependency-knowledge",
+        "icon": "LiPackage",
+        "for": "everything",
+        "order": 5
       }
     ],
     "extraMargin": {
