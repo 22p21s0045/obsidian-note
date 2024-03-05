@@ -5,5 +5,7 @@
   "highlightr-plugin",
   "obsidian-excalidraw-plugin",
   "colored-tags",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "ollama",
+  "table-extended"
 ]

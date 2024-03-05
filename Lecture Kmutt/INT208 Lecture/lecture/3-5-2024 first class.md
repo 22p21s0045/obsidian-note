@@ -31,6 +31,10 @@
 - ความเร็วสูงระยะใช้งานก็จะน้อยลง
 #type-of-cable
 # Cable
-- CAT
+- [[CAT]]
 	- ส่วนใหญ่ใช้ CAT 5E ขึ้นไป
-- OM [[OM Fiber optic]]
+- [[OM Fiber optic]]
+
+
+# Latency
+- นับทุกๆ node ที่ผ่านไป
