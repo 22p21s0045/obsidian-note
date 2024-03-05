@@ -6,7 +6,6 @@
       {
         "id": "310d32e1fb677732",
         "type": "tabs",
-        "dimension": 59.862385321100916,
         "children": [
           {
             "id": "6f32bdcb677b698f",
@@ -17,23 +16,6 @@
                 "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d22d2f8869fd0e05",
-        "type": "tabs",
-        "dimension": 40.137614678899084,
-        "children": [
-          {
-            "id": "59d3fcaaf876bcfa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf"
               }
             }
           }
