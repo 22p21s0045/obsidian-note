@@ -26,7 +26,10 @@
     "network-tools": 14,
     "fiber-optic": 15,
     "typeofcable": 16,
-    "type-of-cable": 17
+    "type-of-cable": 17,
+    "lecture-2": 18,
+    "status-code": 19,
+    "error": 20
   },
   "_version": 3
 }
