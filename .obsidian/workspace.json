@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a3802a28b2d084aa",
+        "id": "50e4d88752fb3b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "0a83e7d188e00c1b",
+            "id": "5b9474e8f5085f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
+                "file": "Lecture Kmutt/INT210/Architecture style.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b8ec77e984afa816",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/102-Cables.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
+                "file": "Lecture Kmutt/INT210/Architecture style.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
+                "file": "Lecture Kmutt/INT210/Architecture style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md"
+                "file": "Lecture Kmutt/INT210/Architecture style.md"
               }
             }
           }
@@ -154,21 +144,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0a83e7d188e00c1b",
+  "active": "5b9474e8f5085f5c",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 Lecture/materials/102-Cables.pdf",
+    "Pasted image 20240227210649.png",
+    "attachment/Pasted image 20240227210649.png",
+    "attachment/Pasted image 20240305103757.png",
+    "attachment/Pasted image 20240305103342.png",
+    "attachment/Pasted image 20240305102603.jpg",
+    "attachment/Pasted image 20240305101449.png",
+    "attachment/Pasted image 20240305100239.jpg",
+    "attachment/Pasted Image 20240304133418_572.png",
+    "attachment/Pasted image 20240302161643.png",
+    "attachment/Pasted image 20240302160922.png",
+    "attachment/Pasted image 20240302154612.png",
+    "attachment",
+    "New folder",
+    "Lecture Kmutt/INT206/lecture/lecture 1.md",
+    "Lecture Kmutt/INT206/lecture/Untitled.md",
+    "SIEM tools.md",
+    "Untitled.md",
+    "Control.md",
+    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
+    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+    "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
     "OM Fiber optic.md",
     "CAT.md",
-    "Pasted image 20240305103757.png",
-    "Pasted image 20240305103342.png",
-    "Pasted image 20240305102603.jpg",
-    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
-    "Pasted image 20240305101449.png",
-    "Pasted image 20240305100239.jpg",
     "Lecture Kmutt/INT208 Lecture/materials",
     "Lecture Kmutt/INT204/Annotation/Annotation.md",
     "Lecture Kmutt/INT208 Lecture/lecture",
@@ -177,33 +182,20 @@
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
     "Excalidraw/Recap Exam lab 1.md",
-    "Pasted Image 20240304133418_572.png",
     "Lecture Kmutt/INT208 LAB/Summary LAB EXAM 1.md",
     "Lecture Kmutt/INT208 LAB/Link Aggregation (LAG).md",
     "Excalidraw/Music player hobby project.md",
     "Lecture Kmutt/INT208 LAB/Trunk port.md",
     "playbook.md",
     "Google certificate/Play It Safe Manage Security Risks/module-4/overview.md",
-    "SIEM tools.md",
     "Google certificate/Play It Safe Manage Security Risks/module-4",
     "Google certificate/Play It Safe Manage Security Risks/module-3/overview.md",
     "SIEM dashboard.md",
     "Log.md",
     "Google certificate/Play It Safe Manage Security Risks/module-3",
     "security audit.md",
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
-    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
-    "Control.md",
     "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
     "Framework.md",
-    "Pasted image 20240302161643.png",
-    "Pasted image 20240302160922.png",
-    "Authoriztion.md",
-    "Authentication.md",
-    "Encryption.md",
-    "Pasted image 20240302154612.png",
-    "Pasted image 20240302154205.png",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Security domains cybersecurity analysts need to know.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
