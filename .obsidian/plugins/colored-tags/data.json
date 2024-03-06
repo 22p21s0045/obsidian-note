@@ -29,7 +29,10 @@
     "type-of-cable": 17,
     "lecture-2": 18,
     "status-code": 19,
-    "error": 20
+    "error": 20,
+    "prop": 21,
+    "props": 22,
+    "syntax": 23
   },
   "_version": 3
 }
