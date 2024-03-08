@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "de7ace43a3460cdc",
+            "id": "3555d22dfe96f7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,20 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "40a46fd1de1a1444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+                "file": "ReadMe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md"
+                "file": "ReadMe.md"
               }
             }
           }
@@ -183,18 +172,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8bc25a2c17a705d0",
+  "active": "3555d22dfe96f7c7",
   "lastOpenFiles": [
+    "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
+    "ReadMe.md",
+    "Pasted image 20240308130821.png",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
@@ -226,11 +218,9 @@
     "Untitled.canvas",
     "Lecture Kmutt/INT210/Architecture style.md",
     "Lecture Kmutt/INT203/lecture/lecture 2.md",
-    "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Pasted image 20240227210649.png",
     "attachment/Pasted image 20240227210649.png",
     "attachment/Pasted image 20240305103757.png",
-    "attachment/Pasted image 20240305103342.png",
     "Untitled 1.canvas"
   ]
 }
