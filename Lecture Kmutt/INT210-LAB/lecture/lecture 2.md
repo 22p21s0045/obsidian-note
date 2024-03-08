@@ -37,5 +37,7 @@ dwZxK@tqK7
 
 ```js Login to MySQL
 sudo mysql -u root -p
-
 ```
+
+## Set Environment
+![](https://i.imgur.com/TC2zUDk.png)
