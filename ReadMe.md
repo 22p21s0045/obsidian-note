@@ -1,6 +1,5 @@
  This is my note My learning Lecture everything i interest it and lecture feel free if you want to share this to everyone.
-
-![](https://i.imgur.com/AHzG6OF.png)
+![[obsidian-logo.png]]
 
 
 # My Plugin Lists:
