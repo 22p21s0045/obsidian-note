@@ -41,3 +41,13 @@ sudo mysql -u root -p
 
 ## Set Environment
 ![](https://i.imgur.com/TC2zUDk.png)
+
+
+Library I must create authUtils.js
+- getuserByID(id) : fetchapi return objectuser
+- getTokenById(id): return token
+- updateToken(id,updateData): if field not provide not do anything
+- createToken(id) : POST to create token  return void || create id,token,expireAt
+- createUser(userData:object) userdata:{username,email,passoword}
+- extendTokenDuration(id) : now + 7 วัน and updateToken
+- UI log in
