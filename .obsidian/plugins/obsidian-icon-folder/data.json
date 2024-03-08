@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#d85fc8",
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "lecture",
+        "icon": "LiPencil",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "material",
+        "icon": "LiFolderCog",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Tip",
+        "icon": "LiAlertCircle",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "img",
+        "icon": "LiImage",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "attachment",
+        "icon": "RiAttachment2",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "dependency-knowledge",
+        "icon": "LiPackage",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "Overview",
+        "icon": "RaSproutEmblem",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "INT",
+        "icon": "LiBean",
+        "for": "everything",
+        "order": 7
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  }
+}

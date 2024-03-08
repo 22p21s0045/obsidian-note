@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "7d7eb6bdc40be46a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b022bf5e65b81f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc25a2c17a705d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f21142f1e3450301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de7ace43a3460cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49fd17e645f4fe54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a46fd1de1a1444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcce803fd8f9c80d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1989086e4feedadd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e47e395a9af147",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fd21c74445185df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "314478ea6921a2c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ed28777957529bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e17411696a4efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd55706d39601a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "535cb9698e9761ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d87d2622a0b7f99a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "530caf93561cd93f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "8bc25a2c17a705d0",
+  "lastOpenFiles": [
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+    "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2",
+    "06-INT204-Spring-Rest-Api-DTO.pdf",
+    "attachment/Pasted image 20240307084937.png",
+    "attachment/Pasted image 20240307085908.png",
+    "attachment/Pasted image 20240307110540.png",
+    "attachment/Pasted image 20240307235025.png",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
+    "attachment/Pasted image 20240307235610.png",
+    "attachment/Pasted image 20240307235504.png",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Structure of network.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/OSI model.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Standard tools.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
+    "Lecture Kmutt/INT208 LAB/lecture",
+    "Lecture Kmutt/INT206/lecture/Concurrency control.md",
+    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 2.md",
+    "Lecture Kmutt/INT206/lecture/lecture 1.md",
+    "Lecture Kmutt/INT206/lecture/[Concurrency control.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Cloud.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1",
+    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
+    "Lecture Kmutt/INT210/lecture/lecture 2.md",
+    "Untitled.canvas",
+    "Lecture Kmutt/INT210/Architecture style.md",
+    "Lecture Kmutt/INT203/lecture/lecture 2.md",
+    "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
+    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
+    "Pasted image 20240227210649.png",
+    "attachment/Pasted image 20240227210649.png",
+    "attachment/Pasted image 20240305103757.png",
+    "attachment/Pasted image 20240305103342.png",
+    "Untitled 1.canvas"
+  ]
+}
