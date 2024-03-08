@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
               }
             }
           }
@@ -157,10 +158,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8bc25a2c17a705d0",
+  "active": "43117c2e0ac1688b",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
     "Lecture Kmutt/INT210-LAB/materials/INT210-2023-07 UML-DevOps (1).pdf",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
