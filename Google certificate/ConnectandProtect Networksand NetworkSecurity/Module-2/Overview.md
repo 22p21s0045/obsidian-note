@@ -1,3 +1,3 @@
 - [[Network Protocol]]
-- Virtual private Network (VPN) 
+- Virtual private Network  [[VPN]]
 - [[Firewall]]

@@ -11,23 +11,9 @@
             "id": "8bc25a2c17a705d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3555d22dfe96f7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
               }
             }
           },
@@ -43,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
               }
             }
           }
@@ -174,26 +159,30 @@
   },
   "active": "82e47e395a9af147",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT210-LAB/materials/INT210-2023-07 UML-DevOps (1).pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
+    "06-INT204-Spring-Rest-Api-DTO.pdf",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
+    "ReadMe.md",
     "obsidian-logo.png",
     "Pasted image 20240308131513.png",
     "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
-    "ReadMe.md",
     "Pasted image 20240308130821.png",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2",
-    "06-INT204-Spring-Rest-Api-DTO.pdf",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
     "attachment/Pasted image 20240307110540.png",
@@ -207,20 +196,16 @@
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Standard tools.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design.pdf",
-    "Lecture Kmutt/INT208 LAB/lecture",
     "Lecture Kmutt/INT206/lecture/Concurrency control.md",
-    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/lecture/[Concurrency control.md",
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Cloud.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Untitled.canvas",
     "Lecture Kmutt/INT210/Architecture style.md",
     "Pasted image 20240227210649.png",
-    "attachment/Pasted image 20240227210649.png",
     "Untitled 1.canvas"
   ]
 }
