@@ -74,7 +74,8 @@
     "wifi": 61,
     "security": 62,
     "firewall": 63,
-    "vpn": 64
+    "vpn": 64,
+    "review": 65
   },
   "_version": 3
 }
