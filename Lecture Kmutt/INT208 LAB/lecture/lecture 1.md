@@ -1,4 +1,4 @@
-[[wireless LAN design.pdf![[wireless LAN design.pdf]]]]
+[[wireless LAN design -2_compressed.pdf]]
 ![[Pasted image 20240229140853.png]]
 
 Aruba central is <mark style="background: #FFF3A3A6;">cloud</mark>

@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21142f1e3450301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md"
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md"
               }
             }
           }
@@ -197,17 +185,18 @@
   },
   "active": "8bc25a2c17a705d0",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-    "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2",
     "06-INT204-Spring-Rest-Api-DTO.pdf",
@@ -232,14 +221,12 @@
     "Lecture Kmutt/INT206/lecture/[Concurrency control.md",
     "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Cloud.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Untitled.canvas",
     "Lecture Kmutt/INT210/Architecture style.md",
     "Lecture Kmutt/INT203/lecture/lecture 2.md",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
-    "Google certificate/Play It Safe Manage Security Risks/module-1/Threats, risks, and vulnerabilities.md",
     "Pasted image 20240227210649.png",
     "attachment/Pasted image 20240227210649.png",
     "attachment/Pasted image 20240305103757.png",

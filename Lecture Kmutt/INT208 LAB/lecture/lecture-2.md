@@ -1,5 +1,5 @@
 3/7/2024
-[[wireless LAN design.pdf]]
+[[wireless LAN design -2_compressed.pdf]]
 
 Controller wi-fi
 ![](https://i.imgur.com/Oqa3uw0.png)
