@@ -24,4 +24,18 @@ backend API = resource server
 
 ```js Origin
 http://lvm65089.sit.kmutt.ac.th:3000
+
+
+```
+
+
+## Database password
+```
+dwZxK@tqK7
+```
+## Login
+
+```js Login to MySQL
+sudo mysql -u root -p
+
 ```
