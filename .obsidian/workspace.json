@@ -4,32 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "06b022bf5e65b81f",
+        "id": "01d52daebf8b0b47",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc25a2c17a705d0",
+            "id": "97cee49abf2fcde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43117c2e0ac1688b",
+            "id": "04b7bbb3edd0adb9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d23aeee0f44fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Proxy Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080b7f5fae47e502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT210/lecture/lecture 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md"
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md"
               }
             }
           }
@@ -157,8 +184,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8bc25a2c17a705d0",
+  "active": "04b7bbb3edd0adb9",
   "lastOpenFiles": [
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Proxy Server.md",
+    "Lecture Kmutt/INT210/lecture/lecture 2.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Security Zone.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
@@ -167,10 +202,8 @@
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "06-INT204-Spring-Rest-Api-DTO.pdf",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
     "ReadMe.md",
     "obsidian-logo.png",
     "Pasted image 20240308131513.png",
@@ -183,7 +216,6 @@
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
     "attachment/Pasted image 20240307110540.png",
@@ -199,10 +231,6 @@
     "Lecture Kmutt/INT206/lecture/Concurrency control.md",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
-    "Lecture Kmutt/INT206/lecture/[Concurrency control.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Cloud.md",
-    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
-    "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Untitled.canvas",
     "Pasted image 20240227210649.png",
     "Untitled 1.canvas"

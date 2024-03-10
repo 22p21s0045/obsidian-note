@@ -75,7 +75,11 @@
     "security": 62,
     "firewall": 63,
     "vpn": 64,
-    "review": 65
+    "review": 65,
+    "subnet": 66,
+    "proxy": 67,
+    "attack": 68,
+    "intrusion": 69
   },
   "_version": 3
 }

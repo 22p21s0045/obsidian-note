@@ -1,3 +1,5 @@
 - [[Network Protocol]]
 - Virtual private Network  [[VPN]]
 - [[Firewall]]
+- [[Security Zone]]
+- [[Proxy Server]]
