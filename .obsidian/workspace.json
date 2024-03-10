@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md"
               }
             }
           }
@@ -158,10 +157,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "43117c2e0ac1688b",
+  "active": "8bc25a2c17a705d0",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
     "Lecture Kmutt/INT210-LAB/materials/INT210-2023-07 UML-DevOps (1).pdf",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
