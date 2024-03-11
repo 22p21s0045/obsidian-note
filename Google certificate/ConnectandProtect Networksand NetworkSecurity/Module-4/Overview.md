@@ -1,3 +1,4 @@
 - [[Security hardening]]
-- OS hardening 
-- Network hardening practices
+- [[OS hardening]]
+- [[Network Security hardening]]
+

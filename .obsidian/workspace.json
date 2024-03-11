@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4198975e2b6d1983",
+            "id": "5233be7862879ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md"
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md"
               }
             }
           }
@@ -160,9 +160,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4198975e2b6d1983",
+  "active": "5233be7862879ecb",
   "lastOpenFiles": [
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+    "Pasted image 20240311111740.png",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
@@ -205,10 +207,7 @@
     "attachment/Pasted image 20240307235610.png",
     "attachment/Pasted image 20240307235504.png",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Structure of network.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/OSI model.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Standard tools.md",
     "Untitled.canvas",
-    "Pasted image 20240227210649.png",
     "Untitled 1.canvas"
   ]
 }

@@ -80,7 +80,8 @@
     "proxy": 67,
     "attack": 68,
     "intrusion": 69,
-    "spoofing": 70
+    "spoofing": 70,
+    "security-hardening": 71
   },
   "_version": 3
 }
