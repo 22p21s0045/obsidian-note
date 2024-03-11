@@ -25,3 +25,6 @@ The Internet Control Message Protocol (ICMP) is a [network layer](https://www.c
 
 ## ICMP Flood
 - Attacker repeatedly sending ICMP package to server
+
+## Passive packet sniffing
+![](https://i.imgur.com/Ivihnwj.png)
