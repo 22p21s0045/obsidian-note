@@ -79,7 +79,8 @@
     "subnet": 66,
     "proxy": 67,
     "attack": 68,
-    "intrusion": 69
+    "intrusion": 69,
+    "spoofing": 70
   },
   "_version": 3
 }

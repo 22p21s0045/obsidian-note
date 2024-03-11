@@ -4,52 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "01d52daebf8b0b47",
+        "id": "22299394d300f39b",
         "type": "tabs",
         "children": [
           {
-            "id": "97cee49abf2fcde0",
+            "id": "8365f9e35bcb5592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04b7bbb3edd0adb9",
+            "id": "4198975e2b6d1983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92d23aeee0f44fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Proxy Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080b7f5fae47e502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT210/lecture/lecture 2.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md"
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md"
               }
             }
           }
@@ -184,12 +160,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "04b7bbb3edd0adb9",
+  "active": "4198975e2b6d1983",
   "lastOpenFiles": [
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Overview.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Security hardening.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Proxy Server.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Security Zone.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
@@ -214,7 +196,6 @@
     "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
@@ -225,12 +206,7 @@
     "attachment/Pasted image 20240307235504.png",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Structure of network.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/OSI model.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Standard tools.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
-    "Lecture Kmutt/INT206/lecture/Concurrency control.md",
-    "Lecture Kmutt/INT206/lecture/lecture 2.md",
-    "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Untitled.canvas",
     "Pasted image 20240227210649.png",
     "Untitled 1.canvas"

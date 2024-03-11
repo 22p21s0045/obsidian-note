@@ -27,4 +27,18 @@ The Internet Control Message Protocol (ICMP) is a [network layer](https://www.c
 - Attacker repeatedly sending ICMP package to server
 
 ## Passive packet sniffing
+
 ![](https://i.imgur.com/Ivihnwj.png)
+## Active packet sniffing
+Collect and change data and redirect to them
+#spoofing 
+# IP spoofing
+- On path attack : sniff packet and forge
+- Replay attack : replay another time im is authorized user
+- Smurf attack : sent any packet to target use quantity
+
+
+#tips 
+- Replay attack: Involves capturing and replaying valid data transmissions to gain unauthorized access or perform unauthorized actions.
+- On-path attack: Occurs when an attacker intercepts communication between two trusted parties by positioning themselves in the middle of the communication path.
+- Ping of death: An obsolete denial-of-service attack that involves sending malformed or oversized ICMP packets to crash or freeze the target system.
