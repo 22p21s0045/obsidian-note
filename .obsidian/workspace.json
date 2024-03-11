@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md"
+                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5233be7862879ecb",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
     "Pasted image 20240311111740.png",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",

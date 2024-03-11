@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": "#d85fc8",
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiPencilRuler"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
@@ -69,5 +71,6 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "Excalidraw": "LiPencilRuler"
 }
