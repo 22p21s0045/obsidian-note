@@ -11,11 +11,9 @@
             "id": "5fe90c5695374651",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf"
               }
             }
           },
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md"
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf"
               }
             }
           }
@@ -162,8 +159,11 @@
   },
   "active": "5fe90c5695374651",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
+    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
+    "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
@@ -175,7 +175,6 @@
     "Lecture Kmutt/INT206/Recap",
     "obsidian-logo.png",
     "ReadMe.md",
-    "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Docker Essential/Overview.md",
     "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
@@ -198,7 +197,6 @@
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Security Zone.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/INT210-2023-07 UML-DevOps (1).pdf",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",
     "attachment/Pasted image 20240307084937.png",

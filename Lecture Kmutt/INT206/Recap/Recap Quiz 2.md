@@ -14,3 +14,20 @@ Requiring Recovery from Backup
 >[!tip]
 >**DML** command is not auto commit (INSERT, DELETE, LOCK)
 
+## Back up and Recovery
+
+**Backup**
+	- Logfile is **circular fix size**
+	- Datafile
+- Process of periodically taking a copy of the database and log file (and possibl•:
+programs) to offline storage media (disk or tape).
+**Journaling / logfile**
+- Process of keeping and maintaining a log file (or journal) of all changes made
+to database to enable effective recovery in event Of failure.
+
+
+## Backup Concepts
+- What data need to be backed up?
+- Location of systems and files to be backed up?
+- Who performs backups?
+- Time frames for backups?
