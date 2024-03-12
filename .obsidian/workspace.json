@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+                "file": "Docker Essential/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+                "file": "Docker Essential/Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+                "file": "Docker Essential/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md"
+                "file": "Docker Essential/Overview.md"
               }
             }
           }
@@ -159,12 +159,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "82e47e395a9af147",
+  "active": "8365f9e35bcb5592",
   "lastOpenFiles": [
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+    "Docker Essential/Overview.md",
+    "Docker Essential",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Security hardening.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
     "Pasted image 20240311111740.png",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
@@ -196,7 +198,6 @@
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2-compress.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",

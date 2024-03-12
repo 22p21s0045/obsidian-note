@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#d85fc8",
     "recentlyUsedIcons": [
+      "OtDockerSvgrepoCom",
       "LiPencilRuler"
     ],
     "recentlyUsedIconsSize": 5,
@@ -72,5 +73,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Excalidraw": "LiPencilRuler"
+  "Excalidraw": "LiPencilRuler",
+  "Docker Essential": "OtDockerSvgrepoCom"
 }
