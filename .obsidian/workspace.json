@@ -38,8 +38,21 @@
                 "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf"
               }
             }
+          },
+          {
+            "id": "e084990da7da1e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT204/Spring Restful API DTO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
+                "file": "Lecture Kmutt/INT204/lecture/lecture 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
+                "file": "Lecture Kmutt/INT204/lecture/lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf"
+                "file": "Lecture Kmutt/INT204/lecture/lecture 3.md"
               }
             }
           }
@@ -158,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -165,17 +179,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "omnisearch:Omnisearch": false
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5fe90c5695374651",
+  "active": "60195aaf4e7b478b",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT204/lecture/lecture 3.md",
     "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Lecture Kmutt/INT204/Spring Restful API DTO.md",
+    "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
+    "Lecture Kmutt/INT204/lecture/lecture 3.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
@@ -205,8 +220,6 @@
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Proxy Server.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
-    "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",

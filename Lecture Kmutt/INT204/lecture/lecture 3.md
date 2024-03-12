@@ -1,6 +1,9 @@
 3/12/2024
 [Spring Boot @ControllerAdvice & @ExceptionHandler example - BezKoder](https://www.bezkoder.com/spring-boot-controlleradvice-exceptionhandler/)
 
+[Efficient Data Transfer in REST APIs | Stackademic](https://blog.stackademic.com/efficient-data-transfer-in-rest-apis-a-deep-dive-into-the-dto-pattern-with-spring-boot-and-mysql-df2bdf1ece74)
+
+
 ## @NotNull
 -  to say that a field must not be null.
 ## @NotEmpty
