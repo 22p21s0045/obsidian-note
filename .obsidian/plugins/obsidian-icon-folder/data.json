@@ -6,9 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#d85fc8",
     "recentlyUsedIcons": [
+      "RiFilePdf2Fill",
+      "OtGoogle",
+      "OtKmuttLogo",
       "OtKmutt",
-      "OtDockerSvgrepoCom",
-      "LiPencilRuler"
+      "OtDockerSvgrepoCom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -20,9 +22,11 @@
       },
       {
         "rule": "material",
-        "icon": "LiFolderCog",
+        "icon": "OtFolder",
         "for": "everything",
-        "order": 1
+        "order": 1,
+        "color": "#c8cb25",
+        "useFilePath": false
       },
       {
         "rule": "Tip",
@@ -59,6 +63,18 @@
         "icon": "LiBean",
         "for": "everything",
         "order": 7
+      },
+      {
+        "rule": "Recap",
+        "icon": "OtFire",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": ".pdf",
+        "icon": "RiFilePdf2Fill",
+        "for": "everything",
+        "order": 9
       }
     ],
     "extraMargin": {
@@ -76,5 +92,8 @@
   },
   "Excalidraw": "LiPencilRuler",
   "Docker Essential": "OtDockerSvgrepoCom",
-  "Lecture Kmutt": "OtKmutt"
+  "Lecture Kmutt": "OtKmuttLogo",
+  "Google certificate": "OtGoogle",
+  "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf": "RiFilePdf2Fill",
+  "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf": "RiFilePdf2Fill"
 }

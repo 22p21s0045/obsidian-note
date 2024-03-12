@@ -89,7 +89,9 @@
     "lecture-3": 76,
     "encyption": 77,
     "digital-signature": 78,
-    "key": 79
+    "key": 79,
+    "recap": 80,
+    "quiz": 81
   },
   "_version": 3
 }

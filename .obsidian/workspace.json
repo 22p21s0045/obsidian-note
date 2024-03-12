@@ -4,33 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "22299394d300f39b",
+        "id": "8f2211d0ba8e5bec",
         "type": "tabs",
         "children": [
           {
-            "id": "8365f9e35bcb5592",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf"
-              }
-            }
-          },
-          {
-            "id": "dcc251a76e9e5c96",
+            "id": "5fe90c5695374651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "86d3f3a0781e55f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md"
+                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md"
               }
             }
           }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,12 +156,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "dcc251a76e9e5c96",
+  "active": "5fe90c5695374651",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
+    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "Lecture Kmutt/INT206/Backup and Recovery.md",
+    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 1.md",
+    "Lecture Kmutt/INT206/lecture/lecture 2.md",
+    "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
+    "Lecture Kmutt/INT206/Recap",
+    "obsidian-logo.png",
+    "ReadMe.md",
+    "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Docker Essential/Overview.md",
     "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
@@ -172,10 +187,8 @@
     "Docker Essential",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Security hardening.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
     "Pasted image 20240311111740.png",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/OS hardening.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Overview.md",
@@ -183,22 +196,11 @@
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Security Zone.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/VPN.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
-    "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
     "Lecture Kmutt/INT210-LAB/materials/INT210-2023-07 UML-DevOps (1).pdf",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
-    "06-INT204-Spring-Rest-Api-DTO.pdf",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
-    "obsidian-logo.png",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
     "attachment/Pasted image 20240307110540.png",
