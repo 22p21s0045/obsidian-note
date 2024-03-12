@@ -20,18 +20,29 @@
             }
           },
           {
-            "id": "5233be7862879ecb",
+            "id": "39f875321243ddf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
+                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcc251a76e9e5c96",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Essential/Overview.md",
+                "file": "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Essential/Overview.md",
+                "file": "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Essential/Overview.md"
+                "file": "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf"
               }
             }
           }
@@ -159,10 +170,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8365f9e35bcb5592",
+  "active": "dcc251a76e9e5c96",
   "lastOpenFiles": [
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+    "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
+    "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
+    "Docker Essential/Docker Registry.md",
     "Docker Essential/Overview.md",
+    "Docker Essential/LAB 2.md",
+    "Docker Essential/LAB 1.md",
+    "Docker Essential/Container.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
     "Docker Essential",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Security hardening.md",
@@ -189,24 +207,16 @@
     "06-INT204-Spring-Rest-Api-DTO.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Firewall.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/WPA.md",
-    "ReadMe.md",
     "obsidian-logo.png",
     "Pasted image 20240308131513.png",
-    "Google certificate/Play It Safe Manage Security Risks/module-2/Overview.md",
     "Pasted image 20240308130821.png",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
-    "Lecture Kmutt/INT208 LAB/lecture/wireless LAN design.pdf.md",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Format of IPv4.md",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
     "attachment/Pasted image 20240307110540.png",
     "attachment/Pasted image 20240307235025.png",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
     "attachment/Pasted image 20240307235610.png",
     "attachment/Pasted image 20240307235504.png",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/Structure of network.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -81,7 +81,11 @@
     "attack": 68,
     "intrusion": 69,
     "spoofing": 70,
-    "security-hardening": 71
+    "security-hardening": 71,
+    "docker": 72,
+    "container": 73,
+    "lab": 74,
+    "command": 75
   },
   "_version": 3
 }
