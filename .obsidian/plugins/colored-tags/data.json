@@ -85,7 +85,8 @@
     "docker": 72,
     "container": 73,
     "lab": 74,
-    "command": 75
+    "command": 75,
+    "lecture-3": 76
   },
   "_version": 3
 }
