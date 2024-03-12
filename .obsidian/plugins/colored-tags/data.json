@@ -86,7 +86,10 @@
     "container": 73,
     "lab": 74,
     "command": 75,
-    "lecture-3": 76
+    "lecture-3": 76,
+    "encyption": 77,
+    "digital-signature": 78,
+    "key": 79
   },
   "_version": 3
 }

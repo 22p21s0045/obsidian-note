@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#d85fc8",
     "recentlyUsedIcons": [
+      "OtKmutt",
       "OtDockerSvgrepoCom",
       "LiPencilRuler"
     ],
@@ -74,5 +75,6 @@
     "iconIdentifier": ":"
   },
   "Excalidraw": "LiPencilRuler",
-  "Docker Essential": "OtDockerSvgrepoCom"
+  "Docker Essential": "OtDockerSvgrepoCom",
+  "Lecture Kmutt": "OtKmutt"
 }
