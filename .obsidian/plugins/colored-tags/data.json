@@ -93,7 +93,8 @@
     "recap": 80,
     "quiz": 81,
     "vue": 82,
-    "teleport": 83
+    "teleport": 83,
+    "promise": 84
   },
   "_version": 3
 }

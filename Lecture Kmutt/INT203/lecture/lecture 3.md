@@ -1,6 +1,6 @@
 3/13/2024
 [[Chapter7-FetchAPI.pdf]]
-#vue #emit #teleport
+#vue #emit #teleport #lecture-3 
 ## Emits
 
 ![](https://i.imgur.com/ICDHQqI.png)
@@ -46,3 +46,17 @@ function buttonClick() {
 
 
 
+- Register 
+- Call
+#promise
+## Fetch API
+
+### Asynchronous
+refers to something that is **not simultaneous or concurrent in time**. Let’s explore its meaning in different contexts:
+
+### Synchronous Execution
+- In synchronous execution, tasks are performed **sequentially**, one after the other.
+    - When a process (let’s call it **Process A**) initiates a task, it **waits** for that task to complete before moving on to the next one.
+    - Think of it like a relay race where one runner waits for the other to pass the baton before starting their leg.
+
+### Promise
