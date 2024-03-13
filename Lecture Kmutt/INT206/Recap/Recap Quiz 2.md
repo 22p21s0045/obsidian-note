@@ -37,7 +37,13 @@ Physical backups consist of<mark class="hltr-yellow"> raw copies </mark>of the d
 store database contents. This type of backup is suitable for large, important
 databases that need to be recovered quickly when problems occur.
 
+>[!tip]
+>Physical backup is faster than logical backup
+
+
 ## Logical Backup
 Save information with type SQL script
 >[!tip]
 >Logical backup is ==more flexible== 
+
+
