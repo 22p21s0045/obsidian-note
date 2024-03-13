@@ -95,7 +95,9 @@
     "vue": 82,
     "teleport": 83,
     "promise": 84,
-    "rest-api": 85
+    "rest-api": 85,
+    "tester": 86,
+    "software-assurance": 87
   },
   "_version": 3
 }
