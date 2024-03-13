@@ -91,7 +91,9 @@
     "digital-signature": 78,
     "key": 79,
     "recap": 80,
-    "quiz": 81
+    "quiz": 81,
+    "vue": 82,
+    "teleport": 83
   },
   "_version": 3
 }
