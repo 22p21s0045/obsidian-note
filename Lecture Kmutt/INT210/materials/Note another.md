@@ -6,3 +6,5 @@
 - Hash Tag
 - Date post
 - List Todo
+- User can folk plan from another people it copy and assign to my plan 
+- History upvote / down vote
