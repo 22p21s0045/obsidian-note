@@ -31,3 +31,13 @@ to database to enable effective recovery in event Of failure.
 - Location of systems and files to be backed up?
 - Who performs backups?
 - Time frames for backups?
+
+## Physical Backup
+Physical backups consist of<mark class="hltr-yellow"> raw copies </mark>of the directories and files that
+store database contents. This type of backup is suitable for large, important
+databases that need to be recovered quickly when problems occur.
+
+## Logical Backup
+Save information with type SQL script
+>[!tip]
+>Logical backup is ==more flexible== 
