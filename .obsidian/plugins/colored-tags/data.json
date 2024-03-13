@@ -97,7 +97,8 @@
     "promise": 84,
     "rest-api": 85,
     "tester": 86,
-    "software-assurance": 87
+    "software-assurance": 87,
+    "testing": 88
   },
   "_version": 3
 }
