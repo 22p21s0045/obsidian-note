@@ -1,0 +1,8 @@
+- URL image
+- Comment
+- How many up vote / How many down vote
+- Title
+- Description
+- Hash Tag
+- Date post
+- List Todo
