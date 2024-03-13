@@ -60,3 +60,23 @@ refers to something that is **not simultaneous or concurrent in time**. Let’s
     - Think of it like a relay race where one runner waits for the other to pass the baton before starting their leg.
 
 ### Promise
+
+![](https://i.imgur.com/Bl3AgKX.png)
+
+#rest-api
+## Rest API
+
+- Request—This is the data you send to
+the API across HTTP Protocol
+- Response—Any data you get back from
+the server after a successful / failed
+request.
+- Headers—Additional metadata passed to
+	the API to help the server understand
+	what type of request it is dealing with, for
+	example "content-type"
+
+
+>[!tip]
+>.json() return javascript object
+

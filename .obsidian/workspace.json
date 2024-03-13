@@ -37,8 +37,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
+                "file": "Lecture Kmutt/INT203/lecture/lecture 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
+                "file": "Lecture Kmutt/INT203/lecture/lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf"
+                "file": "Lecture Kmutt/INT203/lecture/lecture 3.md"
               }
             }
           }
@@ -168,10 +167,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1f9a0a39a49e52bb",
+  "active": "7f7eae91ad3c101e",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT203/lecture/lecture 3.md",
     "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
+    "Lecture Kmutt/INT203/lecture/lecture 3.md",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
     "Pasted image 20240313094616.png",
     "Lecture Kmutt/INT203/lecture/lecture 2.md",
