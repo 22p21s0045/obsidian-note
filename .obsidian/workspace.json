@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c86ee42a837997b2",
+        "id": "929d3cc8c96cd993",
         "type": "tabs",
         "children": [
           {
-            "id": "be5d8187c46459fe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf"
-              }
-            }
-          },
-          {
-            "id": "11db57091785eca6",
+            "id": "c74e0465f4f0aebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b37a7bcd9f5703a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT206/Backup and Recovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +161,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "11db57091785eca6",
+  "active": "c74e0465f4f0aebf",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/Backup and Recovery.md",
+    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "dependency-knowledge/Physical backup.md",
+    "dependency-knowledge/Logical backup.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
     "Lecture Kmutt/INT210/lecture/lecture 3.md",
-    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT210/materials/Note another.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
@@ -180,7 +184,6 @@
     "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
     "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
@@ -198,7 +201,6 @@
     "Docker Essential/LAB 1.md",
     "Docker Essential/Container.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Overview.md",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",
