@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "4db480dd3dd7a1f5",
+            "id": "b69c3dc7afd3f3a5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf"
-              }
-            }
-          },
-          {
-            "id": "b37a7bcd9f5703a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT206/lecture/Concurrency control.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -172,13 +160,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4db480dd3dd7a1f5",
+  "active": "b69c3dc7afd3f3a5",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
-    "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
-    "INT206_06_Transaction_Management_Part2_02_2023 1.pdf",
+    "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
+    "Pasted image 20240313094616.png",
     "INT206_06_Transaction_Management_Part2_02_2023.pdf",
+    "INT206_06_Transaction_Management_Part2_02_2023 1.pdf",
+    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
@@ -194,7 +183,6 @@
     "Lecture Kmutt/INT203/lecture/lecture 3.md",
     "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
-    "Pasted image 20240313094616.png",
     "Lecture Kmutt/INT203/lecture/lecture 2.md",
     "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
     "Lecture Kmutt/INT204/lecture/lecture 3.md",
@@ -202,7 +190,6 @@
     "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
