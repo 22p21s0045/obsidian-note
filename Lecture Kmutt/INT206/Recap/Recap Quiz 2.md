@@ -161,3 +161,7 @@ ensure serializability
 
 
 ## Locking method
+
+1. **Shared Locks (S):** These locks are used when a database operation needs to <span style="background:#fff88f">read</span> a resource. Multiple transactions can acquire shared locks on the same resource, allowing concurrent read operations. However, no transaction can acquire an exclusive lock on a resource that has a shared lock.
+2. **Exclusive Locks (X):** These locks are used when a database operation needs to <span style="background:#fff88f">modify a resource.</span> Only one transaction can acquire an exclusive lock on a resource, preventing other transactions from acquiring shared or exclusive locks on the same resource.
+![](https://i.imgur.com/RhWPpdJ.png)
