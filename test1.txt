@@ -1,0 +1,379 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.03.14 14:25:07 =~=~=~=~=~=~=~=~=~=~=~=
+
+<H3C>
+#Apr 26 12:17:29:795 2000 H3C SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+%Apr 26 12:17:29:937 2000 H3C SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<H3C>
+<H3C>
+<H3C>
+<H3C>
+<H3C>sysnam
+<H3C>sysname
+     ^
+ % Unrecognized command found at '^' position.
+<H3C>sya s   sysv
+<H3C>sysvie
+<H3C>sysvie   
+<H3C>system-view 
+System View: return to User View with Ctrl+Z.
+[H3C]sys
+[H3C]system-failure           name SW_B
+[SW_B]sysname SW_B  -B
+[SW-B]
+[SW-B]
+[SW-B]vlan 3
+[SW-B-vlan3]port gi
+[SW-B-vlan3]port GigabitEthernet 1/0/3
+[SW-B-vlan3]int
+[SW-B-vlan3]int t
+[SW-B-vlan3]int   quit
+[SW-B]int
+[SW-B]interface vl
+[SW-B]interface Vlan-interface 3
+[SW-B-Vlan-interface3]ip ad
+[SW-B-Vlan-interface3]ip address 15.3.3.254 24
+[SW-B-Vlan-interface3]qit  uit
+[SW-B]vlan 4
+[SW-B-vlan4]port gi
+[SW-B-vlan4]port GigabitEthernet 1/0/4
+[SW-B-vlan4]int
+[SW-B-vlan4]int   quit    int
+[SW-B-vlan4]inter     quit
+[SW-B]int
+[SW-B]interface vlan
+[SW-B]interface Vlan-interface 4
+[SW-B-Vlan-interface4]ip ad
+[SW-B-Vlan-interface4]ip address 15.4.4.254 24
+[SW-B-Vlan-interface4]quit
+[SW-B]osfp  pf 1
+[SW-B-ospf-1]are 0   ea 0
+[SW-B-ospf-1-area-0.0.0.0]net
+[SW-B-ospf-1-area-0.0.0.0]network 15.3.3.0 0.0.0.255
+[SW-B-ospf-1-area-0.0.0.0]net
+[SW-B-ospf-1-area-0.0.0.0]network 15  .4.47 .0 0.0.0.255
+[SW-B-ospf-1-area-0.0.0.0]
+[SW-B-ospf-1-area-0.0.0.0]
+[SW-B-ospf-1-area-0.0.0.0]
+[SW-B-ospf-1-area-0.0.0.0]
+%Apr 26 12:22:34:134 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/3 link status is UP.
+%Apr 26 12:22:34:246 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface3 link status is UP.
+%Apr 26 12:22:34:357 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface3 is UP.
+%Apr 26 12:22:34:741 2000 SW-B LLDP/5/LLDP_DUPLEX_INCONSISTENT: The mode of duplex mismatch discovered on port GigabitEthernet1/0/3 (IfIndex 9437186).
+%Apr 26 12:22:34:934 2000 SW-B LLDP/6/LLDP_CREATE_NEIGHBOR: New neighbor created on Port GigabitEthernet1/0/3 (IfIndex 9437186), Chassis ID is 5CD30199Y8, Port ID is 7c4d-8f07-964e.
+%Apr 26 12:22:56:916 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/4 link status is UP.
+%Apr 26 12:22:57:028 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface4 link status is UP.
+%Apr 26 12:22:57:139 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface4 is UP.
+%Apr 26 12:22:57:282 2000 SW-B LLDP/6/LLDP_CREATE_NEIGHBOR: New neighbor created on Port GigabitEthernet1/0/4 (IfIndex 9437187), Chassis ID is cc3e-5f71-d703, Port ID is GigabitEthernet1/0/4.
+[SW-B-ospf-1-area-0.0.0.0]
+[SW-B-ospf-1-area-0.0.0.0]
+[SW-B-ospf-1-area-0.0.0.0]qiot \   uit
+[SW-B-ospf-1]quit
+[SW-B]di
+[SW-B]display i
+[SW-B]display ipc  ro
+[SW-B]display ip routing-table 
+Routing Tables: Public
+Destinations : 6Routes : 6
+
+Destination/Mask    Proto  Pre  Cost         NextHop         Interface
+
+15.3.3.0/24         Direct 0    0            15.3.3.254      Vlan3
+15.3.3.254/32       Direct 0    0            127.0.0.1       InLoop0
+15.4.4.0/24         Direct 0    0            15.4.4.254      Vlan4
+15.4.4.254/32       Direct 0    0            127.0.0.1       InLoop0
+127.0.0.0/8         Direct 0    0            127.0.0.1       InLoop0
+127.0.0.1/32        Direct 0    0            127.0.0.1       InLoop0
+
+[SW-B]
+%Apr 26 12:23:36:522 2000 SW-B OSPF/5/OSPF_NBR_CHG: OSPF 1 Neighbor 15.4.4.253(Vlan-interface4) from Loading to Full.
+[SW-B]
+[SW-B]display ip routing-table 
+Routing Tables: Public
+Destinations : 6Routes : 6
+
+Destination/Mask    Proto  Pre  Cost         NextHop         Interface
+
+15.3.3.0/24         Direct 0    0            15.3.3.254      Vlan3
+15.3.3.254/32       Direct 0    0            127.0.0.1       InLoop0
+15.4.4.0/24         Direct 0    0            15.4.4.254      Vlan4
+15.4.4.254/32       Direct 0    0            127.0.0.1       InLoop0
+127.0.0.0/8         Direct 0    0            127.0.0.1       InLoop0
+127.0.0.1/32        Direct 0    0            127.0.0.1       InLoop0
+
+[SW-B]
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<SW-B>
+#Apr 26 12:34:10:763 2000 SW-B SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+%Apr 26 12:34:10:906 2000 SW-B SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<SW-B>
+<SW-B>
+<SW-B>
+<SW-B>sy
+<SW-B>system-view 
+System View: return to User View with Ctrl+Z.
+[SW-B]di
+[SW-B]display p os
+[SW-B]display ospf p
+[SW-B]display ospf peer 
+
+          OSPF Process 1 with Router ID 15.4.4.254
+                        Neighbor Brief Information
+
+ Area: 0.0.0.0
+ Router ID       Address         Pri  Dead-Time  Interface       State
+ 15.4.4.253      15.4.4.253      1    39         Vlan4           Full/BDR
+[SW-B]
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<SW-B>
+#Apr 26 12:44:41:450 2000 SW-B SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+<SW-B>
+%Apr 26 12:44:41:592 2000 SW-B SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<SW-B>
+<SW-B>
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<SW-B>
+#Apr 26 13:27:09:063 2000 SW-B SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+<SW-B>
+%Apr 26 13:27:09:205 2000 SW-B SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<SW-B>
+<SW-B>displ
+<SW-B>display av
+<SW-B>display av c
+<SW-B>display acl ?
+  INTEGER<2000-2999>  Specify a basic acl
+  INTEGER<3000-3999>  Specify an advanced acl
+  INTEGER<4000-4999>  Specify an ethernet frame header acl
+  all                 All the IPv4 acl
+  ipv6                IPv6 acl
+  name                Specify a named acl
+  resource            Display acl resource information
+
+<SW-B>display acl all
+<SW-B>
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<SW-B>
+#Apr 26 13:39:37:416 2000 SW-B SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+<SW-B>
+%Apr 26 13:39:37:558 2000 SW-B SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<SW-B>
+<SW-B>
+<SW-B>dir
+Directory of flash:/
+
+   0     -rw-  14380321  Apr 26 2000 14:51:11   a5500ei-cmw520-r2222p02.bin
+   1     -rw-     12366  Apr 26 2000 12:28:24   config.cwmp
+   2     -rw-       287  Apr 26 2000 12:28:35   system.xml
+   3     drw-         -  Apr 26 2000 12:11:55   seclog
+   4     -rw-    980534  Apr 26 2000 14:42:14   default.diag
+
+31496 KB total (16472 KB free)
+
+<SW-B>t
+<SW-B>terminal      f  f
+<SW-B>tftp 15.3.3   4 1.1.1 put s
+<SW-B>tftp 15.1.1.1 put system.xml
+  
+  File will be transferred in binary mode 
+  Sending file to remote TFTP server. Please wait... 
+  TFTP:      287 bytes sent in 0 second(s).
+  File uploaded successfully. 
+
+<SW-B>tftp 15.1.1.1 put system.xml
+  
+  File will be transferred in binary mode 
+  Sending file to remote TFTP server. Please wait... 
+  TFTP:      287 bytes sent in 0 second(s).
+  File uploaded successfully. 
+
+<SW-B>dir
+<SW-B>dir 
+Directory of flash:/
+
+   0     -rw-  14380321  Apr 26 2000 14:51:11   a5500ei-cmw520-r2222p02.bin
+   1     -rw-     12366  Apr 26 2000 12:28:24   config.cwmp
+   2     -rw-       287  Apr 26 2000 12:28:35   system.xml
+   3     drw-         -  Apr 26 2000 12:11:55   seclog
+   4     -rw-    980534  Apr 26 2000 14:42:14   default.diag
+
+31496 KB total (16472 KB free)
+
+<SW-B>tf
+<SW-B>tftp 15.2.2.1 con
+<SW-B>tftp 15.2.2.1 con   con   put con
+<SW-B>tftp 15.2.2.1 put config.cwmp 
+  
+  File will be transferred in binary mode 
+  Sending file to remote TFTP server. Please wait... 
+  Access violation. 
+<SW-B>tftp 15.2.2.1 put config.cwmp             sy
+<SW-B>tftp 15.2.2.1 put system.xml 
+  
+  File will be transferred in binary mode 
+  Sending file to remote TFTP server. Please wait... 
+  Access violation. 
+<SW-B>tftp 15.2.2.1 put system.xml 
+  
+  File will be transferred in binary mode 
+  Sending file to remote TFTP server. Please wait... 
+  TFTP:      287 bytes sent in 0 second(s).
+  File uploaded successfully. 
+
+<SW-B>tftp 15.2.2.1 put system.xml            con
+<SW-B>tftp 15.2.2.1 put config.cwmp 
+  
+  File will be transferred in binary mode 
+  Sending file to remote TFTP server. Please wait... \|/\|
+  TFTP:    12366 bytes sent in 0 second(s).
+  File uploaded successfully. 
+
+<SW-B>dir ?
+  /all              List all files 
+  /all-filesystems  List files on all filesystems
+  STRING            [drive][path][file name]
+  flash:            Device name
+  <cr>              
+
+<SW-B>dir di  /s a
+<SW-B>dir /all
+Directory of flash:/
+
+   0     -rw-  14380321  Apr 26 2000 14:51:11   a5500ei-cmw520-r2222p02.bin
+   1     -rwh      1688  Apr 26 2000 12:28:17   private-data.txt
+   2     -rwh         4  Apr 26 2000 12:59:16   snmpboots
+   3     -rw-     12366  Apr 26 2000 12:28:24   config.cwmp
+   4     -rw-       287  Apr 26 2000 12:28:35   system.xml
+   5     drw-         -  Apr 26 2000 12:11:55   seclog
+   6     -rwh       735  Apr 26 2000 12:39:03   hostkey_v3
+   7     -rw-    980534  Apr 26 2000 14:42:14   default.diag
+
+31496 KB total (16472 KB free)
+
+<SW-B>dir /all        tftp 15.2.2.1 put config.cwmp             pr
+<SW-B>tftp 15.2.2.1 put priv
+<SW-B>tftp 15.2.2.1 put private-data.txt
+  
+  Error: Unable to open file
+<SW-B>tftp 15.2.2.1 put private-data.txt
+%Apr 26 13:43:18:659 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/3 link status is DOWN.
+%Apr 26 13:43:18:771 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface3 link status is DOWN.
+%Apr 26 13:43:18:883 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface3 is DOWN.                                  dir /all
+Directory of flash:/
+
+   0     -rw-  14380321  Apr 26 2000 14:51:11   a5500ei-cmw520-r2222p02.bin
+   1     -rwh      1688  Apr 26 2000 12:28:17   private-data.txt
+   2     -rwh         4  Apr 26 2000 12:59:16   snmpboots
+   3     -rw-     12366  Apr 26 2000 12:28:24   config.cwmp
+   4     -rw-       287  Apr 26 2000 12:28:35   system.xml
+   5     drw-         -  Apr 26 2000 12:11:55   seclog
+   6     -rwh       735  Apr 26 2000 12:39:03   hostkey_v3
+   7     -rw-    980534  Apr 26 2000 14:42:14   default.diag
+
+31496 KB total (16472 KB free)
+
+<SW-B>
+<SW-B>
+<SW-B>
+%Apr 26 13:43:34:673 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/3 link status is UP.
+%Apr 26 13:43:34:784 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface3 link status is UP.
+%Apr 26 13:43:34:896 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface3 is UP. 
+%Apr 26 13:46:57:212 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/3 link status is DOWN.
+%Apr 26 13:46:57:324 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface3 link status is DOWN.
+%Apr 26 13:46:57:436 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface3 is DOWN.
+%Apr 26 13:48:29:889 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/3 link status is UP.
+%Apr 26 13:48:30:001 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface3 link status is UP.
+%Apr 26 13:48:30:113 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface3 is UP.
+<SW-A>
+#Apr 26 13:49:25:108 2000 SW-A SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1: login from Console
+<SW-A>
+%Apr 26 13:49:25:238 2000 SW-A SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<SW-A>
+<SW-A>
+<SW-A>
+<SW-A>
+<SW-A>ac
+<SW-A>acl
+<SW-A>acl   sy
+<SW-A>system-view 
+System View: return to User View with Ctrl+Z.
+[SW-A]ac
+[SW-A]acl nu
+[SW-A]acl number 3000
+[SW-A-acl-adv-3000]ru
+[SW-A-acl-adv-3000]rule 100 deny udp source any d
+[SW-A-acl-adv-3000]rule 100 deny udp source any destination 15.1.1.0 0.0.0.255 d
+[SW-A-acl-adv-3000]rule 100 deny udp source any destination 15.1.1.0 0.0.0.255 destination-port eq 69
+[SW-A-acl-adv-3000]rul
+[SW-A-acl-adv-3000]rule 200 permit ip so
+[SW-A-acl-adv-3000]rule 200 permit ip source any d
+[SW-A-acl-adv-3000]rule 200 permit ip source any destination a
+[SW-A-acl-adv-3000]rule 200 permit ip source any destination any 
+[SW-A-acl-adv-3000]q int
+[SW-A-acl-adv-3000]int   int g 1/0/4 
+[SW-A-GigabitEthernet1/0/4]pa
+[SW-A-GigabitEthernet1/0/4]packet-filter 3000 inbou
+[SW-A-GigabitEthernet1/0/4]packet-filter 3000 inbound 
+[SW-A-GigabitEthernet1/0/4]undo p
+[SW-A-GigabitEthernet1/0/4]undo port   ac
+[SW-A-GigabitEthernet1/0/4]undo packet-filter 3000 in
+[SW-A-GigabitEthernet1/0/4]undo packet-filter 3000 inbound 
+[SW-A-GigabitEthernet1/0/4]pa
+[SW-A-GigabitEthernet1/0/4]packet-filter 3000 in
+[SW-A-GigabitEthernet1/0/4]packet-filter 3000 inbound 
+[SW-A-GigabitEthernet1/0/4]d q 
+%Apr 26 13:59:14:839 2000 SW-A IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/4 link status is DOWN.
+%Apr 26 13:59:14:950 2000 SW-A IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface GigabitEthernet1/0/4 is DOWN.
+%Apr 26 13:59:15:090 2000 SW-A OSPF/5/OSPF_NBR_CHG: OSPF 1 Neighbor 15.4.4.254(GigabitEthernet1/0/4) from Full to Down.
+%Apr 26 13:59:17:176 2000 SW-A IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/2 link status is DOWN.
+%Apr 26 13:59:17:287 2000 SW-A IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface GigabitEthernet1/0/2 is DOWN.
+%Apr 26 13:59:17:427 2000 SW-A IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/1 link status is DOWN.
+%Apr 26 13:59:17:538 2000 SW-A IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface GigabitEthernet1/0/1 is DOWN.

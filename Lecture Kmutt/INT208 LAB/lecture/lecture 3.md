@@ -1,7 +1,7 @@
 3/14/2024
 [[ACL_OSPF_compressed.pdf]]
 [Basic OSPF Configuration (networklessons.com)](https://networklessons.com/ospf/basic-ospf-configuration)
-
+![[test1.txt]]
 #ACL
 
 ## Package filtering

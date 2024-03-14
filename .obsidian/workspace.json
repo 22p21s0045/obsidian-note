@@ -23,9 +23,11 @@
             "id": "6f89a1e56e8f28bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf"
+                "file": "Lecture Kmutt/INT210/materials/Note another.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
+                "file": "Lecture Kmutt/INT210/materials/Note another.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
+                "file": "Lecture Kmutt/INT210/materials/Note another.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf"
+                "file": "Lecture Kmutt/INT210/materials/Note another.md"
               }
             }
           }
@@ -175,6 +177,13 @@
   "active": "6f89a1e56e8f28bc",
   "lastOpenFiles": [
     "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
+    "test1.txt",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+    "Lecture Kmutt/INT208 LAB/logs/test1.txt",
+    "Lecture Kmutt/INT208 LAB/logs/test1.md.txt",
+    "Lecture Kmutt/INT208 LAB/logs/test1 2.txt",
+    "Lecture Kmutt/INT208 LAB/logs/test1 1.txt",
+    "Lecture Kmutt/INT208 LAB/logs",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
@@ -182,7 +191,6 @@
     "Pasted image 20240313094616.png",
     "INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "INT206_06_Transaction_Management_Part2_02_2023 1.pdf",
-    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
@@ -190,27 +198,21 @@
     "Lecture Kmutt/INT206/Backup and Recovery.md",
     "dependency-knowledge/Physical backup.md",
     "dependency-knowledge/Logical backup.md",
-    "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
     "Lecture Kmutt/INT210/lecture/lecture 3.md",
     "Lecture Kmutt/INT210/materials/Note another.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Lecture Kmutt/INT203/lecture/lecture 3.md",
-    "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
     "Lecture Kmutt/INT203/lecture/lecture 2.md",
-    "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
     "Lecture Kmutt/INT204/lecture/lecture 3.md",
     "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
-    "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
     "obsidian-logo.png",
     "ReadMe.md",
     "Docker Essential/Overview.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/3-5-2024 first class.md",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",
