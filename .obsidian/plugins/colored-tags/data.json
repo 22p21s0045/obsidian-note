@@ -98,7 +98,8 @@
     "rest-api": 85,
     "tester": 86,
     "software-assurance": 87,
-    "testing": 88
+    "testing": 88,
+    "new": 89
   },
   "_version": 3
 }

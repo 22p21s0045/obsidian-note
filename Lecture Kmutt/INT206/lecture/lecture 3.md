@@ -1,4 +1,4 @@
-#lecture-3  #transaction 
+#lecture-3  #transaction #locking
 [[Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf|INT206_06_Transaction_Management_Part2_02_2023]]
 
 ## Transaction problem
@@ -55,3 +55,23 @@ Not order if conflict it roll back
     **Exclusive lock**
 		- write lock
 		- Another transaction can not read/write
+
+
+>[!tip]
+>Locking not enough for serialize database
+
+#new
+## Two phase lock (2PL)
+- **Phases:**
+    
+    - **Growing Phase:** In this phase, transactions acquire locks on data items but do not release any locks. The number of locks can only increase during this phase. <span style="background:#fff88f">(ค่อยๆ lock ระหว่าง lock จะไม่มีการปลดล๊อ ล๊อคเฉพาะที่ใช้)</span>
+    - **Shrinking Phase:** During the shrinking phase, transactions release locks but do not acquire new locks. Once a lock is released, it cannot be reacquired. <span style="background:#fff88f">(ค่อยๆปลดล๊อค)</span>
+- ### Dead lock
+	-  Transaction cannot access data
+- ### Cascading roll back
+	- It is formed using two different words which are cascade and Rollback. The word cascade means, “waterfall” and rollback means, “ an act of making an action to change back to what it was before”. Due to the failure of a single transaction a cascade of transaction rollbacks. This is known as cascading rollback. For instance we can refer to the below mentioned transaction.
+
+## Technique of handling deadlock
+- Time out
+- Dead lock prevention (analyze it have dead lock ?)
+- Dead lock detection (detected before unlock)

@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf"
+                "file": "Lecture Kmutt/INT206/lecture/lecture 3.md"
               }
             }
           }
@@ -160,10 +159,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b69c3dc7afd3f3a5",
+  "active": "c74e0465f4f0aebf",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Pasted image 20240313094616.png",
     "INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "INT206_06_Transaction_Management_Part2_02_2023 1.pdf",
