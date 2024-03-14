@@ -152,3 +152,12 @@ ensure serializability
 - Dirty read
 - Inconsistent analysis problem
 	- when a transaction <span style="background:#fff88f">reads several values</span> from a database,<span style="background:#fdbfff"> but another transaction updates some of those values before the first transaction completes</span>. This results in the first transaction reading different values each time it accesses the same row.
+
+>[!tip]
+>**Serializability** is a concept that helps to identify which non- serial schedules are correct and will maintain the consistency of the database.
+
+>[!cirtical]
+>**Conservative** when user editing another user cannot edit 
+
+
+## Locking method

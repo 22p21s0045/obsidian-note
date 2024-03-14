@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT206/Backup and Recovery.md",
+                "file": "Lecture Kmutt/INT206/lecture/Concurrency control.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+                "file": "Lecture Kmutt/INT206/lecture/Concurrency control.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+                "file": "Lecture Kmutt/INT206/lecture/Concurrency control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md"
+                "file": "Lecture Kmutt/INT206/lecture/Concurrency control.md"
               }
             }
           }
@@ -161,10 +162,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c74e0465f4f0aebf",
+  "active": "b37a7bcd9f5703a6",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "Lecture Kmutt/INT206/lecture/Concurrency control.md",
+    "Lecture Kmutt/INT206/lecture/lecture 2.md",
+    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "dependency-knowledge/Physical backup.md",
     "dependency-knowledge/Logical backup.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
@@ -186,7 +189,6 @@
     "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
-    "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
@@ -200,7 +202,6 @@
     "Docker Essential/LAB 2.md",
     "Docker Essential/LAB 1.md",
     "Docker Essential/Container.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-4/Network Security hardening.md",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",
