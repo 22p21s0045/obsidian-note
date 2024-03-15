@@ -35,11 +35,9 @@
             "id": "258c2e40d3811bd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
+                "file": "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
+                "file": "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md"
+                "file": "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf"
               }
             }
           }
@@ -176,6 +174,9 @@
   },
   "active": "258c2e40d3811bd7",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT204/Data DTO pattern.md",
+    "Lecture Kmutt/INT204/lecture/lecture 3.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
     "Lecture Kmutt/INT210/materials/Note another.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
     "test1.txt",
@@ -186,7 +187,6 @@
     "Lecture Kmutt/INT208 LAB/logs/test1 1.txt",
     "Lecture Kmutt/INT208 LAB/logs",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Pasted image 20240313094616.png",
@@ -204,9 +204,7 @@
     "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "Lecture Kmutt/INT203/lecture/lecture 3.md",
     "Lecture Kmutt/INT203/lecture/lecture 2.md",
-    "Lecture Kmutt/INT204/lecture/lecture 3.md",
     "Lecture Kmutt/INT204/Spring Restful API DTO.md",
-    "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-3/Network intrusion.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Overview.md",
