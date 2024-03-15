@@ -96,5 +96,7 @@
   "Google certificate": "OtGoogle",
   "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf": "RiFilePdf2Fill",
   "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf": "RiFilePdf2Fill",
-  "Lecture Kmutt/exam schedule": "RiCalendarScheduleLine"
+  "Lecture Kmutt/exam schedule": "RiCalendarScheduleLine",
+  "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf": "RiFilePdf2Fill",
+  "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf": "RiFilePdf2Fill"
 }
