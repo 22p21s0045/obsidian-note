@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#d85fc8",
     "recentlyUsedIcons": [
+      "RiCalendarScheduleLine",
       "RiFilePdf2Fill",
       "OtGoogle",
       "OtKmuttLogo",
-      "OtKmutt",
-      "OtDockerSvgrepoCom"
+      "OtKmutt"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -95,5 +95,6 @@
   "Lecture Kmutt": "OtKmuttLogo",
   "Google certificate": "OtGoogle",
   "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf": "RiFilePdf2Fill",
-  "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf": "RiFilePdf2Fill"
+  "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf": "RiFilePdf2Fill",
+  "Lecture Kmutt/exam schedule": "RiCalendarScheduleLine"
 }
