@@ -18,6 +18,6 @@ is a lightweight, standalone, executable package of software that includes every
 - Can move very fast
 
 >[!tip]
->When installing an operating system using an image, the process is faster because the image contains a pre-configured snapshot of the OS, including all necessary settings, software, and configurations. This eliminates the need to manually install the OS and individual software applications, saving time and effort.
+>When installing an operating system using an image, the process is **faster** because the image contains a pre-configured snapshot of the OS, including all necessary settings, software, and configurations. This eliminates the need to manually install the OS and individual software applications, saving time and effort.
 
 

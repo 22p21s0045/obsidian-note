@@ -14,7 +14,8 @@
 
 ## Docker 
 - [[Lecture Kmutt/INT210-LAB/lecture/Container|Container]]
-- Image [[Image]]
+- [[Image]]
+- [[Dockerfile]]
 
 
 ## Container vs VM

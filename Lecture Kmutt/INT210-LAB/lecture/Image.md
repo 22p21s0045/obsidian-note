@@ -10,6 +10,19 @@ A Docker image is an executable package of software that contains everything nec
 
 
 ## Docker registry
-- Docker hub
+- **Docker hub**
+	Docker Hub is a service provided by Docker that serves as the world's largest repository of container images. It acts as a container registry where developers can find, use, and share container images. Docker Hub hosts a wide array of content sources, including container community developers, open source projects, and independent software vendors (ISVs) who build and distribute their code in containers. Users can push and pull container images, automatically build images from GitHub and Bitbucket, trigger actions
 
 
+## Docker image Layer
+- It can cache 
+- **Build faster**
+![](https://i.imgur.com/yncHvWP.png)
+
+
+
+### It create new layer if container write image
+![](https://i.imgur.com/isD2fRl.png)
+
+
+![](https://i.imgur.com/ro9OTX3.png)
