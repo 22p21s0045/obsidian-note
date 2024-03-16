@@ -75,6 +75,12 @@
         "icon": "RiFilePdf2Fill",
         "for": "everything",
         "order": 9
+      },
+      {
+        "rule": "Excalidraw",
+        "icon": "OtPluginIcon",
+        "for": "everything",
+        "order": 10
       }
     ],
     "extraMargin": {
@@ -90,7 +96,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Excalidraw": "LiPencilRuler",
   "Docker Essential": "OtDockerSvgrepoCom",
   "Lecture Kmutt": "OtKmuttLogo",
   "Google certificate": "OtGoogle",

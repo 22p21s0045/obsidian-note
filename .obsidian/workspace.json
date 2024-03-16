@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbe16e7cabae3fef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf"
+              }
+            }
+          },
+          {
+            "id": "960adb66bbb3ca91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
+                "file": "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
+                "file": "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md"
+                "file": "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md"
               }
             }
           }
@@ -149,8 +170,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b772cd1618fbd490",
+  "active": "960adb66bbb3ca91",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
+    "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
+    "Lecture Kmutt/INT204/Excalidraw",
+    "Lecture Kmutt/INT204/Untitled.md",
+    "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "dependency-knowledge/Raid technology.md",
     "Lecture Kmutt/INT210-LAB/lecture/Image.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
@@ -158,8 +184,6 @@
     "Lecture Kmutt/INT210-LAB/lecture/Dockerfile.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
-    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
-    "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
@@ -176,7 +200,6 @@
     "test1.txt",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 LAB/logs/test1.txt",
-    "Lecture Kmutt/INT208 LAB/logs/test1.md.txt",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Pasted image 20240313094616.png",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
@@ -186,9 +209,6 @@
     "Lecture Kmutt/INT206/Backup and Recovery.md",
     "dependency-knowledge/Physical backup.md",
     "dependency-knowledge/Logical backup.md",
-    "Lecture Kmutt/INT210/lecture/lecture 3.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
-    "Lecture Kmutt/INT210/lecture/lecture 2.md",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
