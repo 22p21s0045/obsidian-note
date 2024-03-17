@@ -100,7 +100,10 @@
     "software-assurance": 87,
     "testing": 88,
     "new": 89,
-    "ACL": 90
+    "ACL": 90,
+    "or": 91,
+    "orchestration": 92,
+    "docker-swarm": 93
   },
   "_version": 3
 }
