@@ -1,4 +1,5 @@
 -  [[Docker Essential/Container]]
 - [[LAB 1]]
 - Docker registry
-- Docker image Layer [[Docker image layer]]
+- [[Docker image layer]]
+- Container orchrestation 

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "fba7770bd7df27d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Essential/Container orchestration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a8d400897c07b6b",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Essential/Docker image layer.md",
+                "file": "Docker Essential/Container orchestration.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Essential/Docker image layer.md",
+                "file": "Docker Essential/Container orchestration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Essential/Docker image layer.md"
+                "file": "Docker Essential/Container orchestration.md"
               }
             }
           }
@@ -184,9 +196,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6a8d400897c07b6b",
+  "active": "fba7770bd7df27d5",
   "lastOpenFiles": [
     "Docker Essential/Overview.md",
+    "Docker Essential/Container orchestration.md",
     "Docker Essential/Docker image layer.md",
     "Docker Essential/Docker Registry.md",
     "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
@@ -223,7 +236,6 @@
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT206/lecture/Concurrency control.md",
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
