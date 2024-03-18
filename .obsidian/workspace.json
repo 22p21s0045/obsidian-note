@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Essential/Container orchestration.md",
+                "file": "Docker Essential/Excalidraw/Docker Swarm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Essential/Container orchestration.md",
+                "file": "Docker Essential/Excalidraw/Docker Swarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Essential/Container orchestration.md"
+                "file": "Docker Essential/Excalidraw/Docker Swarm.md"
               }
             }
           }
@@ -159,11 +160,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fba7770bd7df27d5",
+  "active": "f34478b14790793e",
   "lastOpenFiles": [
+    "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Docker Essential/Overview.md",
-    "Docker Essential/Container orchestration.md",
     "Docker Essential/Excalidraw/Docker Swarm.md",
     "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
     "Docker Essential/Docker image layer.md",
