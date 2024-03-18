@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Essential/Container orchestration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34478b14790793e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b477827418565964",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,15 +149,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f34478b14790793e",
+  "active": "fba7770bd7df27d5",
   "lastOpenFiles": [
+    "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
     "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Lecture Kmutt/INT203/Recap",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Docker Essential/Excalidraw/Docker Swarm.md",
-    "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Docker Essential/Overview.md",
     "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
