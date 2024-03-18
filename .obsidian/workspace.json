@@ -23,9 +23,21 @@
             "id": "f34478b14790793e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md"
+                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b477827418565964",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
               }
             }
           }
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md",
+                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md",
+                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md"
+                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md"
               }
             }
           }
@@ -162,10 +174,15 @@
   },
   "active": "f34478b14790793e",
   "lastOpenFiles": [
+    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
+    "Lecture Kmutt/INT203/Recap/Recap for exam.md",
+    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
+    "Lecture Kmutt/INT203/Recap",
+    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+    "Docker Essential/Excalidraw/Docker Swarm.md",
     "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Docker Essential/Overview.md",
-    "Docker Essential/Excalidraw/Docker Swarm.md",
     "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
     "Docker Essential/Docker image layer.md",
     "Docker Essential/Excalidraw",
@@ -187,19 +204,13 @@
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT204/materials/lecture 3.md",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
-    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
-    "Lecture Kmutt/exam schedule",
     "Lecture Kmutt/INT210/materials/Note another.md",
-    "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204/lecture/lecture 3.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
-    "test1.txt",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Pasted image 20240313094616.png",
-    "Lecture Kmutt/INT206/lecture/lecture 2.md",
-    "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
