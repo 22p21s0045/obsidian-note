@@ -11,11 +11,9 @@
             "id": "fba7770bd7df27d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
+                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
+                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md"
+                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf"
               }
             }
           }
@@ -151,9 +149,9 @@
   },
   "active": "fba7770bd7df27d5",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT203/Recap/Recap for exam.md",
     "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "Lecture Kmutt/INT203/Recap/Recap for exam.md",
     "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Lecture Kmutt/INT203/Recap",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
