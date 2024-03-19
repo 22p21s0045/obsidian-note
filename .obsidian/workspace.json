@@ -11,13 +11,36 @@
             "id": "fba7770bd7df27d5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT203/Recap/Recap for exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b815239330dfbdc3",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf"
+                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf"
+              }
+            }
+          },
+          {
+            "id": "c4e3d9b1ccf781c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
+                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
+                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf"
+                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md"
               }
             }
           }
@@ -147,14 +170,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fba7770bd7df27d5",
+  "active": "c4e3d9b1ccf781c6",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+    "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
+    "Lecture Kmutt/INT203/Excalidraw",
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
+    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Lecture Kmutt/INT203/Recap",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Docker Essential/Excalidraw/Docker Swarm.md",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Docker Essential/Overview.md",
@@ -176,7 +201,6 @@
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT204/materials/lecture 3.md",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
@@ -184,7 +208,6 @@
     "Lecture Kmutt/INT204/lecture/lecture 3.md",
     "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Pasted image 20240313094616.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
