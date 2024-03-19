@@ -103,7 +103,8 @@
     "ACL": 90,
     "or": 91,
     "orchestration": 92,
-    "docker-swarm": 93
+    "docker-swarm": 93,
+    "sflow": 94
   },
   "_version": 3
 }

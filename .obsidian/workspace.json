@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf"
+                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c4e3d9b1ccf781c6",
+  "active": "b815239330dfbdc3",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
