@@ -23,9 +23,11 @@
             "id": "b815239330dfbdc3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf"
+                "file": "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,9 +35,9 @@
             "id": "c4e3d9b1ccf781c6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md"
+                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf"
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
+                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
+                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md"
+                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf"
               }
             }
           }
@@ -172,7 +174,11 @@
   },
   "active": "c4e3d9b1ccf781c6",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
     "Lecture Kmutt/INT203/Excalidraw",
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
@@ -200,14 +206,10 @@
     "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT204/materials/lecture 3.md",
     "Lecture Kmutt/INT204/Data DTO pattern.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
     "Lecture Kmutt/INT210/materials/Note another.md",
-    "Lecture Kmutt/INT204/lecture/lecture 3.md",
-    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-1/TCP IP model.md",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Pasted image 20240313094616.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
