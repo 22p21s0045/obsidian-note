@@ -42,3 +42,30 @@ const routes = [
 
 ]
 ```
+
+### redirect
+```js
+ {
+    path: "/",
+
+    redirect: "/aboutus",
+
+ },
+```
+
+### if it not found path it go to this
+```js if it not found path it go to this
+  {
+
+    path: "/:catchAll(.*)",
+
+    name: "NotFound",
+
+    component: () => import("@/view/NotFound.vue"),
+
+  }
+```
+
+## User Router
+- Want to check something before go to path
+![](https://i.imgur.com/98Hssta.png)
