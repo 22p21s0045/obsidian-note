@@ -33,9 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md",
+                "file": "Lecture Kmutt/Eng/Week3.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "56d9fadcd84d6dff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf"
               }
             }
           }
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md",
+                "file": "Lecture Kmutt/Eng/Week3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md",
+                "file": "Lecture Kmutt/Eng/Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md"
+                "file": "Lecture Kmutt/Eng/Week3.md"
               }
             }
           }
@@ -172,7 +182,11 @@
   },
   "active": "05215b47d3f6d32d",
   "lastOpenFiles": [
+    "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
+    "Lecture Kmutt/Eng/Week3.md",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+    "attachment/Pasted image 20240229152339.png",
+    "Lecture Kmutt/Eng",
     "Lecture Kmutt/INT203/lecture/lecture3.md",
     "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
@@ -190,13 +204,11 @@
     "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Docker Essential/Container orchestration.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "Lecture Kmutt/INT203/Recap",
     "Docker Essential/Excalidraw/Docker Swarm.md",
     "Lecture Kmutt/INT204/lecture/lecture-2 Exception Handle.md",
     "Docker Essential/Overview.md",
     "Lecture Kmutt/INT204/Excalidraw/Drawing 2024-03-16 11.04.22.excalidraw.md",
     "Docker Essential/Docker image layer.md",
-    "Docker Essential/Excalidraw",
     "Docker Essential/Untitled.md",
     "Docker Essential/Docker Registry.md",
     "Lecture Kmutt/INT204/Untitled.md",
@@ -207,7 +219,6 @@
     "Lecture Kmutt/INT210-LAB/lecture/Dockerfile.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
-    "Lecture Kmutt/INT204/materials/lecture 3.md",
     "Pasted image 20240313094616.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
@@ -216,7 +227,6 @@
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
     "attachment/Pasted image 20240307110540.png",
-    "attachment/Pasted image 20240307235025.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
