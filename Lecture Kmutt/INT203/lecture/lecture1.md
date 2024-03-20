@@ -1,5 +1,5 @@
 3/6/2024
-#props #slot 
+#props #slot #lecture-1 
 # Props
 - Configuration Props (mange style)
 - Data Props (sent data)

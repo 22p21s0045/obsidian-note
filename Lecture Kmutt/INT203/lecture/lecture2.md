@@ -1,6 +1,6 @@
 3/13/2024
 [[Chapter7-FetchAPI.pdf]]
-#vue #emit #teleport #lecture-3 
+#vue #emit #teleport #lecture-2
 ## Emits
 
 ![](https://i.imgur.com/ICDHQqI.png)

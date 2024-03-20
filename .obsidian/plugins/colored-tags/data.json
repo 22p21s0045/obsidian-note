@@ -104,7 +104,10 @@
     "or": 91,
     "orchestration": 92,
     "docker-swarm": 93,
-    "sflow": 94
+    "sflow": 94,
+    "lec": 95,
+    "env": 96,
+    "fetch-api": 97
   },
   "_version": 3
 }
