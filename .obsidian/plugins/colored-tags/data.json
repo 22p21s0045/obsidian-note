@@ -107,7 +107,8 @@
     "sflow": 94,
     "lec": 95,
     "env": 96,
-    "fetch-api": 97
+    "fetch-api": 97,
+    "vue-router": 98
   },
   "_version": 3
 }

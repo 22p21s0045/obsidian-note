@@ -13,9 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf"
               }
             }
           },
@@ -25,9 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
               }
             }
           },
@@ -44,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md",
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md",
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture3.md"
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
               }
             }
           }
@@ -163,9 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -177,13 +170,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "05215b47d3f6d32d",
+  "active": "51aed18bbe11eb21",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT203/lecture/lecture3.md",
+    "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+    "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
-    "Lecture Kmutt/INT203/lecture/lecture3.md",
-    "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
-    "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
     "Lecture Kmutt/INT203/lecture/lecture2.md",
     "Lecture Kmutt/INT203/lecture/lecture1.md",
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
@@ -206,7 +199,6 @@
     "Docker Essential/Excalidraw",
     "Docker Essential/Untitled.md",
     "Docker Essential/Docker Registry.md",
-    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
     "Lecture Kmutt/INT204/Untitled.md",
     "dependency-knowledge/Raid technology.md",
     "Lecture Kmutt/INT210-LAB/lecture/Image.md",
