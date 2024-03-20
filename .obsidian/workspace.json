@@ -13,7 +13,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf"
+                "file": "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
+                "page": 1,
+                "zoom": 1
               }
             }
           },
@@ -23,7 +25,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+                "page": 1,
+                "zoom": 1
               }
             }
           },
@@ -159,6 +163,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -172,14 +179,15 @@
   },
   "active": "05215b47d3f6d32d",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
+    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
+    "Lecture Kmutt/INT203/lecture/lecture3.md",
     "Lecture Kmutt/INT203/material/Chapter7-FetchAPI.pdf",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
-    "Lecture Kmutt/INT203/lecture/lecture3.md",
     "Lecture Kmutt/INT203/lecture/lecture2.md",
     "Lecture Kmutt/INT203/lecture/lecture1.md",
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
     "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
