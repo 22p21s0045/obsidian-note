@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e005e98de1dda2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Operating system.md",
+                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Operating system.md",
+                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Operating system.md"
+                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md"
               }
             }
           }
@@ -149,10 +162,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "cb723c5e722d11d2",
+  "active": "e005e98de1dda2ce",
   "lastOpenFiles": [
-    "Google certificate/LINUX & SQL/Module-1/Overview.md",
     "Google certificate/LINUX & SQL/Module-1/Operating system.md",
+    "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
+    "Google certificate/LINUX & SQL/Module-1/Overview.md",
     "Google certificate/LINUX & SQL/Overview.md",
     "Google certificate/LINUX & SQL/Module-1",
     "ReadMe.md",
@@ -189,7 +203,6 @@
     "Docker Essential/Untitled.md",
     "Docker Essential/Docker Registry.md",
     "Lecture Kmutt/INT204/Untitled.md",
-    "dependency-knowledge/Raid technology.md",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
