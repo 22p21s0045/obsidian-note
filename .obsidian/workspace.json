@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
+                "file": "Lecture Kmutt/Eng/Week3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
+                "file": "Lecture Kmutt/Eng/Week3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
+                "file": "Lecture Kmutt/Eng/Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md"
+                "file": "Lecture Kmutt/Eng/Week3.md"
               }
             }
           }
@@ -164,18 +164,18 @@
   },
   "active": "e005e98de1dda2ce",
   "lastOpenFiles": [
-    "Google certificate/LINUX & SQL/Module-1/Operating system.md",
+    "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
+    "ReadMe.md",
     "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
+    "Google certificate/LINUX & SQL/Module-1/Operating system.md",
     "Google certificate/LINUX & SQL/Module-1/Overview.md",
     "Google certificate/LINUX & SQL/Overview.md",
     "Google certificate/LINUX & SQL/Module-1",
-    "ReadMe.md",
     "Google certificate/LINUX & SQL",
     "Pasted image 20240313094616.png",
     "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.21.pdf",
     "Lecture Kmutt/INT210/materials/Drawing 2024-03-20 15.48.52.excalidraw.md",
     "Lecture Kmutt/INT210/lecture/lecture 4.md",
-    "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Lecture Kmutt/INT210/materials/INT210-2023-07 UML-DevOps.pdf",
     "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
@@ -202,7 +202,6 @@
     "Docker Essential/Docker image layer.md",
     "Docker Essential/Untitled.md",
     "Docker Essential/Docker Registry.md",
-    "Lecture Kmutt/INT204/Untitled.md",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
