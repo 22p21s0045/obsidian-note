@@ -41,7 +41,8 @@
 ![](https://i.imgur.com/ZZZx7KW.png)
 
 ## Timestamp
-Not order if conflict it roll back
+- Not order if conflict it roll back
+- No deadlock 
 
 ## Optimistic
 - ไม่จัดการ transaction if save check conflict

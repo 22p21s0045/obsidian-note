@@ -111,7 +111,8 @@
     "vue-router": 98,
     "lecture-4": 99,
     "test": 100,
-    "os": 101
+    "os": 101,
+    "database-recovery": 102
   },
   "_version": 3
 }
