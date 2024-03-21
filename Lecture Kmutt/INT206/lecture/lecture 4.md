@@ -58,7 +58,57 @@ updates of committed transactions using log file.
 
 
 ![](https://i.imgur.com/MmmcXhR.png)
+
 - Full backup
 - Incremental Monday
 - Incremental Tuesday
 - Logfile
+
+
+# Distributed DBMS
+## Concepts.
+	- Advantages and disadvantages of distributed databases.
+	- Functions and architecture for a DDBMS.
+	- Distributed database design.
+	- Levels of transparency.
+	- Comparison criteria for DDBMSs.
+
+
+## Distributed Database
+A logically interrelated collection of shared data (and a
+description of this data), physically **distributed over a**
+**computer network**.
+
+![](https://i.imgur.com/fGxnMfV.png)
+
+>[!tip]
+>พยายามเอาข้อมูลเข้าไปใกล้ user
+
+**Fragment** = ส่วนของข้อมูล
+
+## Advantage of distributed DBMS
+- Reflects organizational structure
+- Improved shareability and local autonomy
+- Improved availability
+- Improved reliability
+- Improved performance
+- Economics ประหยัด
+- Modular growth เพื่มขยาย
+
+## Disadvantages of DDBMSs
+- Complexity
+- Cost
+- Security
+- Integrity control more difficult (เเต่ละที่สามารถจัดการได้ด้วยตัวเอง customize)
+- Lack of standards
+- Lack of experience
+- Database design more complex
+
+## Homogeneous DDBMSs
+**All sites use same DBMS product.** Much easier to design and manage.
+Approach provides incremental growth and allows increased performance.
+## Heterogeneous DDBMSs
+Sites may run **different DBMS products,** with possibly different
+underlying data models. Occurs when sites have implemented their own databases and
+integration is considered later. Typical solution is to use **gateways**, which convert the language and model of each different DBMS into the language and model of
+the relational system.
