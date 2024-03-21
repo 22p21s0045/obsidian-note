@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6005eb258e56083",
+        "id": "95a1e6545f09c746",
         "type": "tabs",
         "children": [
           {
-            "id": "cb723c5e722d11d2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
-              }
-            }
-          },
-          {
-            "id": "ad1ea5c35aa9fd01",
+            "id": "f612b82e30ad43e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,9 +18,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "634c1ef09c8d9e87",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
+              }
+            }
+          },
+          {
+            "id": "d81ee29fd63b4bda",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,16 +168,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ad1ea5c35aa9fd01",
+  "active": "d81ee29fd63b4bda",
   "lastOpenFiles": [
     "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 4.md",
+    "Lecture Kmutt/INT210-LAB/lecture/Dockerfile.md",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
     "Excalidraw/Music player hobby project.md",
     "Excalidraw/Drawing 2024-03-21 10.41.10.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 10.41.07.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 10.41.08.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
-    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
@@ -197,8 +207,6 @@
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
     "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",

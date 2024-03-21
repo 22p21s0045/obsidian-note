@@ -112,3 +112,48 @@ Sites may run **different DBMS products,** with possibly different
 underlying data models. Occurs when sites have implemented their own databases and
 integration is considered later. Typical solution is to use **gateways**, which convert the language and model of each different DBMS into the language and model of
 the relational system.
+
+
+## Federate table
+
+![](https://i.imgur.com/VvgL8bc.png)
+- สร้าง link ไปหา อีก server
+
+### Create link
+```sql
+CREATE SERVER parislink
+FOREIGN DATA WRAPPER mysql
+OPTIONS (USER 'dba01', PASSWORD 'int206', HOST '188.166.216.13', PORT 3306, DATABASE 'classicmodels');
+
+
+DESCRIBE employees;employees
+
+```
+
+### Create table and use link
+```sql
+CREATE TABLE `classicmodels`.`office_paris` (
+  `officeCode` INT NOT NULL,
+  `city` VARCHAR(50) NOT NULL,
+  `phone` VARCHAR(50) NOT NULL,
+  `addressLine1` VARCHAR(50) NOT NULL,
+  `addressLine2` VARCHAR(50) NULL,
+  `state` VARCHAR(50) NULL,
+  `country` VARCHAR(50) NOT NULL,
+  `postalCode` VARCHAR(15) NOT NULL,
+  `territory` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`officeCode`))
+ENGINE=FEDERATED
+DEFAULT CHARSET=utf8mb4
+CONNECTION='parislink/offices';
+
+```
+
+![](https://i.imgur.com/E7Tes7j.png)
+- เก็บ metadata ของ database ว่า data อยู่ที่ไหน มีโครงสร้างอะไรบ้าง
+
+![](https://i.imgur.com/PJQO5rQ.png)
+- จักการ local database
+
+
+![](https://i.imgur.com/B9hV29B.png)
