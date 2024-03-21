@@ -66,7 +66,7 @@
 - **Phases:**
     
     - **Growing Phase:** In this phase, transactions acquire locks on data items but do not release any locks. The number of locks can only increase during this phase. <span style="background:#fff88f">(ค่อยๆ lock ระหว่าง lock จะไม่มีการปลดล๊อ ล๊อคเฉพาะที่ใช้)</span>
-    - **Shrinking Phase:** During the shrinking phase, transactions release locks but do not acquire new locks. Once a lock is released, it cannot be reacquired. <span style="background:#fff88f">(ค่อยๆปลดล๊อค)</span>
+    - **Shrinking Phase:** During the shrinking phase, transactions release locks but do not acquire new locks. Once a lock is released, it cannot be reacquired. <span style="background:#fff88f">(ค่อยๆปลดล๊อค)</spaan>
 - ### Dead lock
 	-  Transaction cannot access data
 - ### Cascading roll back

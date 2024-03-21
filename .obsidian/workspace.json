@@ -8,37 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f612b82e30ad43e2",
+            "id": "d81ee29fd63b4bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "634c1ef09c8d9e87",
+            "id": "ad30d24d5627c4fe",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
+                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf"
               }
-            }
-          },
-          {
-            "id": "d81ee29fd63b4bda",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md"
+                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf"
               }
             }
           }
@@ -168,8 +160,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d81ee29fd63b4bda",
+  "active": "ad30d24d5627c4fe",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
+    "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
+    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT210-LAB/lecture/Dockerfile.md",
@@ -181,7 +177,6 @@
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Google certificate/LINUX & SQL/Module-1/Operating system.md",
     "Lecture Kmutt/Eng/Week3.md",
@@ -198,15 +193,12 @@
     "Lecture Kmutt/INT210/lecture/lecture 4.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
     "Lecture Kmutt/INT210/materials/INT210-2023-07 UML-DevOps.pdf",
-    "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
     "Lecture Kmutt/INT210/materials/Note another.md",
     "attachment/Pasted image 20240229152339.png",
     "Lecture Kmutt/INT203/lecture/lecture3.md",
     "Lecture Kmutt/INT203/lecture/lecture2.md",
     "Lecture Kmutt/INT203/lecture/lecture1.md",
     "Lecture Kmutt/INT203/Recap/Recap for exam.md",
-    "Lecture Kmutt/INT203/Excalidraw/Drawing 2024-03-19 08.19.44.excalidraw.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
