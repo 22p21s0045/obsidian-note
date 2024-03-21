@@ -1,0 +1,542 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.03.21 14:07:23 =~=~=~=~=~=~=~=~=~=~=~=
+
+<H3C>
+#Apr 26 13:07:42:640 2000 H3C SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+<H3C>
+%Apr 26 13:07:42:783 2000 H3C SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<H3C>
+<H3C>
+<H3C>
+<H3C>
+<H3C>
+<H3C>
+<H3C>
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<H3C>
+#Apr 26 13:58:53:243 2000 H3C SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+%Apr 26 13:58:53:385 2000 H3C SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<H3C>
+<H3C>
+<H3C>
+<H3C>sysname      v
+<H3C>sysv -v
+<H3C>sys-v     sys
+<H3C>system-view 
+System View: return to User View with Ctrl+Z.
+[H3C]sysname sw  SW-B
+[SW-B]interf
+[SW-B]interface v
+[SW-B]interface Vlan-interface 1
+[SW-B-Vlan-interface1]ip ad
+[SW-B-Vlan-interface1]ip address 10.40 .24.52 255.255.255.0
+[SW-B-Vlan-interface1]ip ro
+[SW-B-Vlan-interface1]ip ro     quit
+[SW-B]ip r
+[SW-B]ip redirects        oit  
+[SW-B]ip route-static          ?
+  X.X.X.X             Destination IP address
+  default-preference  Preference-value for IPv4 static-routes
+  fast-reroute        Specify fast reroute configuration
+  vpn-instance        VPN-Instance route information
+
+[SW-B]ip route 0.0.0.0 0.0.0.0 10.4.51.1
+[SW-B]sn
+[SW-B]snmp-agent ?
+  calculate-password  Calculate the secret key of the plain password
+  community           Set a community for the access of SNMPv1&SNMPv2c
+  group               Set a SNMP group based on USM
+  ifmib               IF-MIB commands
+  local-engineid      Set the engineID of local SNMP entity
+  log                 Set the log function
+  mib-view            Set SNMP MIB view information
+  packet              Set SNMP packet's parameters
+  sys-info            Set system information of the node
+  target-host         Set the target hosts to receive SNMP notification/traps
+  trap                Set the parameters of SNMP trap/notification
+  usm-user            Set a new user for access to SNMP entity 
+  <cr>                
+
+[SW-B]snmp-agent \  
+[SW-B]snm
+[SW-B]snmp-agent c
+[SW-B]snmp-agent community w
+[SW-B]snmp-agent community write ?
+  STRING<1-32>  SNMP community string
+
+[SW-B]snmp-agent community write networking
+[SW-B]snm
+[SW-B]snmp-agent s
+[SW-B]snmp-agent sys-info con
+[SW-B]snmp-agent sys-info contact Admin_d a mno   Title87887     888   15-15
+[SW-B]snm
+[SW-B]snmp-agent sy
+[SW-B]snmp-agent sys-info l
+[SW-B]snmp-agent sys-info location 
+[SW-B]snmp-agent sys-info location lx11    LX11 001
+[SW-B]SNM
+[SW-B]snmp-agent SY
+[SW-B]snmp-agent sys-info V
+[SW-B]snmp-agent sys-info version ?
+  all  Enable the device to support SNMPv1, SNMPv2c and SNMPv3
+  v1   Enable the device to support SNMPv1
+  v2c  Enable the device to support SNMPv2c
+  v3   Enable the device to support SNMPv3
+
+[SW-B]snmp-agent sys-info version ALL   all
+[SW-B]
+#Apr 26 14:13:47:901 2000 SW-B IFNET/4/INTERFACE UPDOWN: 
+ Trap 1.3.6.1.6.3.1.1.5.4<linkUp>: Interface 9437187 is Up, ifAdminStatus is 1, ifOperStatus is 1  
+#Apr 26 14:13:48:104 2000 SW-B IFNET/4/INTERFACE UPDOWN: 
+ Trap 1.3.6.1.6.3.1.1.5.4<linkUp>: Interface 87687168 is Up, ifAdminStatus is 1, ifOperStatus is 1  
+%Apr 26 14:13:48:307 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/4 link status is UP.
+%Apr 26 14:13:48:419 2000 SW-B IFNET/3/LINK_UPDOWN: Vlan-interface1 link status is UP.
+%Apr 26 14:13:48:530 2000 SW-B IFNET/5/LINEPROTO_UPDOWN: Line protocol on the interface Vlan-interface1 is UP.
+%Apr 26 14:13:48:692 2000 SW-B LLDP/6/LLDP_CREATE_NEIGHBOR: New neighbor created on Port GigabitEthernet1/0/4 (IfIndex 9437187), Chassis ID is cc3e-5f71-d703, Port ID is GigabitEthernet1/0/3.
+[SW-B]
+[SW-B]
+[SW-B]ping 
+#Apr 26 14:14:13:795 2000 SW-B IFNET/4/INTERFACE UPDOWN: 
+ Trap 1.3.6.1.6.3.1.1.5.4<linkUp>: Interface 9437184 is Up, ifAdminStatus is 1, ifOperStatus is 1  
+%Apr 26 14:14:13:998 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/1 link status is UP.
+%Apr 26 14:14:14:110 2000 SW-B LLDP/6/LLDP_CREATE_NEIGHBOR: New neighbor created on Port GigabitEthernet1/0/1 (IfIndex 9437184), Chassis ID is b8af-67aa-f1ac, Port ID is GigabitEthernet1/0/1.
+           ^
+ % Incomplete command found at '^' position.
+[SW-B]
+[SW-B]ping 10.4.21   .24.1
+  PING 10.4.24.1: 56  data bytes, press CTRL_C to break
+    Reply from 10.4.24.1: bytes=56 Sequence=1 ttl=128 time=10 ms
+    Reply from 10.4.24.1: bytes=56 Sequence=2 ttl=128 time=4 ms
+    Reply from 10.4.24.1: bytes=56 Sequence=3 ttl=128 time=4 ms
+    Reply from 10.4.24.1: bytes=56 Sequence=4 ttl=128 time=3 ms
+    Reply from 10.4.24.1: bytes=56 Sequence=5 ttl=128 time=3 ms
+
+  --- 10.4.24.1 ping statistics ---
+    5 packet(s) transmitted
+    5 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/4/10 ms
+
+[SW-B]cls
+      ^
+ % Unrecognized command found at '^' position.
+[SW-B]
+#Apr 26 14:16:14:825 2000 SW-B IFNET/4/INTERFACE UPDOWN: 
+ Trap 1.3.6.1.6.3.1.1.5.4<linkUp>: Interface 9437195 is Up, ifAdminStatus is 1, ifOperStatus is 1  
+%Apr 26 14:16:15:028 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/12 link status is UP.
+%Apr 26 14:16:15:140 2000 SW-B LLDP/5/LLDP_DUPLEX_INCONSISTENT: The mode of duplex mismatch discovered on port GigabitEthernet1/0/12 (IfIndex 9437195).
+%Apr 26 14:16:15:332 2000 SW-B LLDP/6/LLDP_CREATE_NEIGHBOR: New neighbor created on Port GigabitEthernet1/0/12 (IfIndex 9437195), Chassis ID is 5CD30199Y8, Port ID is 7c4d-8f07-964e.
+[SW-B]
+[SW-B]
+[SW-B]st
+[SW-B]storm-constrain             p e
+[SW-B]stp enable 
+%Apr 26 14:19:24:537 2000 SW-B MSTP/6/MSTP_ENABLE: STP is now enabled on the device.
+[SW-B]
+#Apr 26 14:19:26:213 2000 SW-B MSTP/1/PFWD: 
+ Trap 1.3.6.1.4.1.25506.8.35.14.0.1<hh3cPortMstiStateForwarding>: Instance 0's Port 0.9437187 has been set to forwarding state!
+%Apr 26 14:19:26:495 2000 SW-B MSTP/6/MSTP_FORWARDING: Instance 0's port GigabitEthernet1/0/4 has been set to forwarding state.
+%Apr 26 14:19:26:658 2000 SW-B MSTP/6/MSTP_DETECTED_TC: Instance 0's port GigabitEthernet1/0/4 detected a topology change.
+%Apr 26 14:19:26:810 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:19:27:901 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+[SW-B]
+#Apr 26 14:19:42:316 2000 SW-B MSTP/1/PFWD: 
+ Trap 1.3.6.1.4.1.25506.8.35.14.0.1<hh3cPortMstiStateForwarding>: Instance 0's Port 0.9437184 has been set to forwarding state!
+%Apr 26 14:19:42:591 2000 SW-B MSTP/6/MSTP_FORWARDING: Instance 0's port GigabitEthernet1/0/1 has been set to forwarding state.
+%Apr 26 14:19:42:753 2000 SW-B MSTP/6/MSTP_DETECTED_TC: Instance 0's port GigabitEthernet1/0/1 detected a topology change.
+%Apr 26 14:19:44:041 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/1 was notified of a topology change.
+%Apr 26 14:19:45:909 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:19:47:900 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+#Apr 26 14:19:55:433 2000 SW-B MSTP/1/PFWD: 
+ Trap 1.3.6.1.4.1.25506.8.35.14.0.1<hh3cPortMstiStateForwarding>: Instance 0's Port 0.9437195 has been set to forwarding state!
+%Apr 26 14:19:55:707 2000 SW-B MSTP/6/MSTP_FORWARDING: Instance 0's port GigabitEthernet1/0/12 has been set to forwarding state.
+%Apr 26 14:19:55:869 2000 SW-B MSTP/6/MSTP_DETECTED_TC: Instance 0's port GigabitEthernet1/0/12 detected a topology change.
+%Apr 26 14:20:52:095 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:20:53:899 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:20:54:330 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:20:55:899 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:20:56:258 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:20:57:901 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<SW-B>
+#Apr 26 14:30:18:474 2000 SW-B SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+%Apr 26 14:30:18:616 2000 SW-B SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+%Apr 26 14:36:19:281 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:36:19:991 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:36:21:203 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:36:21:991 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:07:966 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:08:280 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:09:202 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:10:132 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:12:204 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:14:131 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:38:58:189 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/1 was notified of a topology change.
+%Apr 26 14:39:00:020 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/1 was notified of a topology change.
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.
+
+<SW-B>
+#Apr 26 14:42:05:382 2000 SW-B SHELL/4/LOGIN: 
+ Trap 1.3.6.1.4.1.25506.2.2.1.1.3.0.1<hh3cLogIn>: login from Console
+<SW-B>
+%Apr 26 14:42:05:524 2000 SW-B SHELL/5/SHELL_LOGIN: Console logged in from aux0.
+<SW-B>
+<SW-B>
+<SW-B>te
+<SW-B>terminal      l
+<SW-B>telnet ?
+  STRING<1-20>  IP address or hostname of remote system 
+  ipv6          IPv6 remote system 
+
+<SW-B>telnet ss
+<SW-B>telnet ss         ss
+<SW-B>ssh2 ?
+  STRING<1-20>  IP address or hostname of remote system 
+  ipv6          Specify IPv6 address or hostname of remote system 
+
+<SW-B>ssh2 c      
+<SW-B>
+<SW-B>
+<SW-B>clear
+      ^
+ % Unrecognized command found at '^' position.
+<SW-B>
+%Apr 26 14:43:29:575 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:43:30:157 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:43:31:205 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:43:32:157 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:43:34:205 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:43:36:158 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+<SW-B>
+<SW-B>
+<SW-B>tel
+<SW-B>telnet ?
+  STRING<1-20>  IP address or hostname of remote system 
+  ipv6          IPv6 remote system 
+
+<SW-B>telnet 10.
+%Apr 26 14:44:21:541 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:44:22:167 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:44:23:204 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:44:24:170 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:44:26:205 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:44:28:169 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+Unknown host or wrong IP address!
+<SW-B>
+<SW-B>telnet 10.24  4.24.52
+Trying 10.4.24.52 ...
+Press CTRL+K to abort
+Failed to connect to the remote host!
+<SW-B>ip
+<SW-B>ipc    t
+<SW-B>ip t ?
+  performance  Performance measurement
+
+<SW-B>ip    i
+<SW-B>ipc     sy
+<SW-B>system-view   e w
+System View: return to User View with Ctrl+Z.
+[SW-B]ip 
+[SW-B]ipv6   gt
+[SW-B]ip gt  t
+[SW-B]ip ttl-expires             ?
+  as-path            Specify an as-path
+  community-list     Add a community-list entry
+  extcommunity-list  Add an extended community-list entry
+  forward-broadcast  Enable forwarding directed-broadcast
+  host               Add a new IP host name and address to the IP host name
+                     table 
+  http               Hypertext transfer protocol 
+  https              Config HTTPS server
+  ip-prefix          Specify an address prefix list
+  ipv6-prefix        Specify an IPv6 address prefix list
+  local              Specify local attribute
+  redirects          ICMP redirect function 
+  route-static       Establish a static route
+  rpf-route-static   Establish Multicast static route
+  source             Source address of packet
+  ttl-expires        ICMP TTL-expire function 
+  unreachables       ICMP unreachable function 
+  urpf               Unicast reverse path forward function
+  vpn-instance       VPN-Instance
+
+[SW-B]ip te
+[SW-B]ip telnet-server
+         ^
+ % Unrecognized command found at '^' position.
+[SW-B]ip telnet-server ?
+         ^
+ % Unrecognized command found at '^' position.
+[SW-B]ip telnet-server               ?
+  as-path            Specify an as-path
+  community-list     Add a community-list entry
+  extcommunity-list  Add an extended community-list entry
+  forward-broadcast  Enable forwarding directed-broadcast
+  host               Add a new IP host name and address to the IP host name
+                     table 
+  http               Hypertext transfer protocol 
+  https              Config HTTPS server
+  ip-prefix          Specify an address prefix list
+  ipv6-prefix        Specify an IPv6 address prefix list
+  local              Specify local attribute
+  redirects          ICMP redirect function 
+  route-static       Establish a static route
+  rpf-route-static   Establish Multicast static route
+  source             Source address of packet
+  ttl-expires        ICMP TTL-expire function 
+  unreachables       ICMP unreachable function 
+  urpf               Unicast reverse path forward function
+  vpn-instance       VPN-Instance
+
+[SW-B]ip    te
+[SW-B]temperature-limit               le
+[SW-B]tele ne
+[SW-B]telnet ?
+  client  Specify TELNET client attribute
+  server  TELNET server functions 
+
+[SW-B]telnet se
+[SW-B]telnet server en
+[SW-B]telnet server enable 
+[SW-B]
+%Apr 26 14:47:40:196 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:47:40:525 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:47:41:206 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:47:42:191 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:47:44:209 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:47:46:188 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:48:26:240 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:48:28:197 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+[SW-B]
+[SW-B]
+[SW-B]pa
+[SW-B]password-recovery          t
+[SW-B]password t ?
+      ^
+ % Ambiguous command found at '^' position.
+[SW-B]password 
+      ^
+ % Ambiguous command found at '^' position.
+[SW-B]
+[SW-B]
+[SW-B]sy
+[SW-B]sys-v
+[SW-B]sys-v     quit
+<SW-B>sys
+<SW-B>system-view 
+System View: return to User View with Ctrl+Z.
+[SW-B]
+%Apr 26 14:50:08:553 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:50:10:199 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:50:10:548 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:50:12:233 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:50:13:207 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:50:14:225 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+[SW-B]te
+[SW-B]temperature-limit                 tel
+[SW-B]telnet s
+[SW-B]telnet server en
+[SW-B]telnet server enable        ?
+  acl     Specify an ACL to control telnet clients' access 
+  dscp    Differentiated Services Codepoint (DSCP)
+  enable  Enable TELNET server functions 
+  ipv6    Specify IPv6 attribute 
+
+[SW-B]telnet server 
+%Apr 26 14:53:02:293 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:04:384 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:39:026 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:40:381 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:41:311 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:42:475 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:43:209 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:53:44:472 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+                    ^
+ % Incomplete command found at '^' position.
+[SW-B]
+[SW-B]
+[SW-B]
+[SW-B]ssh
+[SW-B]ssh em
+[SW-B]ssh em 
+[SW-B]ssh e ?
+  client  Specify client attribute 
+  server  Specify the server attribute
+  user    SSH user
+
+[SW-B]ssh s
+[SW-B]ssh server ?
+  acl                     Specify an ACL to control SSH clients' access 
+  authentication-retries  Specify authentication retry times
+  authentication-timeout  Specify authentication timeout
+  compatible-ssh1x        Specify the compatible ssh1x
+  dscp                    Differentiated Services Codepoint (DSCP)
+  enable                  Enable SSH Server 
+  ipv6                    Specify SSH Server IPv6 attribute 
+  rekey-interval          Specify the SSH server key rekey-interval
+
+[SW-B]ssh server em nable
+[SW-B]ssh server enable 
+Info: Enable SSH server.
+[SW-B]ssh ?
+  client  Specify client attribute 
+  server  Specify the server attribute
+  user    SSH user
+
+[SW-B]ssh us
+[SW-B]ssh user 
+               ^
+ % Incomplete command found at '^' position.
+[SW-B]ssh user ?
+  STRING<1-80>  Name of SSH user
+
+[SW-B]ssh user 
+%Apr 26 14:55:20:662 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:55:22:509 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:55:23:312 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:55:24:521 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:55:25:243 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 14:55:26:522 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+               ^
+ % Incomplete command found at '^' position.
+[SW-B]ssh
+[SW-B]ssh a
+[SW-B]ssh a ?
+  client  Specify client attribute 
+  server  Specify the server attribute
+  user    SSH user
+
+[SW-B]ssh u
+[SW-B]ssh user 
+               ^
+ % Incomplete command found at '^' position.
+[SW-B]ssh user ?
+  STRING<1-80>  Name of SSH user
+
+[SW-B]ssh user admin au
+[SW-B]ssh user admin au  ?
+  service-type  Specify service type
+
+[SW-B]ssh user admin s
+[SW-B]ssh user admin service-type ?
+  all      Specify service type to all
+  scp      Specify service type to scp
+  sftp     Specify service type to sftp
+  stelnet  Specify service type to stelnet
+
+[SW-B]ssh user admin service-type aa ll
+                                      ^
+ % Incomplete command found at '^' position.
+[SW-B]ssh user admin service-type all ?
+  authentication-type  Specify authentication type
+
+[SW-B]ssh user admin service-type all aut
+[SW-B]ssh user admin service-type all authentication-type ?
+  any                 Any authentication
+  password            Password authentication
+  password-publickey  Password and public key authentication
+  publickey           Public key authentication
+
+[SW-B]ssh user admin service-type all authentication-type pas
+[SW-B]ssh user admin service-type all authentication-type password ?
+  <cr>  
+
+[SW-B]ssh user admin service-type all authentication-type password           ?
+   authentication-type
+
+[SW-B]ssh user admin service-type all authentication-type   123456
+                                                          ^
+ % Unrecognized command found at '^' position.
+[SW-B]ssh user admin service-type all authentication-type 123456 ?
+                                                          ^
+ % Unrecognized command found at '^' position.
+[SW-B]ssh user admin service-type all authentication-type 123456                                                            ssh user admin service-type all                               ssh user          ssh user admin service-type all                               ssh user admin service-type all authentication-type 123456                                                          ssh user admin service-type all authentication-type 123456
+                                                          ^
+ % Unrecognized command found at '^' position.
+[SW-B]ssh user admin service-type all authentication-type 123456      ?
+  any                 Any authentication
+  password            Password authentication
+  password-publickey  Password and public key authentication
+  publickey           Public key authentication
+
+[SW-B]ssh user admin service-type all authentication-type pas
+[SW-B]ssh user admin service-type all authentication-type password ?
+  <cr>  
+
+[SW-B]ssh user admin service-type all authentication-type password 123456
+                                                                   ^
+ % Too many parameters found at '^' position.
+[SW-B]ssh user admin service-type all authentication-type password 123456 ?
+                                                                   ^
+ % Too many parameters found at '^' position.
+[SW-B]ssh user admin service-type all authentication-type password 123456                                                                     ssh user admin service-type all authentication-type 123456                                                          ssh user admin service-type all authentication-type password 123456      ?
+  <cr>  
+
+[SW-B]ssh user admin service-type all authentication-type password  
+[SW-B]
+%Apr 26 15:03:38:589 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+%Apr 26 15:03:40:578 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/4 was notified of a topology change.
+#Apr 26 15:07:13:921 2000 SW-B IFNET/4/INTERFACE UPDOWN: 
+ Trap 1.3.6.1.6.3.1.1.5.3<linkDown>: Interface 9437187 is Down, ifAdminStatus is 1, ifOperStatus is 2  
+%Apr 26 15:07:14:124 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/4 link status is DOWN.
+#Apr 26 15:08:07:291 2000 SW-B IFNET/4/INTERFACE UPDOWN: 
+ Trap 1.3.6.1.6.3.1.1.5.4<linkUp>: Interface 9437191 is Up, ifAdminStatus is 1, ifOperStatus is 1  
+%Apr 26 15:08:07:494 2000 SW-B IFNET/3/LINK_UPDOWN: GigabitEthernet1/0/8 link status is UP.
+#Apr 26 15:08:08:212 2000 SW-B MSTP/1/PDISC: 
+ Trap 1.3.6.1.4.1.25506.8.35.14.0.2<hh3cPortMstiStateDiscarding>: Instance 0's Port 0.9437195 has been set to discarding state!
+#Apr 26 15:08:08:506 2000 SW-B MSTP/1/PFWD: 
+ Trap 1.3.6.1.4.1.25506.8.35.14.0.1<hh3cPortMstiStateForwarding>: Instance 0's Port 0.9437191 has been set to forwarding state!
+%Apr 26 15:08:08:869 2000 SW-B MSTP/6/MSTP_DISCARDING: Instance 0's port GigabitEthernet1/0/12 has been set to discarding state.
+%Apr 26 15:08:09:031 2000 SW-B MSTP/6/MSTP_FORWARDING: Instance 0's port GigabitEthernet1/0/8 has been set to forwarding state.
+%Apr 26 15:08:09:193 2000 SW-B MSTP/6/MSTP_DETECTED_TC: Instance 0's port GigabitEthernet1/0/8 detected a topology change.
+%Apr 26 15:08:09:346 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/8 was notified of a topology change.
+%Apr 26 15:08:09:947 2000 SW-B LLDP/6/LLDP_CREATE_NEIGHBOR: New neighbor created on Port GigabitEthernet1/0/8 (IfIndex 9437191), Chassis ID is 445b-ed36-7880, Port ID is 1/1/3.
+%Apr 26 15:08:10:204 2000 SW-B MSTP/6/MSTP_NOTIFIED_TC: Instance 0's port GigabitEthernet1/0/8 was notified of a topology change.
+#Apr 26 15:08:37:906 2000 SW-B MSTP/1/PFWD: 
+ Trap 1.3.6.1.4.1.25506.8.35.14.0.1<hh3cPortMstiStateForwarding>: Instance 0's Port 0.9437195 has been set to forwarding state!
+%Apr 26 15:08:38:119 2000 SW-B MSTP/6/MSTP_FORWARDING: Instance 0's port GigabitEthernet1/0/12 has been set to forwarding state.
+******************************************************************************
+* Copyright (c) 2004-2016 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+User interface aux0 is available.
+
+
+
+Please press ENTER.

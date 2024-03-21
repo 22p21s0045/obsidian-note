@@ -11,10 +11,20 @@
             "id": "84b475036303bd4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf"
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "aa67a072f829e536",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf"
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md"
               }
             }
           }
@@ -149,8 +159,11 @@
   },
   "active": "84b475036303bd4b",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+    "3-21-2024 1.txt",
+    "3-21-2024.txt",
+    "3-21-2024",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
@@ -176,11 +189,8 @@
     "Google certificate/LINUX & SQL/Module-1",
     "Google certificate/LINUX & SQL",
     "Pasted image 20240313094616.png",
-    "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.21.pdf",
     "Lecture Kmutt/INT210/materials/Drawing 2024-03-20 15.48.52.excalidraw.md",
     "Lecture Kmutt/INT210/lecture/lecture 4.md",
-    "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
-    "Lecture Kmutt/INT210/materials/INT210-2023-07 UML-DevOps.pdf",
     "Lecture Kmutt/INT210/materials/Note another.md",
     "attachment/Pasted image 20240229152339.png",
     "Lecture Kmutt/INT203/lecture/lecture3.md",

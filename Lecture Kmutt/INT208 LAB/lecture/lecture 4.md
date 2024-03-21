@@ -10,5 +10,8 @@ The MIB is a database that **describes the structure of management data** of a d
 
 
 - **Message trap** ส่งข้อมูล Monitor ออกมา
-
+![[3-21-2024.txt]]
 ![](https://i.imgur.com/4Y0Z2DV.png)
+
+![[3-21-2024 1.txt]]
+
