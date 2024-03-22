@@ -73,12 +73,31 @@ docker history ubuntu:latest
 docker logs hello-nginx -f
 ```
 
-## ตายปุ๊บลบเลย
+### ตายปุ๊บลบเลย
 ```
 docker run --rm 
 ```
 
-ถ้าถูก stop ก็ให้หยุดไม่ต้อง restart
+### ถ้าถูก stop ก็ให้หยุดไม่ต้อง restart
 ```
 docker run --restart unless-stop
+```
+
+```
+docker ps -q
+```
+
+
+### จะต้อง publish ตลอดdo
+```
+docker ps --filter expose
+```
+
+### Check port 
+```
+netstat -lnt
+```
+
+```
+ ufw show listening
 ```
