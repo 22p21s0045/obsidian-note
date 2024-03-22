@@ -34,3 +34,41 @@ root           1       0  0 07:27 pts/0    00:00:00 /bin/bash
 root          15       1  0 07:29 pts/0    00:00:00 ps -ef
 ```
 - PID 1 ถ้าตาย container ตาย
+
+
+```bash
+docker exec [CONTAINER_ID] [COMMAND]
+```
+
+```
+docker exec [CONTAINER_ID] bash -it
+```
+
+- รัน bash ใน container
+![](https://i.imgur.com/v2KEwlf.png)
+
+
+![](https://i.imgur.com/sIaodIA.png)
+
+
+### Check docker storage
+```bash
+docker system df
+```
+
+```bash
+docker history ubuntu:latest
+```
+- เเสดงคัาสั่งที่ใช้สร้าง image
+
+
+## Docker Architecture
+
+![](https://i.imgur.com/XqrX9Fy.png)
+
+- Docker daemon ใช้ rest API
+
+
+```
+docker logs hello-nginx -f
+```
