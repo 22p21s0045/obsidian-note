@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e31e4daea66b82b7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf"
+              }
+            }
           }
         ]
       }
@@ -152,6 +162,7 @@
   "active": "66b2aa0ffb7e60d8",
   "lastOpenFiles": [
     "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
+    "Lecture Kmutt/Eng/Week3.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
     "3-21-2024 1.txt",
     "3-21-2024.txt",
@@ -173,7 +184,6 @@
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Google certificate/LINUX & SQL/Module-1/Operating system.md",
-    "Lecture Kmutt/Eng/Week3.md",
     "ReadMe.md",
     "Google certificate/LINUX & SQL/Module-1/Virtualization technology.md",
     "Google certificate/LINUX & SQL/Module-1/Overview.md",

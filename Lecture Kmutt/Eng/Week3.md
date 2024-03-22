@@ -10,3 +10,4 @@ This research conducted interviews with 25 educators and students in Krabi, Thai
 
 ## result
 Educators and students laud ChatGPT for its swift responses to inquiries, provision of additional resources, and reduction of educators' workload. Students find it convenient for academic support, appreciating its immediate feedback and availability. Both groups view ChatGPT as a valuable tool that enhances learning outcomes and overall education quality Overall, both educators and students perceive ChatGPT as a valuable addition to education, capable of improving learning outcomes and enhancing the overall quality of education.
+
