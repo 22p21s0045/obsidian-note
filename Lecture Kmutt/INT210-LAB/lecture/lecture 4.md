@@ -68,7 +68,17 @@ docker history ubuntu:latest
 
 - Docker daemon ใช้ rest API
 
-
+### Check Log
 ```
 docker logs hello-nginx -f
+```
+
+## ตายปุ๊บลบเลย
+```
+docker run --rm 
+```
+
+ถ้าถูก stop ก็ให้หยุดไม่ต้อง restart
+```
+docker run --restart unless-stop
 ```
