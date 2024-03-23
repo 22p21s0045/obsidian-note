@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
+                "file": "Google certificate/LINUX & SQL/Module-2/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd070f52387fedfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
+                "file": "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
+                "file": "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md"
+                "file": "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md"
               }
             }
           }
@@ -160,14 +172,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f6ca7f00f23d7a4b",
+  "active": "fd070f52387fedfd",
   "lastOpenFiles": [
+    "Google certificate/LINUX & SQL/Module-2/Overview.md",
+    "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
+    "Google certificate/LINUX & SQL/Module-2",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
-    "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Lecture Kmutt/INT204/Spring boost/File management.md",
     "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
     "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
@@ -177,7 +192,6 @@
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
     "3-21-2024 1.txt",
     "3-21-2024.txt",
-    "3-21-2024",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
@@ -197,7 +211,6 @@
     "Pasted image 20240313094616.png",
     "Lecture Kmutt/INT210/materials/Drawing 2024-03-20 15.48.52.excalidraw.md",
     "Lecture Kmutt/INT210/lecture/lecture 4.md",
-    "Lecture Kmutt/INT210/materials/Note another.md",
     "attachment/Pasted image 20240229152339.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",

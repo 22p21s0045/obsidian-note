@@ -1,0 +1,1 @@
+Linux is an **open-source** operating system modeled on UNIX. It was first developed in the 1990s by Linus Torvalds. Linux is everywhere: it powers smartphones, cars, supercomputers, and even home appliances
