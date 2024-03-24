@@ -161,45 +161,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "floating": {
-    "id": "773a130d6cba0b28",
-    "type": "floating",
-    "children": [
-      {
-        "id": "051dc42c7316f1e5",
-        "type": "window",
-        "children": [
-          {
-            "id": "27acbfc1c0631b85",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b946167e291d1af9",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1743,
-        "y": 117,
-        "width": 482,
-        "height": 482,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "dbeeca1f1c3cb714",
   "lastOpenFiles": [
-    "Google certificate/LINUX & SQL/Module-2/Overview.md",
+    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
+    "Google certificate/LINUX & SQL/Module-2/Overview.md",
     "Google certificate/LINUX & SQL/Overview.md",
     "MyJourney.md",
     "Pasted image 20240313094616.png",
@@ -214,7 +180,6 @@
     "calendar/2024-03-25 Recap Client Side.md",
     "2024-03-24.md",
     "calendar",
-    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Google certificate/LINUX & SQL/Module-2",
@@ -235,7 +200,6 @@
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT210-LAB/lecture/Dockerfile.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
-    "Excalidraw/Music player hobby project.md",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",

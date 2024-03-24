@@ -24,3 +24,8 @@ determine what has happened after an attack
 A package manager in Linux is a crucial tool that allows users to install, remove, upgrade, configure, and manage software packages on an operating system.
 
 ![](https://i.imgur.com/sOyPBDQ.png)
+
+>[!tip]
+>A shell, in computing, is a program that provides a user interface to interact with an operating system by typing commands and executing them. It acts as a command-line
+
+
