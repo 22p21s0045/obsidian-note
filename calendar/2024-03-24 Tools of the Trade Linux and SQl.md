@@ -4,5 +4,6 @@ allDay: false
 startTime: 16:30
 endTime: 18:00
 date: 2024-03-24
-completed: false
+completed: 2024-03-25T10:47:13.281+07:00
+type: single
 ---

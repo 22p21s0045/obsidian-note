@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "e82276f05d9bccbb",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "31c14426caab55fe",
             "type": "leaf",
             "state": {
@@ -27,7 +35,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,10 +167,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "594165944fe24f80",
+  "active": "31c14426caab55fe",
   "lastOpenFiles": [
-    "Google certificate/LINUX & SQL/Module-2/Overview.md",
+    "calendar/2024-03-24 Recap Advance database.md",
     "Google certificate/LINUX & SQL/Module-4/Overview.md",
+    "Google certificate/LINUX & SQL/Module-2/Overview.md",
     "Google certificate/LINUX & SQL/Module-4",
     "Google certificate/LINUX & SQL/Module-2/Shell.md",
     "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
@@ -170,7 +180,6 @@
     "Google certificate/LINUX & SQL/Overview.md",
     "MyJourney.md",
     "Pasted image 20240313094616.png",
-    "calendar/2024-03-24 Recap Advance database.md",
     "calendar/2024-03-24 Tools of the Trade Linux and SQl.md",
     "calendar/2024-03-26 Recap Server side.md",
     "calendar/2024-03-25 Recap Advance database.md",
