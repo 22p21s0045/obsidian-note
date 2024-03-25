@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-2/Shell.md",
+                "file": "Google certificate/LINUX & SQL/Module-4/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d18e3b5185bfd7a4",
+            "id": "31c14426caab55fe",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-2/Shell.md",
+                "file": "Google certificate/LINUX & SQL/Module-4/Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-2/Shell.md",
+                "file": "Google certificate/LINUX & SQL/Module-4/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/LINUX & SQL/Module-2/Shell.md"
+                "file": "Google certificate/LINUX & SQL/Module-4/Overview.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   "active": "594165944fe24f80",
   "lastOpenFiles": [
     "Google certificate/LINUX & SQL/Module-2/Overview.md",
+    "Google certificate/LINUX & SQL/Module-4/Overview.md",
+    "Google certificate/LINUX & SQL/Module-4",
     "Google certificate/LINUX & SQL/Module-2/Shell.md",
     "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
     "Excalidraw/MyTime mymap.md",
@@ -192,12 +194,10 @@
     "Lecture Kmutt/INT204/Default config.md",
     "Lecture Kmutt/Eng/Week3.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
-    "3-21-2024 1.txt",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT210-LAB/lecture/Dockerfile.md",
-    "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
