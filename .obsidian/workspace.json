@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "692cd1856f9b5376",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MyTime mymap.md"
-              }
-            }
-          },
-          {
-            "id": "dbeeca1f1c3cb714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "988939b3a62b4b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google certificate/LINUX & SQL/Module-2/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "594165944fe24f80",
             "type": "leaf",
             "state": {
@@ -61,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +158,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d18e3b5185bfd7a4",
+  "active": "594165944fe24f80",
   "lastOpenFiles": [
     "Google certificate/LINUX & SQL/Module-2/Overview.md",
     "Google certificate/LINUX & SQL/Module-2/Shell.md",

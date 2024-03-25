@@ -26,3 +26,4 @@ Directly below the root directory, you’ll find standard FHS directories. In th
 - /tmp: This directory stores many temporary files. The /tmp directory is commonly used by attackers because anyone in the system can modify data in these files.
     
 - /mnt: This directory stands for “mount” and stores media, such as USB drives and hard drives.
+
