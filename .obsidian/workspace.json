@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "594165944fe24f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google certificate/LINUX & SQL/Module-4/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e82276f05d9bccbb",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "31c14426caab55fe",
             "type": "leaf",
             "state": {
@@ -36,17 +16,39 @@
             }
           },
           {
-            "id": "56a29b48f14bb130",
+            "id": "984e0876d7c5f805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT203/lecture/lecture 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8043c96ac641b676",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf"
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
+              }
+            }
+          },
+          {
+            "id": "259bf2c94b3c626c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf"
+                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
               }
             }
           }
@@ -177,8 +179,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "56a29b48f14bb130",
+  "active": "8043c96ac641b676",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
+    "Lecture Kmutt/INT203/lecture/lecture 5.md",
+    "2024-03-27.md",
+    "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Google certificate/LINUX & SQL/Module-4/Overview.md",
     "calendar/2024-03-24 Recap Advance database.md",
@@ -208,15 +214,10 @@
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
     "Lecture Kmutt/INT204/Spring boost/File management.md",
-    "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
-    "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "Lecture Kmutt/INT204/Default config.md",
     "Lecture Kmutt/Eng/Week3.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
-    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
