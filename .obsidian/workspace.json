@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "782d76158ec8c50a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf"
+              }
+            }
+          },
+          {
             "id": "8043c96ac641b676",
             "type": "leaf",
             "state": {
@@ -182,8 +192,8 @@
   "active": "984e0876d7c5f805",
   "lastOpenFiles": [
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
-    "Lecture Kmutt/INT203/lecture/lecture 5.md",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+    "Lecture Kmutt/INT203/lecture/lecture 5.md",
     "2024-03-27.md",
     "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
