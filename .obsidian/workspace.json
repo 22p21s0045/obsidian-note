@@ -21,44 +21,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture 5.md",
+                "file": "Lecture Kmutt/INT210/lecture/lecture 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "782d76158ec8c50a",
+            "id": "63872a4aecf2cbb0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf"
-              }
-            }
-          },
-          {
-            "id": "8043c96ac641b676",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
-              }
-            }
-          },
-          {
-            "id": "259bf2c94b3c626c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf"
+                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture 5.md",
+                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture 5.md",
+                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/lecture/lecture 5.md"
+                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md"
               }
             }
           }
@@ -189,10 +169,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "984e0876d7c5f805",
+  "active": "63872a4aecf2cbb0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
+    "Excalidraw/MyTime mymap.md",
+    "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
+    "Pasted image 20240327153538.png",
+    "Lecture Kmutt/INT210/lecture/lecture 5.md",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+    "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
+    "Excalidraw/Untitled.md",
     "Lecture Kmutt/INT203/lecture/lecture 5.md",
     "2024-03-27.md",
     "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
@@ -203,7 +190,6 @@
     "Google certificate/LINUX & SQL/Module-4",
     "Google certificate/LINUX & SQL/Module-2/Shell.md",
     "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
-    "Excalidraw/MyTime mymap.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Google certificate/LINUX & SQL/Overview.md",
     "MyJourney.md",
@@ -222,12 +208,8 @@
     "Google certificate/LINUX & SQL/Module-2",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT204/Spring boost/File management.md",
     "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
-    "Lecture Kmutt/INT204/Default config.md",
-    "Lecture Kmutt/Eng/Week3.md",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
@@ -235,7 +217,6 @@
     "Pasted image 20240308130821.png",
     "attachment/Pasted image 20240307084937.png",
     "attachment/Pasted image 20240307085908.png",
-    "attachment/Pasted image 20240307110540.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
