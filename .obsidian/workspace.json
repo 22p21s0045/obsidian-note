@@ -31,14 +31,34 @@
             "id": "63872a4aecf2cbb0",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf"
+              }
+            }
+          },
+          {
+            "id": "7b21fd557eb794ff",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md"
+                "file": "Excalidraw/MyTime mymap.md"
+              }
+            }
+          },
+          {
+            "id": "19c203a3ee996abf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/JWT token.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
+                "file": "Excalidraw/JWT token.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
+                "file": "Excalidraw/JWT token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md"
+                "file": "Excalidraw/JWT token.md"
               }
             }
           }
@@ -169,13 +189,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "63872a4aecf2cbb0",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Excalidraw/MyTime mymap.md",
+    "Excalidraw/JWT token.md",
+    "Excalidraw/Music player hobby project.md",
+    "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
-    "Pasted image 20240327153538.png",
     "Lecture Kmutt/INT210/lecture/lecture 5.md",
+    "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
+    "Pasted image 20240327153538.png",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
     "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
@@ -183,7 +207,6 @@
     "Lecture Kmutt/INT203/lecture/lecture 5.md",
     "2024-03-27.md",
     "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
-    "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Google certificate/LINUX & SQL/Module-4/Overview.md",
     "calendar/2024-03-24 Recap Advance database.md",
     "Google certificate/LINUX & SQL/Module-2/Overview.md",
@@ -204,12 +227,9 @@
     "2024-03-24.md",
     "calendar",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
-    "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Google certificate/LINUX & SQL/Module-2",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
-    "Lecture Kmutt/INT204/Spring boost/File management.md",
-    "Lecture Kmutt/INT204/Spring boost/Spring IoC, Spring Bean.md",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
