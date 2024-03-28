@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57cef822dba704a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6848f692a4b3b3a2",
+            "id": "a7b8efec531b0949",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
+                "file": "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf"
+              }
+            }
+          },
+          {
+            "id": "fe0f783f43492ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md"
+                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md"
               }
             }
           }
@@ -169,11 +169,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "61ec7c038dd34821",
+  "active": "fe0f783f43492ef5",
   "lastOpenFiles": [
-    "calendar/2024-03-28 Assignment Database.md",
-    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/INT206_Assignment1_2023_02_v1.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 5.md",
+    "dependency-knowledge/VLAN set up.md",
+    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+    "calendar/2024-03-30 Recap database.md",
+    "calendar/2024-03-30 Recap client side.md",
+    "calendar/2024-03-30 Recap datbase.md",
+    "calendar/2024-03-29 Recap client side.md",
+    "calendar/2024-03-28 Assignment Database.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
@@ -196,20 +206,9 @@
     "Lecture Kmutt/INT204/materials/09-INT204-Spring-Rest-Api-File-Service.pdf",
     "Google certificate/LINUX & SQL/Module-4/Overview.md",
     "calendar/2024-03-24 Recap Advance database.md",
-    "Google certificate/LINUX & SQL/Module-2/Overview.md",
     "Google certificate/LINUX & SQL/Module-4",
-    "Google certificate/LINUX & SQL/Module-2/Shell.md",
-    "Google certificate/LINUX & SQL/Module-2/The architecture of Linux.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "Google certificate/LINUX & SQL/Overview.md",
-    "MyJourney.md",
     "Pasted image 20240313094616.png",
-    "calendar/2024-03-24 Tools of the Trade Linux and SQl.md",
-    "calendar/2024-03-26 Recap Server side.md",
-    "calendar",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
-    "Google certificate/LINUX & SQL/Module-2",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
