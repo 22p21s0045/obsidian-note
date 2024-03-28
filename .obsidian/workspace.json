@@ -21,11 +21,9 @@
             "id": "fe0f783f43492ef5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
               }
             }
           },
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
+                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
+                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md"
+                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
               }
             }
           }
@@ -171,8 +169,8 @@
   },
   "active": "fe0f783f43492ef5",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
+    "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/materials/INT206_Assignment1_2023_02_v1.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
