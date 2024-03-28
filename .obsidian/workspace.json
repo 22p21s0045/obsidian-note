@@ -26,10 +26,10 @@
               "type": "pdf",
               "state": {
                 "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
-                "page": 14,
-                "left": -12,
-                "top": 116,
-                "zoom": 1.29375
+                "page": 15,
+                "left": -135,
+                "top": 511,
+                "zoom": 0.97
               }
             }
           },
@@ -41,8 +41,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md"
               }
             }
           }
@@ -176,11 +175,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6848f692a4b3b3a2",
+  "active": "57cef822dba704a3",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 5.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
-    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",

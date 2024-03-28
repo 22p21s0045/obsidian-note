@@ -68,3 +68,8 @@ Avoid the bottlenecks and underutilization of resources
 - Local mapping tranparency (ระบุ fragment + Site)
 
 ![](https://i.imgur.com/o7hHNmo.png)
+
+## Finish
+```bash
+ docker run --name mysql1-new -v /home/sysadmin/my.cnf:/etc/my.cnf -v /home/sysadmin/datadir/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=mysql -d -p 3307:3306 mysql/mysql-server
+```
