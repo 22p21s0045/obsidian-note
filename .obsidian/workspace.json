@@ -25,11 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
-                "page": 15,
-                "left": -135,
-                "top": 511,
-                "zoom": 0.97
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
               }
             }
           },
@@ -41,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,14 +166,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "57cef822dba704a3",
+  "active": "61ec7c038dd34821",
   "lastOpenFiles": [
+    "calendar/2024-03-28 Assignment Database.md",
     "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 5.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
