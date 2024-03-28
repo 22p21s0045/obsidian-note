@@ -8,22 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7b8efec531b0949",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf"
-              }
-            }
-          },
-          {
             "id": "fe0f783f43492ef5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md"
               }
             }
           }
@@ -169,8 +160,9 @@
   },
   "active": "fe0f783f43492ef5",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
+    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/materials/INT206_Assignment1_2023_02_v1.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
@@ -205,7 +197,6 @@
     "Google certificate/LINUX & SQL/Module-4/Overview.md",
     "calendar/2024-03-24 Recap Advance database.md",
     "Google certificate/LINUX & SQL/Module-4",
-    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
