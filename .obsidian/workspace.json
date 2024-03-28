@@ -8,57 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31c14426caab55fe",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "984e0876d7c5f805",
+            "id": "e5b36a901053a197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210/lecture/lecture 5.md",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63872a4aecf2cbb0",
+            "id": "984e0876d7c5f805",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf"
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
               }
             }
           },
           {
-            "id": "7b21fd557eb794ff",
+            "id": "61ec7c038dd34821",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MyTime mymap.md"
-              }
-            }
-          },
-          {
-            "id": "19c203a3ee996abf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/JWT token.md"
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/JWT token.md",
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/JWT token.md",
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/JWT token.md"
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
               }
             }
           }
@@ -189,15 +169,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "19c203a3ee996abf",
+  "active": "984e0876d7c5f805",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/lecture/lecture 5.md",
+    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 3.md",
+    "Lecture Kmutt/INT206/lecture/lecture 4.md",
+    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "Lecture Kmutt/INT206/lecture/lecture 2.md",
+    "Lecture Kmutt/INT210/lecture/lecture 5.md",
+    "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
     "Excalidraw/MyTime mymap.md",
     "Excalidraw/JWT token.md",
     "Excalidraw/Music player hobby project.md",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
-    "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
-    "Lecture Kmutt/INT210/lecture/lecture 5.md",
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
     "Pasted image 20240327153538.png",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
@@ -219,17 +205,10 @@
     "Pasted image 20240313094616.png",
     "calendar/2024-03-24 Tools of the Trade Linux and SQl.md",
     "calendar/2024-03-26 Recap Server side.md",
-    "calendar/2024-03-25 Recap Advance database.md",
-    "calendar/2024-03-27 Recap ServerSide.md",
-    "calendar/2024-03-27 Recap Server-Side.md",
-    "calendar/2024-03-26 Recap ServerSide.md",
-    "calendar/2024-03-25 Recap Client Side.md",
-    "2024-03-24.md",
     "calendar",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
     "Google certificate/LINUX & SQL/Module-2",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
     "Pasted image 20240311111740.png",
