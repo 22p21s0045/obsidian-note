@@ -5,6 +5,7 @@
 - LAB 10 คะเนน
 	- เเก้โจท + เขียน Query
 
+[[INT206_07_Distributed_DBMS.pdf]]
 
 
 ## Recap
@@ -49,3 +50,21 @@ Avoid the bottlenecks and underutilization of resources
 
 
 ![](https://i.imgur.com/3l4rlmt.png)
+
+
+![](https://i.imgur.com/wY33lou.png)
+
+- Disjoint ไม่มีข้อมูลซั้า
+- Completeness
+- Reconstruction
+
+
+![](https://i.imgur.com/PwGHWpz.png)
+
+- เเบ่งเป็น row กับ column
+
+
+- Location transparency (ระบุ fragment)
+- Local mapping tranparency (ระบุ fragment + Site)
+
+![](https://i.imgur.com/o7hHNmo.png)

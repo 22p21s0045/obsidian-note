@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5b36a901053a197",
+            "id": "57cef822dba704a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,16 @@
             }
           },
           {
-            "id": "984e0876d7c5f805",
+            "id": "6848f692a4b3b3a2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+                "page": 14,
+                "left": -12,
+                "top": 116,
+                "zoom": 1.29375
               }
             }
           },
@@ -166,16 +170,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "984e0876d7c5f805",
+  "active": "6848f692a4b3b3a2",
   "lastOpenFiles": [
     "Lecture Kmutt/INT206/lecture/lecture 5.md",
+    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
-    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT210/lecture/lecture 5.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
