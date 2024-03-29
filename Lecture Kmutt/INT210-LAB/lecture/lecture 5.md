@@ -8,3 +8,7 @@ docker run busybox hostname -i
 
 ## docker cp
 
+```
+docker cp [SOURCE] [DESTINATION]
+```
+
