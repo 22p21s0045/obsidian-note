@@ -11,19 +11,23 @@
             "id": "34b39b26a87a1a22",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "799544ce41e382f7",
+            "id": "f752de628c1c6e24",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf"
+                "file": "Lecture Kmutt/INT206/lecture/lecture 3.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -101,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md"
               }
             }
           }
@@ -168,7 +172,12 @@
   },
   "active": "34b39b26a87a1a22",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT206/lecture/lecture 3.md",
+    "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
+    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "Lecture Kmutt/INT206/lecture/lecture 1.md",
+    "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
@@ -188,24 +197,18 @@
     "Lecture Kmutt/INT208 LAB/materials/INT206_Assignment1_2023_02_v1.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "dependency-knowledge/VLAN set up.md",
-    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "calendar/2024-03-30 Recap database.md",
     "calendar/2024-03-30 Recap client side.md",
     "calendar/2024-03-30 Recap datbase.md",
     "calendar/2024-03-29 Recap client side.md",
-    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
-    "Lecture Kmutt/INT206/lecture/lecture 2.md",
     "Lecture Kmutt/INT210/lecture/lecture 5.md",
     "Excalidraw/MyTime mymap.md",
     "Excalidraw/JWT token.md",
     "Excalidraw/Music player hobby project.md",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
     "Pasted image 20240327153538.png",
-    "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "obsidian-logo.png",
