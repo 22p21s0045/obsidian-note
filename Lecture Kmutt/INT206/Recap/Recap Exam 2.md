@@ -15,7 +15,8 @@
 >• If one transaction writes a data item and another reads or writes same
 data item, order  execution is important.
 
-
+>[!tip]
+>Cascading rollback if this transaction read another transaction but another is rollback
 ### atomicity
 - If it error it rollback if success it commit it have only two state
 
@@ -40,4 +41,15 @@ ensures that any transaction will bring the database from one valid state to ano
 			 - Timeouts
 			 - Deadlock prevention (ยังไม่เกิด) 
 			 - Deadlock detection (เกิดเเล้ว)
+
+
+## Database Recovery
+
+- **Redo**: Reapplies committed changes after system failure using transaction logs. Undo: 
+- **Rolls back** uncommitted or aborted changes to maintain data consistency.
+
+
+>[!tip]
+>Incremental backup involves backing up only the changes made since the last backup, minimizing storage space and backup time.
+
 
