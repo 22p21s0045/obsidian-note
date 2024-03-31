@@ -106,3 +106,26 @@ DBMS คนละประเภท
     
     - Maintaining data consistency across fragmented components can be challenging, especially in distributed environments with multiple concurrent transactions.
     - It requires mechanisms such as distributed transactions or synchronization protocols to ensure that updates are propagated consistently across all fragments.
+
+
+### Distribution transparency
+
+- **Fragmentation Transparency**:
+    
+    - Users are unaware that the data is fragmented. It appears as a single logical entity.
+    - Fragmentation is entirely hidden from users.
+- **Location Transparency**:
+    
+    - Users know that data is fragmented but are not required to know the specific location of data fragments.
+    - Users interact with the fragmented data without needing to specify where each fragment is located.
+- **Replication Transparency**:
+    
+    - Users are unaware of the replication of data fragments.
+    - It's closely related to location transparency, as users interact with the fragmented data without needing to know about any replication.
+- **Local Mapping Transparency**:
+    
+    - Users need to know that the data is fragmented, including the specific location of fragments.
+    - Users have knowledge of both the fragmentation and the locations of individual data fragments.
+
+
+## Recovery
