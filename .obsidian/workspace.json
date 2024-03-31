@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
+                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md"
+                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md"
               }
             }
           }
@@ -153,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +170,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "34b39b26a87a1a22",
+  "active": "ad9a2c59bd237008",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",

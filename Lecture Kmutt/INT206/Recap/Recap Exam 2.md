@@ -68,3 +68,9 @@ type of database management system that is designed to process queries and  tran
 - Improved performance
 - Economics ประหยัด
 - Modular growth เพื่มขยาย
+
+### Homogeneouse
+DBMS ยี่ห้อเดียวกัน
+
+### Heterogenouse 
+DBMS คนละประเภท
