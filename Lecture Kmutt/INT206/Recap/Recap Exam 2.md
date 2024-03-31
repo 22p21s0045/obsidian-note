@@ -74,3 +74,35 @@ DBMS ยี่ห้อเดียวกัน
 
 ### Heterogenouse 
 DBMS คนละประเภท
+
+
+## Fragmentation (การเเบ่งข้อมูล)
+### Advantages:
+
+1. **Efficient Resource Utilization**:
+    
+    - Fragmentation allows for efficient use of storage resources by storing only relevant data at each fragment or partition.
+    - It prevents the wastage of resources by storing unused or less frequently accessed data separately.
+2. **Enhanced Performance**:
+    
+    - Fragmentation can improve query performance by storing frequently accessed data closer to the users or applications that need it.
+    - It reduces data transfer overhead by minimizing the amount of data that needs to be transmitted over the network.
+3. **Scalability**:
+    
+    - Fragmentation supports horizontal scalability by distributing data across multiple servers or partitions.
+    - It allows the database to handle increasing loads and accommodate more users or data without a significant drop in performance.
+
+### Disadvantages:
+
+1. **Complexity**:
+    
+    - Fragmentation introduces complexity in data management, as administrators need to manage multiple fragments distributed across different locations or servers.
+    - It requires careful planning and maintenance to ensure data consistency and integrity across fragmented components.
+2. **Increased Overhead**:
+    
+    - Fragmentation can lead to increased overhead in terms of data replication, synchronization, and management.
+    - It may require additional resources and infrastructure to manage distributed data effectively, which can add to operational costs.
+3. **Data Consistency Challenges**:
+    
+    - Maintaining data consistency across fragmented components can be challenging, especially in distributed environments with multiple concurrent transactions.
+    - It requires mechanisms such as distributed transactions or synchronization protocols to ensure that updates are propagated consistently across all fragments.

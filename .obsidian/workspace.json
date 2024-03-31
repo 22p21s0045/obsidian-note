@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e55e38a3cb4619e5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
+              }
+            }
+          },
+          {
             "id": "ad9a2c59bd237008",
             "type": "leaf",
             "state": {
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md"
+                "file": "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf"
               }
             }
           }
@@ -170,12 +180,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ad9a2c59bd237008",
+  "active": "e55e38a3cb4619e5",
   "lastOpenFiles": [
     "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
