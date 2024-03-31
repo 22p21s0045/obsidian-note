@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ad9a2c59bd237008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT206/lecture/lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bf16598c82b2f32f",
             "type": "leaf",
             "state": {
@@ -160,8 +172,11 @@
   },
   "active": "34b39b26a87a1a22",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
+    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
+    "Lecture Kmutt/INT206/material/INT206_07_Distributed_DBMS.pdf",
+    "Lecture Kmutt/INT206/lecture/lecture 3.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
@@ -174,7 +189,6 @@
     "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 5.md",
     "Lecture Kmutt/INT210-LAB/materials/Deplooy.md",
-    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT206/lecture/lecture 5.md",
     "Lecture Kmutt/Eng/Week 5.md",
     "Lecture Kmutt/Eng/Week3.md",
@@ -183,13 +197,11 @@
     "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/materials/INT206_Assignment1_2023_02_v1.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "dependency-knowledge/VLAN set up.md",
     "calendar/2024-03-30 Recap database.md",
     "calendar/2024-03-30 Recap client side.md",
     "calendar/2024-03-30 Recap datbase.md",
     "calendar/2024-03-29 Recap client side.md",
-    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Lecture Kmutt/INT210/lecture/lecture 5.md",
     "Excalidraw/MyTime mymap.md",
     "Excalidraw/JWT token.md",

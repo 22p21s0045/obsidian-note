@@ -53,3 +53,18 @@ ensures that any transaction will bring the database from one valid state to ano
 >Incremental backup involves backing up only the changes made since the last backup, minimizing storage space and backup time.
 
 
+## Distributed database
+
+- transparency (มองผ่านไปเหมือนว่า database  อยู่ที่เดียว)
+- Fragment (ส่วนของข้อมูล)
+### Parallel Database Management System
+type of database management system that is designed to process queries and  transactions concurrently across **multiple processing units** or nodes. In a PDBMS, data is distributed across these processing units
+
+### Advantage of distributed DBMS
+- Reflects organizational structure
+- Improved shareability and local autonomy
+- Improved availability
+- Improved reliability
+- Improved performance
+- Economics ประหยัด
+- Modular growth เพื่มขยาย
