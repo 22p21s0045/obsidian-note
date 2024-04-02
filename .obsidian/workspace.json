@@ -23,11 +23,9 @@
             "id": "baf2ed627b2683c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
               }
             }
           },
@@ -170,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md"
+                "file": "Lecture Kmutt/INT206/Recap/Recap Exam 2.md"
               }
             }
           }
@@ -234,10 +232,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "baf2ed627b2683c7",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
+    "Lecture Kmutt/INT206/material/INT206_04_DBSecurityandAdministration02_02_2023.pdf",
     "Lecture Kmutt/INT206/material/INT206_05_TransactionManagement_Part1_02_2023.pdf",
     "Lecture Kmutt/INT206/material/INT206_06_Transaction_Management_Part2_02_2023.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
