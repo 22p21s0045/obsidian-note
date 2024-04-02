@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md"
+                "file": "Excalidraw/PlannetComponent.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md",
+                "file": "Excalidraw/PlannetComponent.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md",
+                "file": "Excalidraw/PlannetComponent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md"
+                "file": "Excalidraw/PlannetComponent.md"
               }
             }
           }
@@ -149,9 +149,20 @@
   },
   "active": "7fde6b5439cf52b1",
   "lastOpenFiles": [
-    "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.png",
+    "Excalidraw/PlannetComponent.md",
     "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
+    "Excalidraw/MyTime mymap.md",
+    "Excalidraw/Music player hobby project.md",
+    "Excalidraw/JWT token.md",
+    "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
+    "2024-03-27.md",
+    "MyJourney.md",
+    "obsidian-logo.png",
+    "Pasted image 20240327153538.png",
+    "Excalidraw/Untitled.md",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
@@ -177,24 +188,12 @@
     "Lecture Kmutt/Eng/Week3.md",
     "calendar/2024-03-28 Assignment Database.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 5.md",
-    "dependency-knowledge/VLAN set up.md",
-    "calendar/2024-03-30 Recap database.md",
-    "calendar/2024-03-30 Recap client side.md",
-    "calendar/2024-03-30 Recap datbase.md",
-    "calendar/2024-03-29 Recap client side.md",
-    "Lecture Kmutt/INT210/lecture/lecture 5.md",
-    "Excalidraw/MyTime mymap.md",
-    "Excalidraw/JWT token.md",
-    "Excalidraw/Music player hobby project.md",
-    "Pasted image 20240327153538.png",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
-    "obsidian-logo.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
     "Pasted image 20240308130821.png",
     "attachment/Pasted image 20240307084937.png",
-    "attachment/Pasted image 20240307085908.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
