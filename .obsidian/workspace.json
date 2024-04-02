@@ -4,61 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "51cfe1dc8481bf07",
+        "id": "f515b18cdb43966c",
         "type": "tabs",
         "children": [
           {
-            "id": "51d1a15115349311",
+            "id": "7fde6b5439cf52b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf"
-              }
-            }
-          },
-          {
-            "id": "e1336a8a2e5745e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf"
-              }
-            }
-          },
-          {
-            "id": "f3875f6c84526b39",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
-              }
-            }
-          },
-          {
-            "id": "cb3defc263c390c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf"
-              }
-            }
-          },
-          {
-            "id": "1346de0d312669f1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf"
+                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
+                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf"
+                "file": "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md"
               }
             }
           }
@@ -188,8 +147,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f3875f6c84526b39",
+  "active": "7fde6b5439cf52b1",
   "lastOpenFiles": [
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
@@ -207,7 +169,6 @@
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
     "Lecture Kmutt/INT206/lecture/lecture 1.md",
     "Lecture Kmutt/INT206/lecture/lecture 2.md",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 5.md",
     "Lecture Kmutt/INT210-LAB/materials/Deplooy.md",
@@ -225,8 +186,6 @@
     "Excalidraw/MyTime mymap.md",
     "Excalidraw/JWT token.md",
     "Excalidraw/Music player hobby project.md",
-    "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Pasted image 20240327153538.png",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
