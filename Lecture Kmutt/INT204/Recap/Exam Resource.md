@@ -4,7 +4,8 @@
 - [[DTO]]
 - [[Controller]]
 - [[Config]]
-- CRUD
+- [[CRUD]]
+- Errohandle
 - [[Lecture Kmutt/INT204/Recap/Repository|Repository]]
 
 
