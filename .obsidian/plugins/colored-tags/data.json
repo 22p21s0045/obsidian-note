@@ -114,7 +114,9 @@
     "os": 101,
     "database-recovery": 102,
     "digital-forensic": 103,
-    "lecture-5": 104
+    "lecture-5": 104,
+    "entity": 105,
+    "repository": 106
   },
   "_version": 3
 }
