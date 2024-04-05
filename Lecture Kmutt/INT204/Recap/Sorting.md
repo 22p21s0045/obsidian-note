@@ -16,3 +16,30 @@ public List<Employee> findAll(String sortby,String direction,Integer page,Intege
   
 }
 ```
+
+
+final
+```java
+public List<Employee> findAll(String sortby,String direction,Integer page,Integer size){  
+    Sort.Order order = new Sort.Order((direction.equalsIgnoreCase("asc")?Sort.Direction.ASC : Sort.Direction.DESC),sortby);  
+  
+    System.out.println(sortby);  
+  
+    
+  
+  
+    if("DES".equalsIgnoreCase(direction)){  
+        PageRequest pageRequest = PageRequest.of(page,size,Sort.by(sortby).descending());  
+        return repository.findAll(pageRequest).getContent();  
+    }  
+    else {  
+        PageRequest pageRequest = PageRequest.of(page,size,Sort.by(sortby).ascending());  
+  
+        return repository.findAll(pageRequest).getContent();  
+    }  
+  
+  
+  
+  
+}
+```
