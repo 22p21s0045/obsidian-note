@@ -1,4 +1,4 @@
-#repository
+#repositor
 ### CustomerRepositroy
 ```java
 public interface CustomerRepository extends JpaRepository<Customer,Integer> {
