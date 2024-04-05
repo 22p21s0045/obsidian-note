@@ -2,13 +2,10 @@
 - [[Entity]]
 - [[Repsitory]]
 - [[DTO]]
-- Controller
-
-
-
-
-
-
+- [[Controller]]
+- [[Config]]
+- CRUD
+- [[Lecture Kmutt/INT204/Recap/Repository|Repository]]
 
 
 
