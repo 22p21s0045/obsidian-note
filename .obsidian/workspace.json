@@ -21,11 +21,9 @@
             "id": "fd5e3494394c7c31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT204/Recap/Error handle.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf"
               }
             }
           },
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT204/Recap/Error handle.md",
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT204/Recap/Error handle.md",
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT204/Recap/Error handle.md"
+                "file": "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf"
               }
             }
           }
@@ -199,12 +197,13 @@
   },
   "active": "fd5e3494394c7c31",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.png",
+    "Lecture Kmutt/INT204/Recap/Error handle.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
     "Lecture Kmutt/INT204/Recap/Exam Resource.md",
     "Lecture Kmutt/INT204/Recap/Repository.md",
     "Lecture Kmutt/INT204/Recap/CRUD.md",
-    "Lecture Kmutt/INT204/Recap/Error handle.md",
     "Lecture Kmutt/INT204/Recap/Controller.md",
     "Lecture Kmutt/INT204/Recap/Config.md",
     "Lecture Kmutt/INT204/materials/05-INT204-Spring-boot-JPAQuery-with-PaginationAndSorting.pdf",
@@ -215,7 +214,6 @@
     "Lecture Kmutt/INT204/materials/06-INT204-Spring-Rest-Api-DTO.pdf",
     "Lecture Kmutt/INT204/Recap",
     "Excalidraw/PlannetComponent.md",
-    "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.png",
     "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
