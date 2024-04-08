@@ -4,67 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f515b18cdb43966c",
+        "id": "502009ca8581d1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "7fde6b5439cf52b1",
+            "id": "0c1273ac428783e9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Lecture Kmutt/exam schedule/IMG_8060.jpg"
-              }
-            }
-          },
-          {
-            "id": "fd5e3494394c7c31",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf"
-              }
-            }
-          },
-          {
-            "id": "de9b5aed3de86754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT204/Recap/CRUD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e9646bdc3db012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT204/Recap/Repository.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fff7a428d59dc43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/INT204/Recap/Repository.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -195,8 +142,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fd5e3494394c7c31",
+  "active": "0c1273ac428783e9",
   "lastOpenFiles": [
+    "calendar/2024-04-09 Recap Architecture.md",
+    "calendar/2024-04-08 Recap network.md",
+    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
     "Lecture Kmutt/INT204/Recap/Exam Resource.md",
     "Lecture Kmutt/INT204/Recap/Repsitory.md",
     "Lecture Kmutt/INT204/Recap/Error handle.md",
@@ -230,12 +180,10 @@
     "Excalidraw/Untitled.md",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
     "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
     "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
     "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
-    "Lecture Kmutt/INT206/lecture/lecture 4.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
