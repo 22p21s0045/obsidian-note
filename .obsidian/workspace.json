@@ -14,8 +14,31 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "7251ae32e514ec87",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf"
+              }
+            }
+          },
+          {
+            "id": "b3c98aa8d880a1fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md"
+              }
             }
           }
         ],
@@ -142,8 +169,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0c1273ac428783e9",
+  "active": "b3c98aa8d880a1fb",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+    "Lecture Kmutt/INT208 Lecture/Recap",
     "calendar/2024-04-09 Recap Architecture.md",
     "calendar/2024-04-08 Recap network.md",
     "Lecture Kmutt/INT203/material/Chapter6-BasicComponents-V2.pdf",
@@ -179,11 +210,6 @@
     "2024-03-27.md",
     "Excalidraw/Untitled.md",
     "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
-    "Lecture Kmutt/INT203/material/Chapter8-VueRouter.pdf",
-    "Lecture Kmutt/INT203/material/Chapter5-Lifecycle.pdf",
-    "Lecture Kmutt/INT203/material/Chapter6-BasicComponents.pdf",
-    "Lecture Kmutt/INT206/Recap/Recap Exam 2.md",
-    "Lecture Kmutt/INT206/Recap/Recap Quiz 2.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
