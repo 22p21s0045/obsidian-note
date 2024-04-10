@@ -8,25 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c1273ac428783e9",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7251ae32e514ec87",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf"
-              }
-            }
-          },
-          {
-            "id": "b3c98aa8d880a1fb",
+            "id": "60b48bb478b21d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +151,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b3c98aa8d880a1fb",
+  "active": "60b48bb478b21d78",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
+    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap",
     "calendar/2024-04-09 Recap Architecture.md",
@@ -208,8 +193,6 @@
     "Excalidraw/JWT token.md",
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
     "2024-03-27.md",
-    "Excalidraw/Untitled.md",
-    "Lecture Kmutt/INT203/material/Chapter9-BasicStateManagement.pdf",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
