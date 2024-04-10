@@ -22,3 +22,11 @@ Asymmetric key cryptography, also known as public-key cryptography, utilizes a p
 - เป็น software ที่เข้ามาเเทรกอีกทีตามหลักการของ SDN
 
 ![](https://i.imgur.com/hQ899oV.png)
+
+
+## Monitoring
+- พยายามหาเหตุ
+- Latency (ความหน่วง)
+- Traffic
+- Errors
+- Saturation
