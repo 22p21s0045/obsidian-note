@@ -23,9 +23,11 @@
             "id": "b6b3862e965b2666",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
+                "file": "Lecture Kmutt/Eng/List question eng.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
+                "file": "Lecture Kmutt/Eng/List question eng.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
+                "file": "Lecture Kmutt/Eng/List question eng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
+                "file": "Lecture Kmutt/Eng/List question eng.md"
               }
             }
           }
@@ -162,10 +164,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "82e47e395a9af147",
+  "active": "b6b3862e965b2666",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 LAB/design AP.md",
+    "Lecture Kmutt/Eng/List question eng.md",
+    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
@@ -203,7 +206,6 @@
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Excalidraw/MyTime mymap.md",
     "Excalidraw/Music player hobby project.md",
-    "Excalidraw/JWT token.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
