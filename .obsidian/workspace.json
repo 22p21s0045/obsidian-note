@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "502009ca8581d1c3",
+        "id": "bbbd0e85c657e415",
         "type": "tabs",
         "children": [
           {
-            "id": "60b48bb478b21d78",
+            "id": "1cbb723e842dd689",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6b3862e965b2666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Kmutt/Eng/List question eng.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/Eng/List question eng.md",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/Eng/List question eng.md",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/Eng/List question eng.md"
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
               }
             }
           }
@@ -164,11 +149,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b6b3862e965b2666",
+  "active": "1cbb723e842dd689",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/design AP.md",
+    "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
     "Lecture Kmutt/Eng/List question eng.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
+    "Lecture Kmutt/INT208 LAB/design AP.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
@@ -205,7 +191,6 @@
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Excalidraw/MyTime mymap.md",
-    "Excalidraw/Music player hobby project.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
