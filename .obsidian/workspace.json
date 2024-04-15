@@ -11,9 +11,19 @@
             "id": "1cbb723e842dd689",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
+                "file": "Lecture Kmutt/INT208 LAB/design AP.png"
+              }
+            }
+          },
+          {
+            "id": "189e996d306ed0bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf"
               }
             }
           }
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
+                "file": "Lecture Kmutt/INT208 LAB/design AP.png"
               }
             }
           }
@@ -132,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,18 +158,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1cbb723e842dd689",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.md",
+    "Lecture Kmutt/INT208 LAB/design AP.png",
+    "Pasted Image 20240415205152_638.png",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
     "Lecture Kmutt/Eng/List question eng.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
-    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap",
@@ -179,9 +191,7 @@
     "Pasted image 20240327153538.png",
     "obsidian-logo.png",
     "ReadMe.md",
-    "Lecture Kmutt/INT204/materials/08-INT204-Spring-Rest-Api-Validation.pdf",
     "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.png",
-    "Lecture Kmutt/INT204/materials/07-INT204-Spring-Rest-Api-Exception-Handling.pdf",
     "Lecture Kmutt/INT204/Recap/Controller.md",
     "Lecture Kmutt/INT204/Recap/DTO.md",
     "Lecture Kmutt/INT204/Recap/Sorting.md",
@@ -195,8 +205,6 @@
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
     "Pasted image 20240308131513.png",
-    "Pasted image 20240308130821.png",
-    "attachment/Pasted image 20240307084937.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
