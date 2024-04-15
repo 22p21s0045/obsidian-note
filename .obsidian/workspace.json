@@ -11,9 +11,9 @@
             "id": "1cbb723e842dd689",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.png"
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.png",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.png",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.png"
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
               }
             }
           }
@@ -158,10 +158,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "82e47e395a9af147",
+  "active": "1cbb723e842dd689",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/design AP.md",
     "Lecture Kmutt/INT208 LAB/design AP.png",
+    "Lecture Kmutt/INT208 LAB/design AP.md",
     "Pasted Image 20240415205152_638.png",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
