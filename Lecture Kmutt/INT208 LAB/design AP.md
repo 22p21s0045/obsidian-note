@@ -124,7 +124,7 @@ Aruba 7010 Mobility Controller ^XsyXOex5
 
 Core Switch ^E4ik3Rb6
 
-Aruba Networking CX 6300 Series ^vIeBWz4H
+Aruba Networking CX 6300 Series 48G ^vIeBWz4H
 
 LACP ^pcUZAZPj
 
@@ -3002,8 +3002,8 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		},
 		{
 			"type": "text",
-			"version": 253,
-			"versionNonce": 617583412,
+			"version": 264,
+			"versionNonce": 689264180,
 			"isDeleted": false,
 			"id": "vIeBWz4H",
 			"fillStyle": "solid",
@@ -3013,27 +3013,27 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"opacity": 100,
 			"angle": 0,
 			"x": -852.0207677369298,
-			"y": 285.04065369128034,
+			"y": 284.04065369128034,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 333.69976806640625,
+			"width": 387.5797424316406,
 			"height": 25,
 			"seed": 1886691212,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713188894909,
+			"updated": 1713193531547,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Aruba Networking CX 6300 Series",
-			"rawText": "Aruba Networking CX 6300 Series",
+			"text": "Aruba Networking CX 6300 Series 48G",
+			"rawText": "Aruba Networking CX 6300 Series 48G",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Aruba Networking CX 6300 Series",
+			"originalText": "Aruba Networking CX 6300 Series 48G",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -3363,6 +3363,43 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"updated": 1713189125593,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "wImckrmP",
+			"type": "text",
+			"x": -463.820314075188,
+			"y": 309.2878500158174,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 33097996,
+			"version": 2,
+			"versionNonce": 1908606772,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713193527044,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -3380,10 +3417,10 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1828.3917426466148,
-		"scrollY": 1193.9785077699296,
+		"scrollX": 1009.8203140751878,
+		"scrollY": 110.22777498418242,
 		"zoom": {
-			"value": 0.30000000000000004
+			"value": 1.0000000000000004
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
