@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf"
               }
             }
           }
@@ -158,13 +159,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1cbb723e842dd689",
+  "active": "189e996d306ed0bc",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 LAB/design AP.png",
-    "Lecture Kmutt/INT208 LAB/design AP.md",
-    "Pasted Image 20240415205152_638.png",
+    "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+    "Lecture Kmutt/INT208 LAB/design AP.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
+    "Lecture Kmutt/INT208 LAB/design AP.png",
+    "Pasted Image 20240415205152_638.png",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
@@ -186,7 +188,6 @@
     "Lecture Kmutt/INT204/Recap/CRUD.md",
     "Lecture Kmutt/INT204/Recap/Config.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "Lecture Kmutt/INT204/materials/05-INT204-Spring-boot-JPAQuery-with-PaginationAndSorting.pdf",
     "MyJourney.md",
     "Pasted image 20240327153538.png",
     "obsidian-logo.png",
