@@ -30,3 +30,25 @@
 
 - 4 QAM can sent 2 bit per time
 - 16 QAM can sent 4 bit per time
+
+> [!tip]
+> Spread spectrum ทําให้รองรับ user มากขึ้นฃ
+
+
+
+## Step convert anlog to digital
+1.  Sampling
+2. Quantizied
+3. Encoding
+
+
+
+
+
+
+
+
+
+
+
+
