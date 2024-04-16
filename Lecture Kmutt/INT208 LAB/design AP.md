@@ -1487,8 +1487,8 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		},
 		{
 			"type": "text",
-			"version": 64,
-			"versionNonce": 1213908532,
+			"version": 65,
+			"versionNonce": 39699701,
 			"isDeleted": false,
 			"id": "llrUSzK7",
 			"fillStyle": "solid",
@@ -1498,7 +1498,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"opacity": 100,
 			"angle": 0,
 			"x": 502.72290077876926,
-			"y": 161.3209808915986,
+			"y": 159.98764755826534,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 595.899658203125,
@@ -1508,7 +1508,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713181536648,
+			"updated": 1713245647620,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3380,10 +3380,10 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1618.391742646616,
-		"scrollY": 867.8773285556108,
+		"scrollX": -423.0697958149221,
+		"scrollY": 452.2907328596399,
 		"zoom": {
-			"value": 0.30000000000000004
+			"value": 0.7500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

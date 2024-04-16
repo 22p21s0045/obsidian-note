@@ -12,3 +12,14 @@
 
 
 ![](https://i.imgur.com/ABJ2Ybs.png)
+
+
+- Distortion (สัญญาณเพี้ยน)
+- Noise 
+
+![](https://i.imgur.com/iFMpRrN.png)
+
+>[!tip]
+>อัตราส่วนสัญญาณกับ noise
+
+
