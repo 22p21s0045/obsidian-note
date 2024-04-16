@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf"
+                "file": "Lecture Kmutt/INT208 LAB/design AP.md"
               }
             }
           }
@@ -181,8 +181,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "46624b5fa758e53a",
+  "active": "cfb5d70e26ab48af",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
@@ -190,10 +192,8 @@
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
-    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 LAB/design AP.md",
     "Lecture Kmutt/INT208 LAB/design AP.png",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Pasted Image 20240415205152_638.png",
