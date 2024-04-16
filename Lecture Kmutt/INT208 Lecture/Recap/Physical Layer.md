@@ -4,3 +4,11 @@
 >[!tip]
 >- Multiplexing เป็นการทำงานในรูปแบบ **Many to One** และ One to Many ซึ่งอาศัยเพียงช่องทางเดียวในการนำส่งสัญญาณข้อมูลชนิด
 
+![](https://i.imgur.com/eFeDnmI.png)
+
+## Polar schemes
+- Repeater ตัดช่วงเเล้วถอดรหัสส่งต่อไป
+-  it is decide signal is 0 or 1 ?
+
+
+![](https://i.imgur.com/ABJ2Ybs.png)
