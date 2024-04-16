@@ -30,3 +30,18 @@ Asymmetric key cryptography, also known as public-key cryptography, utilizes a p
 - Traffic
 - Errors
 - Saturation
+
+## The four golden signals for site availability are:
+
+- **Latency:** This refers to the time it takes for a website to respond to a user request. Low latency means a faster and more responsive user experience.
+- **Traffic:** This is the total volume of requests a website receives over a specific period. Monitoring traffic helps identify spikes in demand and potential bottlenecks.
+- **Errors:** This refers to the number of requests that fail or result in an error message. A rise in errors can indicate problems with the website's functionality.
+- **Saturation (การทํางานสูง):** This refers to the utilization of resources like CPU, memory, and storage on the servers hosting the website. High saturation can lead to slow performance or even outages.
+
+## Black box vs White box monitoring
+
+- **White box monitoring:** Focuses on the internal workings of applications. Examples include <span style="background:#b1ffff">monitoring application logs,</span> database queries, user activity, and response codes.
+- **Black box monitoring:** Focuses on the external behavior and health of servers. Examples include monitoring<span style="background:#b1ffff"> CPU usage, memory usage</span>, disk space, and uptime.
+
+
+[[Physical Layer]]
