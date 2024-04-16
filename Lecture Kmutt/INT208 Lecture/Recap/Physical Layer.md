@@ -41,14 +41,34 @@
 2. Quantizied
 3. Encoding
 
+## Fiber optic cable
+- Single mode 
+- Multi mode
+
+| Feature       | Single-mode Fiber                                   | Multimode Fiber                              |
+| ------------- | --------------------------------------------------- | -------------------------------------------- |
+| Core diameter | 8.3 microns                                         | 50 microns to 62.5 microns                   |
+| Light modes   | One                                                 | Multiple                                     |
+| Distance      | **Long distances** (tens to hundreds of kilometers) | **Short distances** (up to a few kilometers) |
+| Bandwidth     | Theoretically unlimited                             | Limited by modal dispersion                  |
+| Cost          | More expensive                                      | Less expensive                               |
+| Light source  | Lasers                                              | LEDs or lasers                               |
 
 
+![](https://i.imgur.com/K0ARtcP.png)
 
+>[!tip]
+> RJ45
 
+## Lan Cable
 
-
-
-
-
+|ประเภทสายเคเบิล|ความเร็วสูงสุด|แบนด์วิดธ์สูงสุด|
+|---|---|---|
+|Cat 5|100 Mbps|100 MHz|
+|Cat 5e|1,000 Mbps|100 MHz|
+|Cat 6|1,000 Mbps|250 MHz|
+|Cat 6a|10,000 Mbps|500 MHz|
+|Cat 7|10,000 Mbps|600 MHz|
+|Cat 7a|10,000 Mbps|1,000 MHz|
 
 
