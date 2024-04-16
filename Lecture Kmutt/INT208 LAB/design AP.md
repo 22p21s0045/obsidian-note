@@ -2574,8 +2574,8 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 2003099131,
+			"version": 202,
+			"versionNonce": 1603263125,
 			"isDeleted": false,
 			"id": "t1CMZvYy",
 			"fillStyle": "solid",
@@ -2595,7 +2595,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713237336355,
+			"updated": 1713277394823,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.50404329172345,
@@ -2607,12 +2607,12 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"containerId": null,
 			"originalText": "(1 Gbps  x 8 port)",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 1146901301,
+			"version": 132,
+			"versionNonce": 98600251,
 			"isDeleted": false,
 			"id": "0S0pu5Rb",
 			"fillStyle": "solid",
@@ -2632,7 +2632,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713237336355,
+			"updated": 1713277394823,
 			"link": null,
 			"locked": false,
 			"fontSize": 65.79220858739487,
@@ -2644,7 +2644,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"containerId": null,
 			"originalText": "8 Gbps",
 			"lineHeight": 1.25,
-			"baseline": 57
+			"baseline": 58
 		},
 		{
 			"type": "text",
@@ -2932,8 +2932,8 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		},
 		{
 			"type": "text",
-			"version": 129,
-			"versionNonce": 2091738779,
+			"version": 130,
+			"versionNonce": 708952053,
 			"isDeleted": false,
 			"id": "E4ik3Rb6",
 			"fillStyle": "solid",
@@ -2953,7 +2953,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713237336357,
+			"updated": 1713277394823,
 			"link": null,
 			"locked": false,
 			"fontSize": 52.42970399765936,
@@ -2965,7 +2965,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"containerId": null,
 			"originalText": "Core Switch",
 			"lineHeight": 1.25,
-			"baseline": 45
+			"baseline": 46
 		},
 		{
 			"type": "image",
@@ -3230,8 +3230,8 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		},
 		{
 			"type": "text",
-			"version": 192,
-			"versionNonce": 2083923093,
+			"version": 193,
+			"versionNonce": 1672619483,
 			"isDeleted": false,
 			"id": "GcwcFptO",
 			"fillStyle": "solid",
@@ -3251,7 +3251,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713237336357,
+			"updated": 1713277394823,
 			"link": null,
 			"locked": false,
 			"fontSize": 65.79220858739487,
@@ -3263,12 +3263,12 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"containerId": null,
 			"originalText": "100 Gbps",
 			"lineHeight": 1.25,
-			"baseline": 57
+			"baseline": 58
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 622582587,
+			"version": 286,
+			"versionNonce": 72350037,
 			"isDeleted": false,
 			"id": "FgwyPZo1",
 			"fillStyle": "solid",
@@ -3288,7 +3288,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713237336358,
+			"updated": 1713277394823,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.50404329172345,
@@ -3300,7 +3300,7 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 			"containerId": null,
 			"originalText": "(SFP56  x 2 port)",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "image",
@@ -3380,10 +3380,10 @@ df7f0f12dc99d06ad53690984e6db3c087e56ef4: https://www.securewirelessworks.com/im
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -423.0697958149221,
-		"scrollY": 452.2907328596399,
+		"scrollX": 1164.1060283609017,
+		"scrollY": 870.0425071270395,
 		"zoom": {
-			"value": 0.7500000000000001
+			"value": 0.35000000000000003
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
