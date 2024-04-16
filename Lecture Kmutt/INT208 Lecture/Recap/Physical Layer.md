@@ -25,3 +25,8 @@
 
 ## QAM
 - Change digital data to analog wave
+
+![](https://i.imgur.com/srn5ClL.png)
+
+- 4 QAM can sent 2 bit per time
+- 16 QAM can sent 4 bit per time

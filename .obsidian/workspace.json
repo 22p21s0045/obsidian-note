@@ -23,11 +23,9 @@
             "id": "46624b5fa758e53a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf"
               }
             }
           },
@@ -118,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md"
+                "file": "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf"
               }
             }
           }
@@ -185,25 +183,25 @@
   },
   "active": "46624b5fa758e53a",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
-    "Lecture Kmutt/INT208 LAB/design AP.md",
+    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
+    "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
-    "Lecture Kmutt/INT208 LAB/design AP.png",
-    "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
+    "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT208 LAB/design AP.md",
+    "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Pasted Image 20240415205152_638.png",
-    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
     "Lecture Kmutt/Eng/List question eng.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
-    "Lecture Kmutt/INT208 LAB/materials/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "calendar/2024-04-09 Recap Architecture.md",
     "calendar/2024-04-08 Recap network.md",
     "Lecture Kmutt/INT204/Recap/Exam Resource.md",
