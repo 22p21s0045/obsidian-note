@@ -23,3 +23,5 @@
 >อัตราส่วนสัญญาณกับ noise
 
 
+## QAM
+- Change digital data to analog wave
