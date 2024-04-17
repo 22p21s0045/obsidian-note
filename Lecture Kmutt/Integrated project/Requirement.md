@@ -54,4 +54,8 @@
 
 
 Product backlog
-- Read (Frontend call database) Mockup
+
+## Sprint 1
+- Read (Frontend call database) **Mockup**
+- View task detail
+- Spike (สิ่งใหม่ๆหาความเป็นไปได้ในการพัฒนา) / POC
