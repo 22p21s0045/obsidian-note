@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement.md",
+                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dcafa856948251b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f51c76edcf4445d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement.md",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement.md"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
               }
             }
           }
@@ -150,16 +173,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "16c55bff37a9bf39",
+  "active": "9f51c76edcf4445d",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
+    "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
+    "Lecture Kmutt/INT210-LAB/lecture/Image.md",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
     "Lecture Kmutt/Integrated project/Requirement.md",
     "Lecture Kmutt/Integrated project",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/Deplooy.md",
     "Lecture Kmutt/INT210-LAB/Recap/Docker.md",
     "Lecture Kmutt/INT210-LAB/Recap",
@@ -185,14 +213,9 @@
     "Lecture Kmutt/INT204/Recap/CRUD.md",
     "Lecture Kmutt/INT204/Recap/Config.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
-    "MyJourney.md",
     "Pasted image 20240327153538.png",
     "obsidian-logo.png",
-    "ReadMe.md",
     "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.png",
-    "Lecture Kmutt/INT204/Recap/Controller.md",
-    "Lecture Kmutt/INT204/Recap/DTO.md",
-    "Lecture Kmutt/INT204/Recap/Sorting.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
