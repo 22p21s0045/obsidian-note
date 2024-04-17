@@ -59,3 +59,8 @@ shares similarities with the microkernel architecture in that both involve modul
 Asynchronous style
 
 ![](https://i.imgur.com/vl8NkgN.png)
+
+- ### SOA (Service-Oriented Architecture)
+![](https://i.imgur.com/Eb3mmB6.png)
+
+พยายามนํา service ที่สามารถใช้ร่วมกันมาใช้ซั้ากัน

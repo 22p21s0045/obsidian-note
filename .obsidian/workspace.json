@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210/Recap/Lecture.md",
+                "file": "Lecture Kmutt/INT210/Recap/Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210/Recap/Lecture.md",
+                "file": "Lecture Kmutt/INT210/Recap/Testing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210/Recap/Lecture.md",
+                "file": "Lecture Kmutt/INT210/Recap/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210/Recap/Lecture.md"
+                "file": "Lecture Kmutt/INT210/Recap/Testing.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "16c55bff37a9bf39",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT210/Recap/DevOps.md",
+    "Lecture Kmutt/INT210/Recap/Testing.md",
+    "Lecture Kmutt/INT210/Recap/Architecture Style.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
-    "Lecture Kmutt/INT210/Recap/Lecture.md",
     "Lecture Kmutt/INT210/Recap",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
@@ -198,8 +200,6 @@
     "calendar/2024-04-09 Recap Architecture.md",
     "calendar/2024-04-08 Recap network.md",
     "Lecture Kmutt/INT204/Recap/Exam Resource.md",
-    "Lecture Kmutt/INT204/Recap/Repsitory.md",
-    "Lecture Kmutt/INT204/Recap/Error handle.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Pasted image 20240327153538.png",
     "obsidian-logo.png",
