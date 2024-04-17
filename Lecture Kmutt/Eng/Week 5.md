@@ -9,14 +9,10 @@ Find article to releated to question
 
 Find article to related about question 
 
-
-
 - This name of article
 - The author
 - Year 
 - Publisher
-
-
 
 **10 articles to read** and related for your question and summary
 

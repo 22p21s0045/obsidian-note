@@ -35,9 +35,11 @@
             "id": "9f51c76edcf4445d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/Eng/Week 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/Eng/Week 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/Eng/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/Eng/Week 5.md"
               }
             }
           }
@@ -175,9 +177,13 @@
   },
   "active": "9f51c76edcf4445d",
   "lastOpenFiles": [
+    "Lecture Kmutt/Eng/Week3.md",
+    "Lecture Kmutt/Eng/Limnaetal.2023-ChatGPT (2).pdf",
+    "Lecture Kmutt/Eng/Week 5.md",
+    "Lecture Kmutt/Eng/List question eng.md",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 4.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 2.md",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT210-LAB/lecture/lecture 3.md",
     "Lecture Kmutt/INT210-LAB/lecture/Image.md",
@@ -193,14 +199,12 @@
     "Lecture Kmutt/INT210-LAB/Recap",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 LAB/design AP.md",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Pasted Image 20240415205152_638.png",
-    "Lecture Kmutt/Eng/List question eng.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
     "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
@@ -210,8 +214,6 @@
     "Lecture Kmutt/INT204/Recap/Repsitory.md",
     "Lecture Kmutt/INT204/Recap/Error handle.md",
     "Lecture Kmutt/INT204/Recap/Repository.md",
-    "Lecture Kmutt/INT204/Recap/CRUD.md",
-    "Lecture Kmutt/INT204/Recap/Config.md",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Pasted image 20240327153538.png",
     "obsidian-logo.png",
