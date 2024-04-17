@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf"
+                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf"
               }
             }
           }
@@ -164,9 +164,10 @@
   "active": "bd800b44d3be91ce",
   "lastOpenFiles": [
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-07 Integrating Frontend and Backend.pdf",
     "Lecture Kmutt/INT210-LAB/materials/Deplooy.md",
     "Lecture Kmutt/INT210-LAB/Recap/Docker.md",
@@ -179,7 +180,6 @@
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
-    "Lecture Kmutt/INT208 LAB/materials/Aruba/Aruba_WiFi6_Networks_Deployment_Guide.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.md",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Pasted Image 20240415205152_638.png",
