@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/Recap/Docker.md",
+                "file": "Lecture Kmutt/Integrated project/Requirement.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd800b44d3be91ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+                "file": "Lecture Kmutt/Integrated project/Requirement.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+                "file": "Lecture Kmutt/Integrated project/Requirement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf"
+                "file": "Lecture Kmutt/Integrated project/Requirement.md"
               }
             }
           }
@@ -161,10 +150,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bd800b44d3be91ce",
+  "active": "16c55bff37a9bf39",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
+    "Lecture Kmutt/Integrated project/Requirement.md",
+    "Lecture Kmutt/Integrated project",
+    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-05 Hosting SPA with Vue.js and Vite v0.9 1.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Deploy server in container manually v0.9.pdf",
     "Lecture Kmutt/INT210-LAB/materials/2023-INT209-01 Introduction to Docker v0.9.1.pdf",
@@ -175,8 +166,6 @@
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
-    "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
@@ -204,7 +193,6 @@
     "Lecture Kmutt/INT204/Recap/Controller.md",
     "Lecture Kmutt/INT204/Recap/DTO.md",
     "Lecture Kmutt/INT204/Recap/Sorting.md",
-    "Lecture Kmutt/INT204/Recap/Entity.md",
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
