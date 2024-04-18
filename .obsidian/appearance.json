@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "theme": "system",
-  "textFontFamily": "Helvetica",
-  "interfaceFontFamily": ""
+  "textFontFamily": "Geist,Helvetica",
+  "interfaceFontFamily": "Geist"
 }
