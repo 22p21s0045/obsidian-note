@@ -47,7 +47,7 @@
 
 
 
-## Step convert anlog to digital
+## Step convert anlog to digital (PCM)
 1.  Sampling
 2. Quantizied
 3. Encoding

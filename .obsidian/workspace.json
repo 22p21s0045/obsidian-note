@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/Eng/Week 6.md",
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf"
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md"
               }
             }
           }
@@ -173,15 +173,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "01c3c5b346579861",
+  "active": "6d18f3f8efcad7df",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
     "Lecture Kmutt/Eng/Week 6.md",
-    "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+    "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Lecture Kmutt/Eng/Week 5.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
-    "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Pasted image 20240327153538.png",
