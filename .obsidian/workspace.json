@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+                "file": "Lecture Kmutt/Eng/Week 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md"
+                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf"
               }
             }
           }
@@ -173,15 +173,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6d18f3f8efcad7df",
+  "active": "01c3c5b346579861",
   "lastOpenFiles": [
+    "Lecture Kmutt/Eng/Week 6.md",
+    "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+    "Lecture Kmutt/Eng/Week 5.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
     "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
-    "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Pasted image 20240327153538.png",
     "Pasted Image 20240415205152_638.png",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
@@ -210,8 +212,6 @@
     "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
     "Excalidraw/Drawing 2024-04-18 22.34.31.excalidraw.md",
-    "Lecture Kmutt/INT208 LAB/design AP.md",
-    "Lecture Kmutt/INT210/Recap/Testing.md",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
