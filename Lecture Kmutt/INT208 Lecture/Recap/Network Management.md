@@ -11,6 +11,15 @@ SNMP is a protocol used for **network management** to monitor network-attached
 - SNMP is like a set of **standardized question**s a teacher (NMS) can ask the students to get information about their progress (device status).
 - The teacher then collects these answers, analyzes them, identifies any students who might be struggling, and takes necessary actions.
 - MIB acts like a **dictionary** for network devices. It defines the data available on the device, what each piece of data represents (e.g., CPU temperature, memory usage, interface errors), and how it's organized.
+	**SNMP Manager**
+	Manage SNMP agent
+	**Management Information Base (MIB)**
+	Specifies the **measurement variable**
+	
+![](https://i.imgur.com/1lqbnkB.png)
+
+
+![](https://i.imgur.com/LdXAXLr.png)
 
 
 ## Radius
@@ -35,6 +44,5 @@ After authentication, the authorization process enforces the network policies, g
 **Monitoring activity** of user
 
 [[wire-less]]
-
 
 
