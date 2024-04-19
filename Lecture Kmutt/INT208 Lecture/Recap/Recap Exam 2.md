@@ -18,6 +18,11 @@ Asymmetric key cryptography, also known as public-key cryptography, utilizes a p
 - Have OS to help config
 - SDN abstracts the underlying network infrastructure and provides a **centralized controller** that orchestrates network traffic flows and policies
 
+## ACL
+![](https://i.imgur.com/jQptnHu.png)
+
+
+
 ## Openflow
 - เป็น software ที่เข้ามาเเทรกอีกทีตามหลักการของ SDN
 
