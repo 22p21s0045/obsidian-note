@@ -22,6 +22,22 @@ SNMP is a protocol used for **network management** to monitor network-attached
 ![](https://i.imgur.com/LdXAXLr.png)
 
 
+## sFLow
+- เพิ่มมาจาก SNMP
+- Traffic monitoring
+
+
+>[!tip]
+>SFLOW for t**raffic monitoring**
+>SNMP for **device monitoring**
+
+## NTP (Network  time protocol)
+
+
+![](https://i.imgur.com/zDJcloY.png)
+
+
+
 ## Radius
 - RADIUS is a protocol that provides centralized authentication, authorization, and accounting (AAA) for network access.
 - It works by having a network device (like a router or switch) communicate with a RADIUS server to **verify a user's credentials** (username and password) before granting access to the network.
