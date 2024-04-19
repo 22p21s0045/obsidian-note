@@ -23,9 +23,21 @@
             "id": "6d18f3f8efcad7df",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01c3c5b346579861",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf"
+                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf"
               }
             }
           }
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf"
+                "file": "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md"
               }
             }
           }
@@ -163,17 +175,19 @@
   },
   "active": "6d18f3f8efcad7df",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+    "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+    "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
+    "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
+    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
+    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
     "Pasted image 20240327153538.png",
     "Pasted Image 20240415205152_638.png",
-    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
-    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
-    "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
-    "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
     "Lecture Kmutt/INT208 Lecture/Recap/().md",
     "Lecture Kmutt/INT210/Recap/Architecture Style.md",
     "Lecture Kmutt/INT210/lecture/lecture 4.md",
@@ -194,8 +208,6 @@
     "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-08-SoftwareTesting 1.2.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT209-02 Docker CLI Basics v0.9.5.pdf",
-    "Lecture Kmutt/INT210-LAB/materials/2023-INT210-06 Deploy Backend with Spring Boot and Maven v0.9.pdf",
     "Lecture Kmutt/INT208 LAB/lecture/lecture 4.md",
     "Excalidraw/Drawing 2024-04-18 22.34.31.excalidraw.md",
     "Lecture Kmutt/INT208 LAB/design AP.md",

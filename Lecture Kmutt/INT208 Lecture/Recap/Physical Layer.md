@@ -16,6 +16,17 @@
 
 - Distortion (สัญญาณเพี้ยน)
 - Noise 
+- Attenuation (สัญญาณที่หายไป)
+
+| Aspect           | Distortion                                      | Attenuation                                     |
+| ---------------- | ----------------------------------------------- | ----------------------------------------------- |
+| Definition       | Alteration or deformation of signal waveform    | Loss of signal strength or intensity            |
+| Effect           | Changes signal shape, timing, or frequency      | Reduces signal magnitude without altering shape |
+| Cause            | Nonlinearities, interference, limitations       | Resistance, absorption, spreading, scattering   |
+| Types            | Amplitude, phase, frequency distortion          | N/A                                             |
+| Impact on signal | Alters signal characteristics                   | Reduces signal strength                         |
+| Common in        | Electronic systems, transmission mediums        | Transmission mediums, communication systems     |
+| Measurement unit | Percentage, dB, THD (Total Harmonic Distortion) | dB (decibels), loss per unit length             |
 
 ![](https://i.imgur.com/iFMpRrN.png)
 
@@ -53,6 +64,7 @@
 | Bandwidth     | Theoretically unlimited                             | Limited by modal dispersion                  |
 | Cost          | More expensive                                      | Less expensive                               |
 | Light source  | Lasers                                              | LEDs or lasers                               |
+
 
 
 ![](https://i.imgur.com/K0ARtcP.png)
