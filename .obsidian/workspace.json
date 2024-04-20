@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dd67b7a4a655b1c9",
+        "id": "be72218b9a290008",
         "type": "tabs",
         "children": [
           {
-            "id": "e8088a74f284e308",
+            "id": "6e4bc1fd5ed699eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
+                "file": "Lecture Kmutt/INT210/materials/Note another.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d18f3f8efcad7df",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf"
-              }
-            }
-          },
-          {
-            "id": "01c3c5b346579861",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+                "file": "Lecture Kmutt/INT210/materials/Note another.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
+                "file": "Lecture Kmutt/INT210/materials/Note another.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf"
+                "file": "Lecture Kmutt/INT210/materials/Note another.md"
               }
             }
           }
@@ -171,45 +150,46 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6d18f3f8efcad7df",
+  "active": "82e47e395a9af147",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
+    "Lecture Kmutt/INT210/materials/Note another.md",
+    "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
+    "Excalidraw/Drawing 2024-04-18 22.34.31.excalidraw.md",
+    "Pasted Image 20240420211839_312.png",
+    "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
+    "Excalidraw/Music player hobby project.md",
+    "Excalidraw/MyTime mymap.md",
+    "Excalidraw/PlannetComponent.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Overview.md",
+    "Lecture Kmutt/Integrated project/Requirement.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Proxy Server.md",
+    "Google certificate/ConnectandProtect Networksand NetworkSecurity/Module-2/Network Protocol.md",
+    "Lecture Kmutt/INT208 Lecture/lecture/lecture 1.md",
+    "Docker Essential/Excalidraw/Docker Swarm.md",
+    "Docker Essential/Container orchestration.md",
+    "Docker Essential/Docker Registry.md",
+    "Docker Essential/LAB 1.md",
+    "Docker Essential/LAB 2.md",
+    "Docker Essential/Overview.md",
+    "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
+    "MyJourney.md",
+    "Pasted image 20240327153538.png",
+    "2024-03-27.md",
+    "Excalidraw/Recap Exam lab 1.md",
+    "Excalidraw/JWT token.md",
+    "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
+    "Pasted Image 20240415205152_638.png",
+    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 2.md",
-    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
-    "Lecture Kmutt/INT208 Lecture/Recap/wire-less.md",
-    "Lecture Kmutt/INT208 Lecture/lecture/lecture 3.md",
-    "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
-    "Lecture Kmutt/INT208 Lecture/Recap/Network Management.md",
-    "Lecture Kmutt/Eng/Week 6.md",
-    "Lecture Kmutt/Eng/Week 5.md",
-    "Lecture Kmutt/INT208 Lecture/Recap/Recap Exam 2.md",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
-    "Pasted image 20240327153538.png",
-    "Pasted Image 20240415205152_638.png",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
     "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
-    "Lecture Kmutt/INT208 Lecture/Recap/().md",
-    "Lecture Kmutt/INT210/Recap/Architecture Style.md",
-    "Lecture Kmutt/INT210/lecture/lecture 4.md",
-    "dependency-knowledge/Raid technology.md",
-    "Lecture Kmutt/INT210-LAB/Recap/Docker.md",
-    "Lecture Kmutt/INT210-LAB/Recap/Lecture.md",
-    "Lecture Kmutt/INT210/lecture/lecture 3.md",
-    "Lecture Kmutt/INT210/lecture/lecture 5.md",
     "Lecture Kmutt/INT210/materials/INT210-2023-05-06-Arch Styles-v1.02.pdf",
-    "Lecture Kmutt/INT210/lecture/lecture 2.md",
-    "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture-2.md",
-    "Lecture Kmutt/INT206/lecture/lecture 3.md",
-    "Lecture Kmutt/INT206/Backup and Recovery.md",
-    "Lecture Kmutt/INT206/Media Failures.md",
-    "Lecture Kmutt/INT206/lecture/lecture 1.md",
-    "Lecture Kmutt/INT206/lecture/Concurrency control.md",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 1.md",
-    "Lecture Kmutt/INT208 LAB/lecture/lecture 3.md",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
@@ -217,7 +197,6 @@
     "Pasted image 20240313094616.png",
     "attachment/Pasted image 20240229152339.png",
     "Pasted image 20240311111740.png",
-    "Pasted image 20240308131513.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
