@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT210/materials/Note another.md",
+                "file": "Lecture Kmutt/Integrated project/Requirement 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,14 +23,13 @@
             "id": "396440c6fba4806d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
+                "file": "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
+                "file": "Lecture Kmutt/Integrated project/Requirement 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
+                "file": "Lecture Kmutt/Integrated project/Requirement 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
+                "file": "Lecture Kmutt/Integrated project/Requirement 2.md"
               }
             }
           }
@@ -161,14 +160,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "82e47e395a9af147",
+  "active": "6e4bc1fd5ed699eb",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT210/materials/Note another.md",
+    "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
+    "Lecture Kmutt/Integrated project/Requirement 2.md",
+    "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated project/Requirement.md",
     "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "2024-03-27.md",
-    "Lecture Kmutt/INT210/materials/Note another.md",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
     "Lecture Kmutt/INT208 Lecture/Recap/Physical Layer.md",
@@ -191,8 +193,6 @@
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
     "MyJourney.md",
     "Pasted image 20240327153538.png",
-    "Excalidraw/Recap Exam lab 1.md",
-    "Excalidraw/JWT token.md",
     "Pasted Image 20240415205152_638.png",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
@@ -200,8 +200,6 @@
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/wireless LAN design -2_compressed.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/Link aggregation.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
