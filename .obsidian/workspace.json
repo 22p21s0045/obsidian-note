@@ -21,13 +21,14 @@
             "id": "396440c6fba4806d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf"
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf"
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
               }
             }
           }
@@ -158,11 +159,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6e4bc1fd5ed699eb",
+  "active": "396440c6fba4806d",
   "lastOpenFiles": [
+    "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
     "Lecture Kmutt/Integrated project/Requirement 2.md",
     "Lecture Kmutt/INT210/materials/Note another.md",
-    "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated project/Requirement.md",
     "Lecture Kmutt/Integrated project/Design-DevOps.md",
