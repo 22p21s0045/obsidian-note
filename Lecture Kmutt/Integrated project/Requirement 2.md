@@ -13,6 +13,8 @@
 - Exception handle in Front End (Cross Origin)
 - Use DTO
 - How to config default database use system time if field not have
+- Trim indent
+- Test case 2 
 
 >[!tip]
 >Focus is can see task
@@ -20,5 +22,6 @@
 ## PBI 2
 - If not have assignee not have it show not have UnAssignned
 - Can back to history use vue router
-- Time วัน/เดือน/ปี
+- '  '
+- Ti me วัน/เดือน/ปี
 
