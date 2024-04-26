@@ -11,9 +11,11 @@
             "id": "6e4bc1fd5ed699eb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md"
+                "file": "Lecture Kmutt/INT209/Single Repo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md",
+                "file": "Lecture Kmutt/INT209/Single Repo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md",
+                "file": "Lecture Kmutt/INT209/Single Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Essential/Excalidraw/Docker Swarm.md"
+                "file": "Lecture Kmutt/INT209/Single Repo.md"
               }
             }
           }
@@ -150,6 +152,9 @@
   },
   "active": "6e4bc1fd5ed699eb",
   "lastOpenFiles": [
+    "Docker Essential/Excalidraw/Docker Swarm.md",
+    "Lecture Kmutt/INT209/Single Repo.md",
+    "Lecture Kmutt/INT209",
     "Docker Essential/Container.md",
     "Docker Essential/LAB 1.md",
     "Docker Essential/Docker Registry.md",
@@ -179,8 +184,6 @@
     "dependency-knowledge/SIEM tools.md",
     "dependency-knowledge/SIEM dashboard.md",
     "dependency-knowledge/Raid technology.md",
-    "Docker Essential/Excalidraw/Docker Swarm.md",
-    "Excalidraw/JWT token.md",
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
@@ -189,7 +192,6 @@
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
     "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/Network Management.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
