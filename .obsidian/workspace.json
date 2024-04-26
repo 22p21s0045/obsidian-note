@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/INT209/Single Repo.md",
+                "file": "Lecture Kmutt/INT209/lecture 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0dde0358daf42217",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT209/Single Repo.md",
+                "file": "Lecture Kmutt/INT209/lecture 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT209/Single Repo.md",
+                "file": "Lecture Kmutt/INT209/lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT209/Single Repo.md"
+                "file": "Lecture Kmutt/INT209/lecture 1.md"
               }
             }
           }
@@ -152,8 +162,11 @@
   },
   "active": "6e4bc1fd5ed699eb",
   "lastOpenFiles": [
-    "Docker Essential/Excalidraw/Docker Swarm.md",
+    "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf",
+    "Pasted image 20240426171412.png",
+    "Lecture Kmutt/INT209/lecture 1.md",
     "Lecture Kmutt/INT209/Single Repo.md",
+    "Docker Essential/Excalidraw/Docker Swarm.md",
     "Lecture Kmutt/INT209",
     "Docker Essential/Container.md",
     "Docker Essential/LAB 1.md",
@@ -182,8 +195,6 @@
     "dependency-knowledge/VLAN set up.md",
     "dependency-knowledge/VLAN.md",
     "dependency-knowledge/SIEM tools.md",
-    "dependency-knowledge/SIEM dashboard.md",
-    "dependency-knowledge/Raid technology.md",
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
@@ -191,13 +202,11 @@
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
-    "Lecture Kmutt/INT208 LAB/materials/ACL_OSPF_compressed.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
     "Excalidraw/Drawing 2024-04-02 12.15.04.excalidraw.png",
     "Pasted image 20240313094616.png",
-    "attachment/Pasted image 20240229152339.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

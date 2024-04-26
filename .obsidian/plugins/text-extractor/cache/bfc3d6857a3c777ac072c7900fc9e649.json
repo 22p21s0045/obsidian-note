@@ -1,0 +1,1 @@
+{"path":"Pasted image 20240426171412.png","text":"CMD [\"executable\",\"paraml\", \"param2\"] # exec form # (exec form, as default parameters to ENTRYPOINT) CMD [\"paraml\",\"param2\"] CMD command paraml param2 # shell form","libVersion":"0.3.1","langs":"eng"}
