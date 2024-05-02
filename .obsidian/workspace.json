@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "be72218b9a290008",
+        "id": "417394b33e8f8075",
         "type": "tabs",
         "children": [
           {
-            "id": "6e4bc1fd5ed699eb",
+            "id": "c5ef5708f4d77ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement 2.md",
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0dde0358daf42217",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement 2.md",
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement 2.md",
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Requirement 2.md"
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md"
               }
             }
           }
@@ -160,8 +150,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6e4bc1fd5ed699eb",
+  "active": "c5ef5708f4d77ec9",
   "lastOpenFiles": [
+    "Google certificate/Assets, Threats, and Vulnerabilities/Overview.md",
+    "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
+    "Google certificate/Assets, Threats, and Vulnerabilities",
+    "Lecture Kmutt/Integrated project/Requirement 2.md",
     "Lecture Kmutt/INT203/lecture/lecture 5.md",
     "Lecture Kmutt/INT209/lecture 1.md",
     "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf",
@@ -193,16 +187,12 @@
     "dependency-knowledge/Authoriztion.md",
     "dependency-knowledge/Authentication.md",
     "dependency-knowledge/Aruba config trunk port.md",
-    "dependency-knowledge/VLAN set up.md",
-    "dependency-knowledge/VLAN.md",
-    "dependency-knowledge/SIEM tools.md",
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/Network security.pdf",
     "Lecture Kmutt/INT208 Lecture/materials/902_NMS.pdf",
-    "Lecture Kmutt/INT208 Lecture/materials/Cable.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
