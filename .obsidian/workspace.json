@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 200
   },
   "right": {
     "id": "ed28777957529bfc",
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +151,8 @@
   },
   "active": "c5ef5708f4d77ec9",
   "lastOpenFiles": [
+    "Lecture Kmutt/INT209/lecture 2.md",
+    "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf",
     "Lecture Kmutt/INT209/lecture 1.md",
     "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Pasted Image 20240503103927_026.jpg",
@@ -159,7 +162,6 @@
     "Google certificate/Assets, Threats, and Vulnerabilities",
     "Lecture Kmutt/Integrated project/Requirement 2.md",
     "Lecture Kmutt/INT203/lecture/lecture 5.md",
-    "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf",
     "Pasted image 20240426171412.png",
     "Lecture Kmutt/INT209/Single Repo.md",
     "Docker Essential/Excalidraw/Docker Swarm.md",
@@ -184,7 +186,6 @@
     "dependency-knowledge/Glossary terms from module 1.md",
     "dependency-knowledge/Framework.md",
     "dependency-knowledge/Encryption.md",
-    "dependency-knowledge/CAT.md",
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
