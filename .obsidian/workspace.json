@@ -11,11 +11,9 @@
             "id": "c5ef5708f4d77ec9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md"
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
               }
             }
           }
@@ -152,8 +150,11 @@
   },
   "active": "c5ef5708f4d77ec9",
   "lastOpenFiles": [
-    "Google certificate/Assets, Threats, and Vulnerabilities/Overview.md",
+    "Pasted Image 20240503103927_026.jpg",
+    "Lecture Kmutt/Integrated project/Requirement.md",
+    "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
+    "Google certificate/Assets, Threats, and Vulnerabilities/Overview.md",
     "Google certificate/Assets, Threats, and Vulnerabilities",
     "Lecture Kmutt/Integrated project/Requirement 2.md",
     "Lecture Kmutt/INT203/lecture/lecture 5.md",
@@ -184,9 +185,6 @@
     "dependency-knowledge/Framework.md",
     "dependency-knowledge/Encryption.md",
     "dependency-knowledge/CAT.md",
-    "dependency-knowledge/Authoriztion.md",
-    "dependency-knowledge/Authentication.md",
-    "dependency-knowledge/Aruba config trunk port.md",
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
