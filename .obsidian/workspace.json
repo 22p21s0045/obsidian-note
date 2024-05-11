@@ -11,9 +11,9 @@
             "id": "c5ef5708f4d77ec9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture Kmutt/INT209/2023-INT221-GUIDE-03-Nested Public Path.pdf"
+                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
               }
             }
           },
@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/INT209/2023-INT221-GUIDE-03-Nested Public Path.pdf",
+                "file": "Lecture Kmutt/INT209/2023-INT209-05-Reverse Proxy.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/INT209/2023-INT221-GUIDE-03-Nested Public Path.pdf",
+                "file": "Lecture Kmutt/INT209/2023-INT209-05-Reverse Proxy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/INT209/2023-INT221-GUIDE-03-Nested Public Path.pdf"
+                "file": "Lecture Kmutt/INT209/2023-INT209-05-Reverse Proxy.pdf"
               }
             }
           }
@@ -159,21 +160,22 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c5ef5708f4d77ec9",
+  "active": "67e546ec98103570",
   "lastOpenFiles": [
-    "Lecture Kmutt/INT209/2023-INT209-05-Reverse Proxy.pdf",
     "Lecture Kmutt/INT209/2023-INT221-GUIDE-03-Nested Public Path.pdf",
+    "Lecture Kmutt/INT209/2023-INT209-05-Reverse Proxy.pdf",
+    "Lecture Kmutt/Integrated project/Design-DevOps.md",
+    "Lecture Kmutt/Integrated project/Requirement.md",
+    "Lecture Kmutt/Integrated project/Requirement 2.md",
+    "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
     "Lecture Kmutt/INT209/lecture 1.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Overview.md",
-    "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Lecture Kmutt/INT209/2023-INT209-04 Run DB Container v0.9.1.pdf",
     "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf",
     "Lecture Kmutt/INT209/lecture 2.md",
     "Pasted Image 20240503103927_026.jpg",
-    "Lecture Kmutt/Integrated project/Requirement.md",
     "Google certificate/Assets, Threats, and Vulnerabilities",
-    "Lecture Kmutt/Integrated project/Requirement 2.md",
     "Lecture Kmutt/INT203/lecture/lecture 5.md",
     "Pasted image 20240426171412.png",
     "Lecture Kmutt/INT209/Single Repo.md",
@@ -193,7 +195,6 @@
     "attachment/Pasted image 20240227210649.png",
     "calendar/2024-03-26 Recap Server side.md",
     "calendar/2024-03-25 Recap Client Side.md",
-    "Lecture Kmutt/Integrated project/material/2023-INT221-Class 2-Sprint 1 Technical Requirements and guidelines.pdf",
     "dependency-knowledge/Link aggregation setup.md",
     "dependency-knowledge/Log.md",
     "dependency-knowledge/Glossary terms from module 1.md",
@@ -202,7 +203,6 @@
     "Lecture Kmutt/Integrated project/material",
     "Lecture Kmutt/Integrated-Project",
     "Lecture Kmutt/INT210/materials/INT210-2023-10-AT.pdf",
-    "Lecture Kmutt/INT208 Lecture/materials/101 Signal and Data Bandwidth Utilization v1.01.pdf",
     "Lecture Kmutt/INT208 LAB/design AP.png",
     "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "obsidian-logo.png",
