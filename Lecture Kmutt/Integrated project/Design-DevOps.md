@@ -1091,8 +1091,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 408086772,
+			"version": 129,
+			"versionNonce": 1558971357,
 			"isDeleted": false,
 			"id": "We0aKi4O",
 			"fillStyle": "solid",
@@ -1112,7 +1112,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715761354956,
+			"updated": 1716368354840,
 			"link": null,
 			"locked": false,
 			"fontSize": 171.29203037434735,
@@ -1873,8 +1873,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 58,
-			"versionNonce": 2036551756,
+			"version": 59,
+			"versionNonce": 984380531,
 			"isDeleted": false,
 			"id": "k7BhElIK",
 			"fillStyle": "solid",
@@ -1899,7 +1899,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715761354959,
+			"updated": 1716368354842,
 			"link": null,
 			"locked": false,
 			"fontSize": 49.10234354049561,
@@ -1915,8 +1915,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 1030859380,
+			"version": 159,
+			"versionNonce": 1809416253,
 			"isDeleted": false,
 			"id": "mAu1UmCq",
 			"fillStyle": "solid",
@@ -1936,7 +1936,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715761354960,
+			"updated": 1716368354843,
 			"link": null,
 			"locked": false,
 			"fontSize": 49.10234354049561,
@@ -2152,8 +2152,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 1274871727,
+			"version": 179,
+			"versionNonce": 410754227,
 			"isDeleted": false,
 			"id": "yE6SUVw1",
 			"fillStyle": "solid",
@@ -2173,7 +2173,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715929027487,
+			"updated": 1716368309280,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2185,7 +2185,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"containerId": null,
 			"originalText": "Reverse Proxy",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -2606,8 +2606,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 1041716929,
+			"version": 61,
+			"versionNonce": 2024500755,
 			"isDeleted": false,
 			"id": "sT2KbHSh",
 			"fillStyle": "solid",
@@ -2627,7 +2627,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715929027487,
+			"updated": 1716368354845,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2639,12 +2639,12 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"containerId": null,
 			"originalText": "80",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 270,
-			"versionNonce": 1364471855,
+			"version": 274,
+			"versionNonce": 1229683754,
 			"isDeleted": false,
 			"id": "qeR8YSpzi1tGW9se06cTs",
 			"fillStyle": "solid",
@@ -2666,7 +2666,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027537,
+			"updated": 1716369230763,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2789,8 +2789,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "arrow",
-			"version": 357,
-			"versionNonce": 391852143,
+			"version": 361,
+			"versionNonce": 1371929002,
 			"isDeleted": false,
 			"id": "n9t-a6MlkUQqJgXmeGG6d",
 			"fillStyle": "solid",
@@ -2812,7 +2812,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027537,
+			"updated": 1716369230764,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2887,8 +2887,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1388261839,
+			"version": 212,
+			"versionNonce": 1948253181,
 			"isDeleted": false,
 			"id": "85QZE0pS",
 			"fillStyle": "solid",
@@ -2908,7 +2908,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715929027487,
+			"updated": 1716368309280,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2920,7 +2920,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"containerId": null,
 			"originalText": "Reverse Proxy",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -3046,8 +3046,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 2108492875,
+			"version": 388,
+			"versionNonce": 38116150,
 			"isDeleted": false,
 			"id": "ortVZKKx",
 			"fillStyle": "solid",
@@ -3056,8 +3056,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8702.53139634448,
-			"y": 2883.415412413483,
+			"x": 8700.528239339914,
+			"y": 2884.4169527094527,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 332.3396911621094,
@@ -3067,7 +3067,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715699620909,
+			"updated": 1716369286596,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3228,8 +3228,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "rectangle",
-			"version": 487,
-			"versionNonce": 114911446,
+			"version": 489,
+			"versionNonce": 806865142,
 			"isDeleted": false,
 			"id": "Gvmb1DwefFOJR7_c37meU",
 			"fillStyle": "solid",
@@ -3238,8 +3238,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11188.02724947658,
-			"y": 2952.4478027486853,
+			"x": 11189.028866185177,
+			"y": 2953.449343044655,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 228.00018310546898,
@@ -3260,14 +3260,14 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715418065577,
+			"updated": 1716369324634,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 343,
-			"versionNonce": 2087630730,
+			"version": 345,
+			"versionNonce": 1600076342,
 			"isDeleted": false,
 			"id": "Qx4tubdi",
 			"fillStyle": "solid",
@@ -3276,8 +3276,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11256.097363612322,
-			"y": 2997.947814192777,
+			"x": 11257.09898032092,
+			"y": 2998.949354488747,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 91.85995483398438,
@@ -3287,7 +3287,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715418065577,
+			"updated": 1716369324634,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3303,8 +3303,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "arrow",
-			"version": 743,
-			"versionNonce": 1021350255,
+			"version": 749,
+			"versionNonce": 1693678890,
 			"isDeleted": false,
 			"id": "-2BIJI3ZAAE2AC4QYSRC1",
 			"fillStyle": "solid",
@@ -3318,7 +3318,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 905.3161152764314,
-			"height": 44.187523285586394,
+			"height": 45.651802319650415,
 			"seed": 276702998,
 			"groupIds": [],
 			"frameId": null,
@@ -3326,7 +3326,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027540,
+			"updated": 1716369339963,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3349,14 +3349,14 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				],
 				[
 					905.3161152764314,
-					44.187523285586394
+					45.651802319650415
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 446,
-			"versionNonce": 1770206794,
+			"version": 448,
+			"versionNonce": 1360284854,
 			"isDeleted": false,
 			"id": "DM6J85HJ",
 			"fillStyle": "solid",
@@ -3365,7 +3365,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8699.378003868178,
+			"x": 8699.378003868176,
 			"y": 2958.8050666636377,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3381,7 +3381,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715418065577,
+			"updated": 1716369601747,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3397,8 +3397,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "arrow",
-			"version": 334,
-			"versionNonce": 1277799254,
+			"version": 338,
+			"versionNonce": 2049251126,
 			"isDeleted": false,
 			"id": "LZr0oaXvA5E-d8ZslGANU",
 			"fillStyle": "solid",
@@ -3407,12 +3407,12 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9144.36706303566,
-			"y": 2969.8193566731525,
+			"x": 9144.367063035657,
+			"y": 2969.771873202449,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 461.29022676880595,
-			"height": 13.133971051335266,
+			"width": 461.29022676880777,
+			"height": 13.100244041299902,
 			"seed": 1105451414,
 			"groupIds": [],
 			"frameId": null,
@@ -3420,7 +3420,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715418065577,
+			"updated": 1716369601747,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3442,15 +3442,15 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					0
 				],
 				[
-					461.29022676880595,
-					-13.133971051335266
+					461.29022676880777,
+					-13.100244041299902
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 782,
-			"versionNonce": 1913508143,
+			"version": 788,
+			"versionNonce": 698081194,
 			"isDeleted": false,
 			"id": "4bkYNNvWv0wHQblxa9jJT",
 			"fillStyle": "solid",
@@ -3464,7 +3464,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 908.7188305977197,
-			"height": 8.735817570875042,
+			"height": 10.354218313230831,
 			"seed": 1252013782,
 			"groupIds": [],
 			"frameId": null,
@@ -3472,7 +3472,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027539,
+			"updated": 1716369339963,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3495,14 +3495,14 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				],
 				[
 					908.7188305977197,
-					8.735817570875042
+					10.354218313230831
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 680,
-			"versionNonce": 935710870,
+			"version": 681,
+			"versionNonce": 481189738,
 			"isDeleted": false,
 			"id": "JuVo67Qx_iLaxdb6FjWix",
 			"fillStyle": "solid",
@@ -3512,7 +3512,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"opacity": 100,
 			"angle": 0,
 			"x": 10764.748924651576,
-			"y": 2899.882670736219,
+			"y": 2901.6470423582928,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 224.00009155273432,
@@ -3549,14 +3549,14 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715418065577,
+			"updated": 1716369339963,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 556,
-			"versionNonce": 1823321034,
+			"version": 557,
+			"versionNonce": 1464001066,
 			"isDeleted": false,
 			"id": "oW7y83v0",
 			"fillStyle": "solid",
@@ -3566,7 +3566,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"opacity": 100,
 			"angle": 0,
 			"x": 10849.988998809291,
-			"y": 2945.382682180311,
+			"y": 2947.1470538023846,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 53.51994323730469,
@@ -3576,7 +3576,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715418065577,
+			"updated": 1716369339963,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3658,8 +3658,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 559994529,
+			"version": 266,
+			"versionNonce": 1285058717,
 			"isDeleted": false,
 			"id": "Mw6taCLM",
 			"fillStyle": "solid",
@@ -3679,7 +3679,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715929027487,
+			"updated": 1716368354847,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3691,12 +3691,12 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"containerId": null,
 			"originalText": "80",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 100,
-			"versionNonce": 1119231983,
+			"version": 101,
+			"versionNonce": 1004155827,
 			"isDeleted": false,
 			"id": "spFa7bN9",
 			"fillStyle": "solid",
@@ -3716,7 +3716,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715929027487,
+			"updated": 1716368354847,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3728,7 +3728,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"containerId": null,
 			"originalText": "1449",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -3807,8 +3807,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "arrow",
-			"version": 190,
-			"versionNonce": 1571832239,
+			"version": 196,
+			"versionNonce": 304200362,
 			"isDeleted": false,
 			"id": "kJkO2INNW9bJiGKNqjb4J",
 			"fillStyle": "solid",
@@ -3821,8 +3821,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"y": 3668.3615972019616,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 238.46568506836593,
-			"height": 638.9983025754591,
+			"width": 238.40974293619547,
+			"height": 637.2339309533854,
 			"seed": 685291018,
 			"groupIds": [],
 			"frameId": null,
@@ -3830,7 +3830,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027540,
+			"updated": 1716369339964,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3852,8 +3852,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					0
 				],
 				[
-					-238.46568506836593,
-					-638.9983025754591
+					-238.40974293619547,
+					-637.2339309533854
 				]
 			]
 		},
@@ -3896,8 +3896,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		},
 		{
 			"type": "arrow",
-			"version": 916,
-			"versionNonce": 1308680687,
+			"version": 926,
+			"versionNonce": 1677629482,
 			"isDeleted": false,
 			"id": "4FgbKupAAxCmj1OQEeC6m",
 			"fillStyle": "solid",
@@ -3907,11 +3907,11 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"opacity": 100,
 			"angle": 0,
 			"x": 10991.453072856737,
-			"y": 2918.6645286314006,
+			"y": 2919.7968133734826,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 186.2106074701369,
-			"height": 80.2291027455758,
+			"height": 81.09170770565379,
 			"seed": 138354966,
 			"groupIds": [],
 			"frameId": null,
@@ -3919,7 +3919,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027540,
+			"updated": 1716369339964,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3942,14 +3942,14 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				],
 				[
 					186.2106074701369,
-					-80.2291027455758
+					-81.09170770565379
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 984,
-			"versionNonce": 1985376815,
+			"version": 998,
+			"versionNonce": 929174954,
 			"isDeleted": false,
 			"id": "UIlal9dCCwROkwFjNe1Qy",
 			"fillStyle": "solid",
@@ -3959,11 +3959,11 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 			"opacity": 100,
 			"angle": 0,
 			"x": 10993.054721154902,
-			"y": 2990.9118820981485,
+			"y": 2992.174455465741,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 172.5133091103089,
-			"height": 23.64170637296047,
+			"width": 173.5149258189067,
+			"height": 23.527348409069873,
 			"seed": 246215446,
 			"groupIds": [],
 			"frameId": null,
@@ -3971,7 +3971,7 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715929027541,
+			"updated": 1716369339964,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3993,8 +3993,8 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 					0
 				],
 				[
-					172.5133091103089,
-					23.64170637296047
+					173.5149258189067,
+					23.527348409069873
 				]
 			]
 		},
@@ -4088,10 +4088,10 @@ ip23pl3.sit.kmutt.ac.th/task ^2tKIc3i4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1854.1250037909185,
-		"scrollY": 3262.0893143203425,
+		"scrollX": -8535.006745586887,
+		"scrollY": -2762.2501978423707,
 		"zoom": {
-			"value": 0.1
+			"value": 1.300371882503989
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
