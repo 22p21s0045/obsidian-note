@@ -36,3 +36,26 @@ spring.jpa.hibernate.naming.physical-strategy = org.hibernate.boot.model.naming.
 | `True`                 | `findByActiveTrue()`                                          | `… where x.active = true`                                          |
 | `False`                | `findByActiveFalse()`                                         | `… where x.active = false`                                         |
 | `IgnoreCase`           | `findByFirstnameIgnoreCase`                                   | `… where UPPER(x.firstname) = UPPER(?1)`                           |
+
+
+
+# Sorting and Pagination
+
+```java
+@Service  
+public class OrderService {  
+    @Autowired  
+    OrderRepository repository;  
+    public Page<Order> findAll(int pageNumber,int pageSize,String sortField, String sortDestination){  
+        Sort sort = Sort.by(sortField);  
+        if(sortDestination.equalsIgnoreCase("desc")){  
+            sort.descending();  
+        }  
+        else {  
+            sort.ascending();  
+        }  
+        Pageable pageable = PageRequest.of(pageNumber,pageSize,sort);  
+        return repository.findAll(pageable);  
+    }  
+}
+```
