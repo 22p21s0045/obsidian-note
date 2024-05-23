@@ -141,6 +141,17 @@ spring.servlet.multipart.enabled=true
 spring.servlet.multipart.max-file-size=10MB  
 spring.servlet.multipart.max-request-size=80MB  
 file.upload-dir=/public/classicmodels/uploads  
-spring.servlet.multipart.file-size- threshold=4KB  
-file.upload-dir=./product-images
+spring.servlet.multipart.file-size-threshold=4KB
+```
+
+
+# File upload (POJO class)
+
+```java
+@Getter  
+@Setter  
+@ConfigurationProperties(prefix = "file")  
+public class FileStorageProperties {  
+    private String uploadDir;  
+}
 ```
