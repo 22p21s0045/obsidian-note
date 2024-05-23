@@ -59,3 +59,71 @@ public class OrderService {
     }  
 }
 ```
+
+
+# Error Exception handle
+```java
+@ControllerAdvice  
+public class ExceptionAdvice {  
+    @ExceptionHandler(MethodArgumentTypeMismatchException.class)  
+    @ResponseStatus(HttpStatus.BAD_REQUEST)  
+    @ResponseBody  
+    public ResponseEntity handleTypeMisMatchException(MethodArgumentTypeMismatchException e, WebRequest request){  
+        ErrorResponse er = new ErrorResponse(HttpStatus.BAD_REQUEST.value(), "Invalid Parameter " + e.getName() + " must positive number",request.getDescription(false));  
+        return ResponseEntity.badRequest().body(er);  
+  
+  
+    }  
+  
+}
+```
+
+
+# Error Response object
+```java
+
+@Getter  
+@Setter  
+@RequiredArgsConstructor  
+@JsonInclude(JsonInclude.Include.NON_NULL)  
+public class ErrorResponse {  
+    private final int status;  
+    private final String message;  
+    private final String instance;  
+    private String stackTrace;  
+    private List<ValidationError> errors;  
+  
+    @Getter  
+    @Setter    @RequiredArgsConstructor    private static class ValidationError {  
+        private final String field;  
+        private final String message;  
+    }  
+  
+    public void addValidationError(String field, String message) {  
+        if (Objects.isNull(errors)) {  
+            errors = new ArrayList<>();  
+        }  
+        errors.add(new ValidationError(field, message));  
+    }  
+}
+```
+
+# Page With DTO
+
+```java
+@GetMapping  
+    public Page<OrderDto> findAllOrder(@RequestParam(defaultValue = "10") Integer pageNumber, @RequestParam(defaultValue = "10") Integer pageSize, @RequestParam(defaultValue = "id") String sortField, @RequestParam(defaultValue = "asc") String sortDestination) {  
+  
+  
+        if (pageNumber <= 0 || pageSize <= 0) {  
+            throw new InvalidParameter("Page Number and Page Size must be positive number");  
+        }  
+  
+  
+        Page<Order> orderPage = service.findAll(pageNumber, pageSize, sortField, sortDestination);  
+  
+        return (Page<OrderDto>) orderPage.map((element) -> mapper.map(element, OrderDto.class));  
+  
+    }  
+}
+```
