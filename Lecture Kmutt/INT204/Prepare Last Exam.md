@@ -133,3 +133,14 @@ public class ErrorResponse {
 ```xml
 <dependency> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-validation</artifactId> </dependency>
 ```
+
+
+# Config Upload file
+```java
+spring.servlet.multipart.enabled=true  
+spring.servlet.multipart.max-file-size=10MB  
+spring.servlet.multipart.max-request-size=80MB  
+file.upload-dir=/public/classicmodels/uploads  
+spring.servlet.multipart.file-size- threshold=4KB  
+file.upload-dir=./product-images
+```
