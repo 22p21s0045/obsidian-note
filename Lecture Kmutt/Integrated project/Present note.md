@@ -76,3 +76,75 @@ networks:
 ```
 
 
+# Dockerfile Database
+
+```Dockerfile
+FROM mysql/mysql-server:latest
+COPY ./my.cnf /etc/
+VOLUME ./mysql-lib /var/lib/mysql
+COPY ./setup/db-script-v2.sql /docker-entrypoint-initdb.d/
+ENV  MYSQL_ROOT_PASSWORD=mysql@sit
+ENV LANG=C.UTF-8
+EXPOSE 3306
+```
+
+
+# Dockerfile Backend
+```Dockerfile
+FROM maven:3.8.3-openjdk-17
+COPY . /backendAPI
+WORKDIR /backendAPI
+RUN mvn clean package
+CMD java -jar $(find /backendAPI/target -name '*.jar')
+EXPOSE 8080
+```
+
+# Config Proxy
+```nginx
+#From Edge network
+server {
+    listen 80;
+    server_name intproj23.sit.kmutt.ac.th;
+
+    location / {
+        proxy_pass http://frontend:1449;
+
+        
+    } 
+    
+
+}
+
+server {
+    listen 8080;
+    server_name intproj23.sit.kmutt.ac.th;
+    location /v2/ {
+        proxy_pass http://backend:8080;
+    }
+}
+
+
+# From Kmutt Network
+
+server {
+    listen 80;
+    server_name ip23tt1.sit.kmutt.ac.th;
+
+    location / {
+        rewrite ^/tt1/(.*)$ /$1 break;
+        proxy_pass http://frontend:1449;
+
+        
+    } 
+    
+
+}
+
+server {
+    listen 8080;
+    server_name ip23tt1.sit.kmutt.ac.th;
+    location /v2/ {
+        proxy_pass http://backend:8080;
+    }
+}
+```
