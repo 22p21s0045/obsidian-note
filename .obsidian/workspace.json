@@ -31,9 +31,11 @@
             "id": "a58beca651ef76d5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
+                "file": "Lecture Kmutt/Integrated project/Present note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
+                "file": "Lecture Kmutt/Integrated project/Present note.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md",
+                "file": "Lecture Kmutt/Integrated project/Present note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Kmutt/Integrated project/Design-DevOps.md"
+                "file": "Lecture Kmutt/Integrated project/Present note.md"
               }
             }
           }
@@ -173,6 +175,9 @@
   "active": "a58beca651ef76d5",
   "lastOpenFiles": [
     "Lecture Kmutt/Integrated project/Requirement 2.md",
+    "Lecture Kmutt/Integrated project/Present note.md",
+    "Lecture Kmutt/Integrated project/Design-DevOps.png",
+    "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Lecture Kmutt/INT204/Prepare Last Exam.md",
     "Lecture Kmutt/INT209/2023-INT209-04 Run DB Container v0.9.1.pdf",
     "Lecture Kmutt/INT209/2023-INT209-03 Build Docker Images v0.9.1.pdf",
@@ -186,7 +191,6 @@
     "Lecture Kmutt/INT204/materials/05-INT204-Spring-boot-JPAQuery-with-PaginationAndSorting.pdf",
     "Lecture Kmutt/INT204/Spring Restful API DTO.md",
     "Lecture Kmutt/INT204/lecture/lecture 3.md",
-    "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Lecture Kmutt/Integrated project/material/Store Dockerfile.md",
     "Excalidraw/Drawing 2024-03-06 15.52.19.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
@@ -216,7 +220,6 @@
     "Pasted Image 20240420211839_312.png",
     "attachment/Pasted image 20240227210649.png",
     "Lecture Kmutt/INT208 LAB/design AP.png",
-    "Lecture Kmutt/exam schedule/IMG_8060.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
