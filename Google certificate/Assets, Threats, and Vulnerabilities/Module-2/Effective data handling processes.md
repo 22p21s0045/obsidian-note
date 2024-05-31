@@ -38,3 +38,17 @@ safe handling, transport, and storage
 of information
 
 
+## **Personally Identifiable Information (PII)** 
+refers to any data that can be used to identify a specific individual. This information can be used on its own or in combination with other information to recognize, locate, or contact a person. Protecting <span style="background:#fff88f">PII is crucial because it can be exploited for identity </span>theft, fraud, and other malicious activities
+
+## Public 
+
+![](https://i.imgur.com/YiYgIat.png)
+
+
+>[!tip]
+>Hash function
+An algorithm that produces a
+ode that can't
+be decrypted
+
