@@ -47,8 +47,16 @@ refers to any data that can be used to identify a specific individual. This info
 
 
 >[!tip]
->Hash function
+>**Hash function**
 An algorithm that produces a
 ode that can't
 be decrypted
 
+
+# Single Sign-On (SSO)
+is a technology that combines several different logins into one. More companies are turning to SSO as a solution to their authentication needs for three reasons:
+
+
+## MFA to the rescue
+
+**Multi-factor authentication** (MFA) requires a user to verify their identity in two or more ways to access a system or network. In a sense, MFA is similar to using an ATM to withdraw money from your bank account. First, you insert a debit card into the machine as one form of identification. Then, you enter your PIN number as a second form of identification. Combined, both steps, or factors, are used to verify your identity before authorizing you to access the account.
