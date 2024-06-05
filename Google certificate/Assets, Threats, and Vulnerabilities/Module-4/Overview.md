@@ -1,0 +1,5 @@
+- What you'll learn
+- Social engineering
+- Malware
+- Web-based exploits
+- Threat modeling process
