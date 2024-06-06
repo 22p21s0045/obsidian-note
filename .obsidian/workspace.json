@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Sound the Alarm Detection and Response/Module-1/Overview.md",
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md"
+              }
             }
           }
         ],
@@ -157,8 +160,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "56653c9bc229d3da",
+  "active": "7a68d6741e85ef14",
   "lastOpenFiles": [
+    "Google certificate/Sound the Alarm Detection and Response/Module-1/Incident response plan.md",
+    "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-1/Overview.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
     "Google certificate/Play It Safe Manage Security Risks/module-1/NIST’s Risk Management Framework.md",
@@ -194,8 +199,6 @@
     "Excalidraw/Drawing 2024-03-21 10.41.13.excalidraw.md",
     "Excalidraw/Drawing 2024-03-25 21.10.50.excalidraw.md",
     "Excalidraw/Drawing 2024-03-27 15.22.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-18 22.34.31.excalidraw.md",
-    "Excalidraw/JWT token.md",
     "Pasted Image 20240511145954_531.png",
     "Pasted Image 20240511133807_313.png",
     "Pasted Image 20240503103927_026.jpg",

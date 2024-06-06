@@ -9,7 +9,7 @@
 - Server backup
 **
 ![](https://i.imgur.com/UN1hXGG.png)
-[[SIEM tools]]
+[[dependency-knowledge/SIEM tools]]
 #tips 
 > [!tip]
 > Each subnet cannot access other subnet for security
