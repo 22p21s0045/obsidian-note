@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Overview.md",
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Thread Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Overview.md",
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Thread Modeling.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Overview.md",
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Thread Modeling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Overview.md"
+                "file": "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Thread Modeling.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,6 +153,8 @@
   },
   "active": "2d2dd4ef710edfa2",
   "lastOpenFiles": [
+    "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Malware.md",
+    "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Thread Modeling.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Social Engineering.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Overview.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
@@ -188,10 +190,8 @@
     "Excalidraw/Music player hobby project.md",
     "Excalidraw/MyTime mymap.md",
     "Excalidraw/PlannetComponent.md",
-    "Excalidraw/Recap Exam lab 1.md",
     "Pasted Image 20240511145954_531.png",
     "Pasted Image 20240511133807_313.png",
-    "Lecture Kmutt/INT209/lecture 1.md",
     "Pasted Image 20240503103927_026.jpg",
     "Pasted image 20240426171412.png",
     "Pasted image 20240327153538.png",
