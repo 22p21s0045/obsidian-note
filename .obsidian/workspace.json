@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "732f9c91c7d55fd9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240327153538.png"
               }
             }
           },
@@ -40,17 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "56653c9bc229d3da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md"
+              }
             }
           }
         ],
@@ -179,17 +164,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "56653c9bc229d3da",
+  "active": "7a68d6741e85ef14",
   "lastOpenFiles": [
-    "Planning Year 3.md",
+    "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
     "Pasted image 20240327153538.png",
+    "Planning Year 3.md",
     "Pasted Image 20240415205152_638.png",
     "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-2/Indicators of compromise (IOC).md",
     "Google certificate/Sound the Alarm Detection and Response/Module-3",
     "Google certificate/Sound the Alarm Detection and Response/Untitled.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-1/Overview.md",
-    "Google certificate/Sound the Alarm Detection and Response/Module-1/SIEM Tools.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-2",
     "Google certificate/Sound the Alarm Detection and Response/Module-1/Incident response plan.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-1.md",
