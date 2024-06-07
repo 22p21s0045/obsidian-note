@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning Year 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning Year 3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Planning Year 3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,10 +179,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "eaf02cffd8e3c0e0",
+  "active": "56653c9bc229d3da",
   "lastOpenFiles": [
-    "Pasted image 20240327153538.png",
     "Planning Year 3.md",
+    "Pasted image 20240327153538.png",
     "Pasted Image 20240415205152_638.png",
     "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-2/Indicators of compromise (IOC).md",
