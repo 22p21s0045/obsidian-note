@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "29076c7a0f65f236",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "eaf02cffd8e3c0e0",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7a68d6741e85ef14",
+  "active": "29076c7a0f65f236",
   "lastOpenFiles": [
     "Google certificate/Sound the Alarm Detection and Response/Module-3/OverView.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-4/overview.md",
