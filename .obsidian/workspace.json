@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google certificate/Put It to Work/Moduel-2/Overview.md",
+                "file": "Google certificate/Put It to Work/Module-4/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google certificate/Put It to Work/Moduel-2/Overview.md",
+                "file": "Google certificate/Put It to Work/Module-4/Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google certificate/Put It to Work/Moduel-2/Overview.md",
+                "file": "Google certificate/Put It to Work/Module-4/Overview.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google certificate/Put It to Work/Moduel-2/Overview.md"
+                "file": "Google certificate/Put It to Work/Module-4/Overview.md"
               }
             }
           }
@@ -154,8 +154,12 @@
   },
   "active": "d1ee4c4c894b9656",
   "lastOpenFiles": [
-    "Google certificate/Put It to Work/Module-1/Overview.md",
+    "Google certificate/Put It to Work/Module-3/Overview.md",
+    "Google certificate/Put It to Work/Module-4/Overview.md",
+    "Google certificate/Put It to Work/Module-4",
     "Google certificate/Put It to Work/Moduel-2/Overview.md",
+    "Google certificate/Put It to Work/Module-3",
+    "Google certificate/Put It to Work/Module-1/Overview.md",
     "Google certificate/Put It to Work/Moduel-2",
     "Google certificate/Put It to Work/Overview.md",
     "Google certificate/Put It to Work/Module-1",
@@ -179,11 +183,9 @@
     "Google certificate/Play It Safe Manage Security Risks/module-1/NIST’s Risk Management Framework.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Thread Modeling.md",
     "Google certificate/Sound the Alarm Detection and Response/Module-1",
-    "Google certificate/Sound the Alarm Detection and Response",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Malware.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Social Engineering.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-4/Overview.md",
-    "Google certificate/Assets, Threats, and Vulnerabilities/Module-4",
     "Google certificate/Assets, Threats, and Vulnerabilities/Overview.md",
     "Lecture Kmutt/Integrated project/Design-DevOps.md",
     "Lecture Kmutt/Integrated project/Requirement.md",
@@ -191,8 +193,6 @@
     "Lecture Kmutt/Integrated project/Design-DevOps.png",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-3/Overview.md",
     "Google certificate/Assets, Threats, and Vulnerabilities/Module-2/Effective data handling processes.md",
-    "Google certificate/Assets, Threats, and Vulnerabilities/Module-2/Overview.md",
-    "Lecture Kmutt/Integrated project/Present note.md",
     "Pasted Image 20240511145954_531.png",
     "Pasted Image 20240511133807_313.png",
     "Pasted Image 20240503103927_026.jpg",
